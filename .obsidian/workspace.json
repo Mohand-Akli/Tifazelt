@@ -11,14 +11,14 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "GDD/06_Direction_Artistique/14. Charte Graphique.md",
-                "mode": "source",
-                "source": false
+                "aFile": "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+                "bFile": "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "14. Charte Graphique"
+              "icon": "diff",
+              "title": "Diff: 2. Economie Et Formules Et Reste  (Working Tree)"
             }
           }
         ]
@@ -189,36 +189,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
-      "obisidian-note-linker:Note Linker": false,
-      "phrasesync:Reload PhraseSync": false,
       "obsidian-importer:Importer des notes": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ed183fe99fee4c",
+  "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
-    "GDD/EZBUIV B2BP N2B90UV2.md",
-    "assets/ui/Exemple de menu.png",
+    "GDD/04_Joueur_et_PNJ/10. PNJ.md",
+    "GDD/03_Tifazelts_et_Combats/9. Table des types.md",
+    "GDD/02_Univers_et_Lore/4. Quêtes Dans L'Aventure.md",
+    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
     "GDD/06_Direction_Artistique/14. Charte Graphique.md",
+    "GDD/EZBUIV B2BP N2B90UV2.md",
     "GDD/05_Inventaire/13. Objets.md",
     "GDD/04_Joueur_et_PNJ/12. Joueur.md",
     "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
-    "GDD/04_Joueur_et_PNJ/10. PNJ.md",
-    "GDD/03_Tifazelts_et_Combats/9. Table des types.md",
     "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
     "GDD/02_Univers_et_Lore/6. Personnages.md",
     "GDD/02_Univers_et_Lore/5. Monde.md",
-    "GDD/02_Univers_et_Lore/4. Quêtes Dans L'Aventure.md",
     "GDD/01_Game_Design_Core/3. Mécanique.md",
-    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
     "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
     "src",
     "dossier sans titre",
@@ -241,6 +238,7 @@
     "GDD/03_Tifazelts_et_Combats",
     "GDD/02_Univers_et_Lore",
     "GDD/01_Game_Design_Core",
+    "assets/ui/Exemple de menu.png",
     "assets/Exemple de menu.png",
     "Exemple de menu.png",
     "Sans titre.canvas"
