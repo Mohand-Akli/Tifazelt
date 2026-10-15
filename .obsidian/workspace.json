@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "??",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4641de6cbf8334",
+  "active": "e84df9b8476a3b25",
   "lastOpenFiles": [
+    "assets/ui/Exemple de menu.png",
+    "GDD/06_Direction_Artistique/14. Charte Graphique.md",
     "GDD/05_Inventaire/13. Objets.md",
     "GDD/04_Joueur_et_PNJ/12. Joueur.md",
     "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
@@ -219,7 +221,6 @@
     "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
     "src",
     "dossier sans titre",
-    "GDD/06_Direction_Artistique/14. Charte Graphique.md",
     "GDD/06_Direction_Artistique",
     "GDD/dossier sans titre",
     "GDD/05_Inventaire",
@@ -235,12 +236,10 @@
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclat surnaturel.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclaboussure.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/échange Non-Marchand.md",
-    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Éruption Infernal.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques",
     "GDD/03_Tifazelts_et_Combats",
     "GDD/02_Univers_et_Lore",
     "GDD/01_Game_Design_Core",
-    "assets/ui/Exemple de menu.png",
     "assets/Exemple de menu.png",
     "Exemple de menu.png",
     "Sans titre.canvas"
