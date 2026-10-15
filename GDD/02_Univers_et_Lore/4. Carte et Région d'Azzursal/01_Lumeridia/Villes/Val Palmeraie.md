@@ -12,7 +12,7 @@ aliases:
 # 🟢 Val Palmeraie
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 1]] (Nord, venant de Bourg-Azur), [[Route 2]] (Sud, menant vers Cité Ocre)
+* **Connexions :** [[Route 1]] (Est, venant de Bourg-Azur), [[Route 2]] (Nord, menant vers Cité Ocre)
 * **Bâtiments majeurs :** [[#🔬 Laboratoire Arid|Laboratoire Arid]], [[#🏥 Pavillon Médical de l'Oasis (Infirmerie)|Pavillon Médical de l'Oasis]], [[#🛒 Comptoir Botanique (Magasin)|Comptoir Botanique]], [[#☕ Salon de Thé des Dattiers (Restaurant)|Salon de Thé des Dattiers]], [[#🛡️ Antenne de l'Oasis (Guilde des Dresseurs)|Antenne de l'Oasis]], [[#🌿 Serres & Palmeraie Expérimentale (Pâturage)|Serres & Palmeraie Expérimentale]]
 
 ## 🌅 Rôle et Ambiance
@@ -32,11 +32,11 @@ aliases:
   * Lanternes solaires chaleureuses accrochées aux stipes des palmiers.
 
 ## 🗺️ Plan & Quartiers
-* **L'Allée des Palmes (Nord) :** Longue avenue bordée de dattiers accueillant les voyageurs descendant de la [[Route 1]].
+* **L'Allée des Palmes (Est) :** Longue avenue bordée de dattiers accueillant les voyageurs arrivant de la [[Route 1]].
 * **L'Esplanade des Savoirs (Cœur de la Ville) :** Grande place circulaire dallée entourant un bassin d'eau claire rafraîchissant, dominée par le grand dôme du [[#🔬 Laboratoire Arid|Laboratoire Arid]].
 * **Le Quartier des Pépinières (Est) :** Secteur agronomique abritant les serres d'expérimentation, les étals de graines et le Pâturage.
 * **Le Faubourg des Fontaines (Ouest) :** Zone résidentielle calme où logent les assistants de recherche, les botanistes et les artisans vanniers.
-* **La Porte du Sirocco (Sud) :** Sortie sud encadrée de murets de pisé, ouvrant sur la transition paysagère plus aride de la [[Route 2]].
+* **La Porte du Sirocco (Nord) :** Sortie nord encadrée de murets de pisé, ouvrant sur la transition paysagère plus aride de la [[Route 2]].
 
 ## 📍 Lieux Intérieurs & Bâtiments
 ### 🔬 Laboratoire Arid
@@ -71,7 +71,7 @@ aliases:
 * **Particularité :** Emplacement idéal pour la convalescence et l'épanouissement des Tifazelts de type Plante, Insecte et Terre, favorisant un gain de Bonheur constant.
 
 ## ⚙️ Technique & Navigation (Roblox)
-* **Points d'apparition :** À la lisière nord de l'Allée des Palmes (arrivée depuis la Route 1).
+* **Points d'apparition :** À la lisière est de l'Allée des Palmes (arrivée depuis la Route 1).
 * **Atmosphère visuelle (Lighting) :** Ambiance tamisée sous le feuillage (*leaf shadows* dynamiques), rayons de soleil filtrant à travers les branches et reflets mouvants de l'eau sur les murs en pisé.
 * **Bande-son :** Thème paisible et savant, mêlant flûte ney feutrée, percussions douces et cordes pincées de kanun, adouci par le bruit continu des rigoles d'eau.
 

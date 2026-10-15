@@ -16,7 +16,7 @@ aliases:
 
 * **Type :** Fleuve majeur / Artère fluviale régionale
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions & Abords :** [[Route 3]] (Rive Ouest), [[Presqu'île Marine]] (Enclave insulaire centrale), [[Route 4]] (Rive Est), Embouchure vers [[Port-Saphir]]
+* **Connexions & Abords :** Source à la [[00_Province_Lumeridia#💧 Cascade|Cascade]] (nord), [[Presqu'île Marine]] (enclave centrale entourée par la boucle), franchi par les [[Route 3]] et [[Route 5]] ; un bras rejoint la mer au sud de [[Port-Saphir]], le bras principal se jette sur la côte est au nord de [[Bourg-Azur]]
 * **Écosystème majeur :** Milieu aquatique d'eau douce, méandres alluviaux, ripisylve dense et zones marécageuses
 
 ## 🌅 Rôle et Présentation

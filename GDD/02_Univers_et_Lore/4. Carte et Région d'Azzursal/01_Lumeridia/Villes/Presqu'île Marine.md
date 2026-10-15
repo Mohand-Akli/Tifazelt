@@ -12,7 +12,7 @@ aliases:
 # 🔵 Presqu'île Marine
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 3]] (Ouest, venant de Cité Ocre), [[Route 4]] (Est, menant à Port-Saphir), [[Asif-Safi]] (Fleuve entourant la localité)
+* **Connexions :** [[Route 3]] et [[Route 4]] (Nord-Est, par le carrefour central : Cité Ocre à l'ouest, Port-Saphir au nord-est), [[Asif-Safi]] (Fleuve entourant la localité)
 * **Bâtiments majeurs :** [[#🏥 Pavillon Fluvial de Soin (Infirmerie)|Pavillon Fluvial de Soin]], [[#🛒 Comptoir des Eaux Vives (Magasin)|Comptoir des Eaux Vives]], [[#☕ Auberge du Méandre (Restaurant)|Auberge du Méandre]], [[#🛡️ Relais Fluvial des Dresseurs (Guilde)|Relais Fluvial des Dresseurs]], [[#🌿 Enclos des Rives (Pâturage)|Enclos des Rives]]
 
 ## 🌅 Rôle et Ambiance
@@ -32,7 +32,7 @@ aliases:
   * Lanternes solaires flottantes illuminant le cours d'eau à la tombée de la nuit.
 
 ## 🗺️ Plan & Quartiers
-* **Le Pont Occidental (Pont d'Ocre) :** Pont de pierre en arc reliant la presqu'île à la rive ouest et à la [[Route 3]].
+* **Le Pont Occidental (Pont d'Ocre) :** Pont de pierre en arc reliant la presqu'île au nord-est et au carrefour central ([[Route 3]] et [[Route 4]]).
 * **Le Pont Oriental (Pont Saphir) :** Passerelle fortifiée ouvrant sur la berge est en direction de la [[Route 4]].
 * **L'Îlot Central (Le Tertre) :** Partie la plus élevée et insubmersible de la ville, regroupant les commerces et les services publics essentiels.
 * **La Rive aux Pêcheurs :** Quartier bas bordé de pontons d'amarrage pour barques à rames et plates fluviales.
@@ -63,7 +63,7 @@ aliases:
 * **Architecture :** Vaste enclos semi-aquatique alternant zones herbeuses marécageuses et bassins d'eau douce peu profonds, parfaits pour les Tifazelts d'eau douce et de milieu humide.
 
 ## ⚙️ Technique & Navigation (Roblox)
-* **Points d'apparition :** À l'entrée ouest du Pont d'Ocre (arrivée depuis la Route 3).
+* **Points d'apparition :** À l'entrée nord-est du Pont d'Ocre (arrivée depuis le carrefour central).
 * **Atmosphère visuelle :** Brume matinale légère se dissipant sur la rivière, reflets de l'eau sur les structures en bois et particules d'insectes luisants flottant au-dessus des roseaux le soir.
 * **Bande-son :** Mélodie apaisante dominée par des cordes pincées légères (oud doux) et flûtes pastorales (ney), soutenue par le clapotis constant de l'Asif-Safi.
 

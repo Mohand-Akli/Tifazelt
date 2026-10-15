@@ -11,8 +11,8 @@ aliases:
 # 🛤️ Route 5
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Départ (Ouest) :** [[Port-Saphir]]
-* **Arrivée (Est) :** [[Hameau-Doré]]
+* **Départ (Nord-Est) :** [[Port-Saphir]]
+* **Arrivée (Nord-Ouest, via le carrefour central) :** [[Hameau-Doré]]
 * **Connexions secondaires :** Anciennes fermes solaires, sentiers de transhumance
 * **Environnement majeur :** Vastes plaines ouvertes, prairies d'élevage dorées, champs de graminées et petits bosquets ombragés.
 

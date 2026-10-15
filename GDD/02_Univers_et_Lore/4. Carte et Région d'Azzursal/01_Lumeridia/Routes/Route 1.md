@@ -11,8 +11,8 @@ aliases:
 # 🛤️ Route 1
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Départ (Nord) :** [[Bourg-Azur]]
-* **Arrivée (Sud) :** [[Val Palmeraie]]
+* **Départ (Est) :** [[Bourg-Azur]]
+* **Arrivée (Ouest / Sud-Ouest) :** [[Val Palmeraie]]
 * **Environnement majeur :** Littoral méditerranéen en pente douce, vastes plaines verdoyantes et petit bosquet labyrinthique.
 
 ## 🌅 Rôle et Ambiance

@@ -13,11 +13,11 @@ aliases:
 
 * **Type :** Promontoire rocheux / Relief historique
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 6]] (Sentier d'ascension à l'ouest), [[Hameau-Doré]] (Plaine en contrebas), [[Repaire Glacitech]] (Sommet de la colline)
+* **Connexions :** [[Route 6]] (Sentier d'ascension au nord-ouest), [[Hameau-Doré]] (Plaine en contrebas), [[Repaire Glacitech]] (Sommet de la colline)
 * **Écosystème majeur :** Milieu rocailleux, pentes escarpées, ruines historiques et zones artificiellement réfrigérées
 
 ## 🌅 Rôle et Présentation
-* **Rôle dans l'aventure :** La Colline Ksar est le relief le plus important de l'est de la province. C'est un point de repère visible de loin, servant de transition abrupte entre la douceur du Hameau-Doré et le danger mécanique du Repaire ennemi. Le joueur doit en faire l'ascension pour progresser dans l'intrigue.
+* **Rôle dans l'aventure :** La Colline Ksar est le relief le plus important du nord de la province. C'est un point de repère visible de loin, servant de transition abrupte entre la douceur du Hameau-Doré et le danger mécanique du Repaire ennemi. Le joueur doit en faire l'ascension pour progresser dans l'intrigue.
 * **Histoire & Lore :** Autrefois, cette colline abritait un magnifique "Ksar" (village fortifié maghrébin) vieux de plusieurs siècles, servant de refuge et de point d'observation aux anciens dresseurs de Luméridia. Récemment, la Team Glacitech s'est appropriée le relief, rasant une partie des ruines pour y ancrer ses fondations en béton et ses générateurs cryogéniques.
 * **Ambiance :** Une ascension sous tension. Plus on monte, plus la nature chaleureuse de la région se meurt. Les roches brunes sont couvertes de givre anormal, le ciel s'assombrit et le vent siffle entre les falaises et les barbelés.
 

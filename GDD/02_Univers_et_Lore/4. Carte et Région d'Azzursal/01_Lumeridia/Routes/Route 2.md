@@ -11,8 +11,8 @@ aliases:
 # 🛤️ Route 2
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Départ (Nord) :** [[Val Palmeraie]]
-* **Arrivée (Sud) :** [[Cité Ocre]]
+* **Départ (Sud) :** [[Val Palmeraie]]
+* **Arrivée (Nord) :** [[Cité Ocre]]
 * **Connexions secondaires :** Accès aux contreforts menant à la [[Grotte Inconnue]]
 * **Environnement majeur :** Transition paysagère (savane sèche, canyons argileux, sols ocre), marquant le passage d'une végétation luxuriante à un climat semi-aride.
 
@@ -33,7 +33,7 @@ aliases:
 
 ### 🏜️ Partie 3 : La Steppe Ocre
 * **Description :** Le canyon s'ouvre sur une vaste étendue rocailleuse annonçant l'architecture de la prochaine ville. Le vent chaud (sirocco) soulève par moments de légers nuages de poussière.
-* **Particularité :** La visibilité peut baisser légèrement. Au loin, on aperçoit déjà le grand arc de la Porte du Nord de la Cité Ocre.
+* **Particularité :** La visibilité peut baisser légèrement. Au loin, on aperçoit déjà le grand arc de la Porte de la Palmeraie de la Cité Ocre.
 
 ## 🐾 Tifazelts Sauvages (Spawns)
 *Zone d'apparition principale : Les herbes sèches et les zones rocailleuses.*

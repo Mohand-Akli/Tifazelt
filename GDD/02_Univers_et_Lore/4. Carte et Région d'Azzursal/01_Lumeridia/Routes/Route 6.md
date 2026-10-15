@@ -11,8 +11,8 @@ aliases:
 # 🛤️ Route 6
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Départ (Ouest) :** [[Hameau-Doré]]
-* **Arrivée (Est / Sommet) :** [[Colline Ksar]] / [[Repaire Glacitech]]
+* **Départ (Nord-Ouest) :** [[Hameau-Doré]]
+* **Arrivée (Sud-Est / Sommet) :** [[Colline Ksar]] / [[Repaire Glacitech]]
 * **Connexions secondaires :** Anciennes corniches d'observation, sentiers d'éboulis
 * **Environnement majeur :** Ascension montagneuse abrupte, transition brutale entre plaine agricole chaleureuse et roches givrées par des installations cryogéniques ennemies.
 

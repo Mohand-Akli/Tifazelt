@@ -11,7 +11,8 @@ aliases:
 # 🔴 Bourg-Azur
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 1]]
+* **Position :** Côte sud-est de Luméridia Est, face à la mer (est et sud).
+* **Connexions :** [[Route 1]] (Ouest, vers Val Palmeraie)
 * **Bâtiments majeurs :** [[#🏥 Infirmerie Tifazelt|Infirmerie]], [[#🛒 Bazar de l'Azur (Magasin)|Bazar de l'Azur]], [[#☕ Café des Embruns|Café des Embruns]], [[#🛡️ Guilde des Dresseurs|Guilde des Dresseurs]], [[#🌿 Pâturage|Pâturage]]
 
 ## 🌅 Rôle et Ambiance
@@ -97,7 +98,7 @@ aliases:
 * **Équipement :** Enclos en bois avec portail, abri couvert, foin, abreuvoir, mangeoires et arbre d'ombrage. 
 
 ## ⚙️ Technique & Navigation (Roblox)
-* **Points d'apparition :** Le joueur apparaît dans la rue, devant sa maison (Rue des Lauriers).
+* **Points d'apparition :** Le joueur apparaît dans la rue, devant sa maison (Rue des Lauriers), tourné vers la place.
 * **Repères invisibles :**
   * Entrée de la maison du joueur, entrée/sortie du village vers la Route 1.
   * Points d'accueil intérieurs (Infirmerie, Bazar, Café, Guilde).

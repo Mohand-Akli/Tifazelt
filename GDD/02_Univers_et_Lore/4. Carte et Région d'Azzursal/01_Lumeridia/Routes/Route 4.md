@@ -11,8 +11,8 @@ aliases:
 # 🛤️ Route 4
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Départ (Ouest) :** [[Presqu'île Marine]] (via le Pont Saphir)
-* **Arrivée (Est) :** [[Port-Saphir]]
+* **Départ (Sud) :** [[Presqu'île Marine]] (via le Pont Saphir et le carrefour central)
+* **Arrivée (Nord-Est) :** [[Port-Saphir]]
 * **Connexions secondaires :** Sentiers côtiers menant à de petites criques, estuaire de l'[[Asif-Safi]]
 * **Environnement majeur :** Berges verdoyantes, collines ondulantes surplombant l'océan, et large route marchande pavée à l'approche du port.
 

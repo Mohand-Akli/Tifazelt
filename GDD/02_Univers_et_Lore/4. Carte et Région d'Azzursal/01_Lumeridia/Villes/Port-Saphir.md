@@ -11,7 +11,7 @@ aliases:
 # 🩵 Port-Saphir
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 4]] (Nord-Ouest, venant de la Presqu'île Marine), [[Route 5]] (Sud, vers le Hameau-Doré), [[Profondeurs Sous-Marines]] (Large / Est)
+* **Connexions :** [[Route 4]] et [[Route 5]] (Sud-Ouest, par le carrefour central vers la Presqu'île Marine et le Hameau-Doré), [[Profondeurs Sous-Marines]] (Large / Est)
 * **Bâtiments majeurs :** [[#🏥 Hôpital Maritime de Saphir (Infirmerie)|Hôpital Maritime de Saphir]], [[#🛒 Comptoir d'Armement Naval (Magasin)|Comptoir d'Armement Naval]], [[#☕ Taverne de l'Écume (Restaurant)|Taverne de l'Écume]], [[#🛡️ Capitainerie des Dresseurs (Guilde)|Capitainerie des Dresseurs]], [[#🌿 Bassins Côtiers du Pâturage|Bassins Côtiers du Pâturage]]
 
 ## 🌅 Rôle et Ambiance
@@ -34,8 +34,8 @@ aliases:
 * **La Grand-Darse (Quais Marchands) :** Cœur maritime de la ville. Docks où accostent bateaux de pêche, caravelles marchandes et ferries solaires. Toujours encombré de caisses et d'étals de poissonniers.
 * **L'Esplanade du Phare d'Albâtre :** Promontoire rocheux s'avançant dans l'océan, coiffé d'un phare majestueux servant de repère à toute la côte est.
 * **Le Quartier Haut (La Corniche) :** Zone résidentielle en amphithéâtre dominant le port, reliée aux quais par de grands escaliers de pierre blanche.
-* **La Porte des Méandres (Nord-Ouest) :** Sortie reliant la ville à la [[Route 4]] et à la boucle de l'Asif-Safi.
-* **La Porte des Plaines (Sud) :** Sortie large s'ouvrant sur la [[Route 5]] en direction du Hameau-Doré.
+* **La Porte des Méandres (Sud-Ouest) :** Sortie reliant la ville à la [[Route 4]] et à la boucle de l'Asif-Safi.
+* **La Porte des Plaines (Ouest) :** Sortie large s'ouvrant sur la [[Route 5]] en direction du Hameau-Doré.
 * **La Jetée des Plongeurs :** Ponton spécialisé équipé d'échelles de mise à l'eau et de stations de recharge en air pour accéder aux [[Profondeurs Sous-Marines]].
 
 ## 📍 Lieux Intérieurs & Bâtiments

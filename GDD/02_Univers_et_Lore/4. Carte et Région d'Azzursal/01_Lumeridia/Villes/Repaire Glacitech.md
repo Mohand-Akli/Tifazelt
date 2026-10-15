@@ -13,7 +13,7 @@ aliases:
 # 🩷 Repaire de la Team Glacitech (Colline Ksar)
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 6]] (Ouest, sentier escarpé descendant vers le Hameau-Doré)
+* **Connexions :** [[Route 6]] (Nord-Ouest, sentier escarpé descendant vers le Hameau-Doré)
 * **Type de zone :** Forteresse / Donjon hostile
 * **Bâtiments majeurs :** Check-point d'entrée, Cour Centrale du Ksar, Laboratoire Cryogénique, Centre de Détention, Générateur Principal
 

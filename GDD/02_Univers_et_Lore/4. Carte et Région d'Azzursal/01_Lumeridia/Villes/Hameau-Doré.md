@@ -12,7 +12,7 @@ aliases:
 # 🟡 Hameau-Doré
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 5]] (Ouest, vers Port-Saphir), [[Route 6]] (Est, vers la Colline Ksar)
+* **Connexions :** [[Route 5]] (Est, vers le carrefour central et Port-Saphir), [[Route 6]] (Sud-Est, vers la Colline Ksar)
 * **Bâtiments majeurs :** [[#🏥 Grange de Soin (Infirmerie)|Grange de Soin]], [[#🛒 Épicerie Rurale (Magasin)|Épicerie Rurale]], [[#☕ Auberge des Moissons (Restaurant)|Auberge des Moissons]], [[#🌿 Le Grand Pâturage Doré|Grand Pâturage Doré]]
 
 ## 🌅 Rôle et Ambiance
@@ -32,8 +32,8 @@ aliases:
 
 ## 🗺️ Plan & Quartiers
 * **La Place du Puits :** Un petit espace central avec un vieux puits en pierre converti en fontaine d'eau potable. C'est le lieu de rassemblement des villageois.
-* **Quartier des Moissons (Ouest) :** Zone résidentielle bordant les champs où se trouvent les maisons des fermiers et l'entrée depuis la [[Route 5]].
-* **Le Haut-Douar (Est) :** Quartier légèrement surélevé qui marque le début du sentier escarpé de la [[Route 6]] menant à la Colline Ksar.
+* **Quartier des Moissons (Est) :** Zone résidentielle bordant les champs où se trouvent les maisons des fermiers et l'entrée depuis la [[Route 5]].
+* **Le Haut-Douar (Sud-Est) :** Quartier légèrement surélevé qui marque le début du sentier escarpé de la [[Route 6]] menant à la Colline Ksar.
 * **La Colline aux Moulins :** Petite butte au nord du village accueillant de grands moulins solarpunk emblématiques du lieu.
 
 ## 📍 Lieux Intérieurs & Bâtiments
@@ -47,7 +47,7 @@ aliases:
 * **Intérieur (accessible) :** Des étagères débordantes de bocaux de miel, de céréales et de potions artisanales. Le comptoir est une grosse bille de bois poli. On y trouve d'excellents objets de soin naturels pour les Tifazelts.
 
 ### ☕ Auberge des Moissons (Restaurant)
-* **Emplacement :** Quartier Ouest, idéale pour les voyageurs arrivant de Port-Saphir.
+* **Emplacement :** Quartier Est, idéale pour les voyageurs arrivant de Port-Saphir.
 * **Intérieur (accessible) :** Une immense salle commune avec de longues tables en chêne, une grande cheminée en pierre et des guirlandes lumineuses dorées au plafond. On y sert des plats très nourrissants donnant de forts bonus d'XP ou de Bonheur.
 
 ### 🌿 Le Grand Pâturage Doré
@@ -56,7 +56,7 @@ aliases:
 * **Particularité :** C'est le lieu de prédilection des joueurs de classe **[[12. Joueur#Éleveur|Éleveur]]**. Les installations y sont massives : parcours d'obstacles, zones de brossage, immenses prairies clôturées. Laisser un Tifazelt ici garantit une montée de [[3. Mécanique#❤️ Bonheur|Bonheur]] plus rapide qu'ailleurs.
 
 ## ⚙️ Technique & Navigation (Roblox)
-* **Points d'apparition :** À l'entrée ouest du hameau (côté Route 5).
+* **Points d'apparition :** À l'entrée est du hameau (côté Route 5).
 * **Atmosphère :** Effet de lumière "God rays" (rayons de soleil volumétriques) très marqués, ciel toujours clair, petites particules de pollen doré flottant dans l'air.
 * **Bande-son :** Guitare acoustique, flûtes douces, et le son lointain du vent dans les blés. Une musique qui invite à s'arrêter et à souffler.
 

@@ -11,7 +11,7 @@ aliases:
 # 🟠 Cité Ocre
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
-* **Connexions :** [[Route 2]] (Nord, vers Val Palmeraie), [[Route 3]] (Est, vers Presqu'île Marine), Désert d'Ardusia (Sud)
+* **Connexions :** [[Route 2]] (Sud, vers Val Palmeraie), [[Route 3]] (Nord-Est, vers le carrefour central puis la Presqu'île Marine), Désert d'Ardusia (Sud)
 * **Bâtiments majeurs :** [[#🏥 Infirmerie Tifazelt (Style Ocre)|Infirmerie (Architecture Solarpunk/Passive)]], [[#🛒 Bazar Ocre (Le Grand Souk)|Bazar Ocre]], [[#🛡️ Guilde des Dresseurs (Annexe des Caravaniers)|Guilde des Caravaniers]], [[#🌿 Pâturage (Écuries du Désert)|Écuries du Désert]]
 
 ## 🌅 Rôle et Ambiance
@@ -31,9 +31,9 @@ aliases:
 ## 🗺️ Plan & Quartiers
 * **Place du Souk (Place Centrale) :** Immense marché en plein air couvert de grandes toiles colorées. Les marchands y exposent étoffes, épices et cristaux. C'est le cœur névralgique et économique de la ville.
 * **Quartier des Potiers et Forgerons :** Zone bruyante et animée où l'on trouve les ateliers d'artisanat. D'imposants fours à céramique et à métaux parsèment ce quartier.
-* **La Porte du Nord :** Arc monumental marquant l'arrivée depuis la [[Route 2]].
+* **La Porte de la Palmeraie (Sud) :** Arc monumental marquant l'arrivée depuis la [[Route 2]].
 * **La Porte d'Ardusia (Porte du Sud) :** Sortie fortifiée, massive et imposante, qui ouvre sur les prémices du désert.
-* **La Porte Fluviale :** Mène vers l'est et la [[Route 3]], en pente douce vers les rives de l'Asif-Safi.
+* **La Porte Fluviale :** Mène vers le nord-est et la [[Route 3]], en pente douce vers les rives de l'Asif-Safi.
 * **Belvédère des Sables :** Une haute tour de guet accessible offrant une vue panoramique sur les prémices des dunes du sud et sur les méandres de l'Asif-Safi à l'est.
 
 ## 📍 Lieux Intérieurs & Bâtiments
@@ -56,11 +56,11 @@ aliases:
 * **Intérieur (accessible) :** Décoré avec des trophées du désert et d'anciennes cartes de navigation terrestre. C'est ici que les dresseurs s'organisent avant d'affronter les zones hostiles.
 
 ### 🌿 Pâturage (Écuries du Désert)
-* **Emplacement :** Près de la Porte du Nord.
+* **Emplacement :** Près de la Porte de la Palmeraie.
 * **Équipement :** De grands enclos couverts par d'épaisses toiles pour protéger les Tifazelts du soleil cuisant. Abreuvoirs en pierre alimentés par des aqueducs souterrains.
 
 ## ⚙️ Technique & Navigation (Roblox)
-* **Points d'apparition :** À la Porte du Nord (si on arrive de la Route 2).
+* **Points d'apparition :** À la Porte de la Palmeraie (si on arrive de la Route 2).
 * **Atmosphère :** Effet de particules (légère poussière ocre dans l'air, mirages au loin vers le sud), éclairage chaleureux (teintes orangées/dorées prédominantes).
 * **Bande-son :** Musique utilisant des percussions légères (derbouka) et des instruments à vent orientaux, mêlée aux bruits de martèlement des forges.
 

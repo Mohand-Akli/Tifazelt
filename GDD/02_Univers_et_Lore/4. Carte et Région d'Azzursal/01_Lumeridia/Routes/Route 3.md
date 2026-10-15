@@ -12,7 +12,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Départ (Ouest) :** [[Cité Ocre]]
-* **Arrivée (Est) :** [[Presqu'île Marine]]
+* **Arrivée (Sud-Est, via le carrefour central) :** [[Presqu'île Marine]]
 * **Connexions secondaires :** Berges ouest de l'[[Asif-Safi]]
 * **Environnement majeur :** Descente argileuse, zones marécageuses, champs de roseaux et pontons de bois.
 
