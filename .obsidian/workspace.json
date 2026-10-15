@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+                "file": "GDD/02_Univers_et_Lore/5. Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Capacités des Tifazelts"
+              "title": "5. Monde"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+                "file": "GDD/02_Univers_et_Lore/5. Monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+                "file": "GDD/02_Univers_et_Lore/5. Monde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+                "file": "GDD/02_Univers_et_Lore/5. Monde.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,8 +204,8 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
-    "assets/ui/Tableau des caracteres.png",
     "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+    "assets/ui/Tableau des caracteres.png",
     "GDD/06_Direction_Artistique/14. Charte Graphique.md",
     "assets/ui/Capture_decran_2024-02-17_165246.png",
     "assets/Capture_decran_2024-02-17_165246.png",
