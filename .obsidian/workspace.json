@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/06_Direction_Artistique/14. Charte Graphique.md",
+                "file": "GDD/EZBUIV B2BP N2B90UV2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Charte Graphique"
+              "title": "EZBUIV B2BP N2B90UV2"
             }
           }
         ]
@@ -189,21 +189,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer un nouveau canvas": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
-      "obisidian-note-linker:Note Linker": false,
-      "phrasesync:Reload PhraseSync": false,
       "obsidian-importer:Importer des notes": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "GDD/06_Direction_Artistique/14. Charte Graphique.md",
+    "GDD/EZBUIV B2BP N2B90UV2.md",
     "GDD/05_Inventaire/13. Objets.md",
     "GDD/04_Joueur_et_PNJ/12. Joueur.md",
     "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
@@ -219,7 +219,6 @@
     "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
     "src",
     "dossier sans titre",
-    "GDD/06_Direction_Artistique/14. Charte Graphique.md",
     "GDD/06_Direction_Artistique",
     "GDD/dossier sans titre",
     "GDD/05_Inventaire",
@@ -235,7 +234,6 @@
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclat surnaturel.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclaboussure.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/échange Non-Marchand.md",
-    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Éruption Infernal.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques",
     "GDD/03_Tifazelts_et_Combats",
     "GDD/02_Univers_et_Lore",
