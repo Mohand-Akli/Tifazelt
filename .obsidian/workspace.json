@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base de données/13. Charte Graphique.md",
+                "file": "Base de données/9. Monde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Charte Graphique"
+              "title": "9. Monde"
             }
           }
         ]
@@ -204,8 +204,8 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "Base de données/14. Charte Graphique.md",
     "Base de données/13. Table des types.md",
-    "Base de données/13. Charte Graphique.md",
     "Base de données/10. Tifazelts.md",
     "Base de données/12. Capacités des Tifazelts.md",
     "Base de données/11. Personnages.md",
