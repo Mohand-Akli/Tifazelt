@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "GDD/06_Direction_Artistique/14. Charte Graphique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "14. Charte Graphique"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GDD/06_Direction_Artistique/14. Charte Graphique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GDD/06_Direction_Artistique/14. Charte Graphique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "GDD/06_Direction_Artistique/14. Charte Graphique.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,40 +204,45 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
-    "Base de données/9. Monde.md",
-    "LICENSE",
-    "README.md",
-    "readme (2).md",
-    "Base de données/1. Objets.md",
+    "GDD/05_Inventaire/13. Objets.md",
+    "GDD/04_Joueur_et_PNJ/12. Joueur.md",
+    "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
+    "GDD/04_Joueur_et_PNJ/10. PNJ.md",
+    "GDD/03_Tifazelts_et_Combats/9. Table des types.md",
+    "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+    "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
+    "GDD/02_Univers_et_Lore/6. Personnages.md",
+    "GDD/02_Univers_et_Lore/5. Monde.md",
+    "GDD/02_Univers_et_Lore/4. Quêtes Dans L'Aventure.md",
+    "GDD/01_Game_Design_Core/3. Mécanique.md",
+    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+    "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
+    "src",
+    "dossier sans titre",
+    "GDD/06_Direction_Artistique/14. Charte Graphique.md",
+    "GDD/06_Direction_Artistique",
+    "GDD/dossier sans titre",
+    "GDD/05_Inventaire",
+    "GDD/04_Joueur_et_PNJ",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/étreinte de peine.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/étreinte chitineuse.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/étau glacial.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/éruption tellurique.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/émanation venimeuse.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/électricité statique.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/éfleurement.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclipse Entomologique.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclat surnaturel.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/éclaboussure.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/échange Non-Marchand.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Éruption Infernal.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques",
+    "GDD/03_Tifazelts_et_Combats",
+    "GDD/02_Univers_et_Lore",
+    "GDD/01_Game_Design_Core",
+    "assets/ui/Exemple de menu.png",
+    "assets/Exemple de menu.png",
     "Exemple de menu.png",
-    "Base de données/14. Charte Graphique.md",
-    "Base de données/Liste des attaques/Abri Ralentisseur.md",
-    "Base de données/13. Table des types.md",
-    "Base de données/10. Tifazelts.md",
-    "Base de données/12. Capacités des Tifazelts.md",
-    "Base de données/11. Personnages.md",
-    "Base de données/8. Mécanique.md",
-    "Base de données/Liste des attaques/Absorption de Vie.md",
-    "Base de données/6. Economie Et Formules Et Reste.md",
-    "Base de données/5. Quêtes Dans L'Aventure.md",
-    "Base de données/7. Joueur.md",
-    "Base de données/4. Menus Et Interfaces.md",
-    "Base de données/3. Sanctuaire.md",
-    "Base de données/2. PNJ.md",
-    "Seraphina Mentalia.md",
-    "Cristalpina.md",
-    "Feu.md",
-    "Sans titre.base",
-    "CSV import.base",
-    "Base de données/Liste des attaques/Vortex Virtuel.md",
-    "Base de données/Liste des attaques/Paix Divine.md",
-    "Base de données/Liste des attaques/Défaitisme.md",
-    "Base de données/Liste des attaques/Incantation Astrale.md",
-    "Base de données/Liste des attaques",
-    "Base de données/Liste des attaques",
-    "Liste_des_Attaques.xlsx - Feuil1.csv",
-    "Sans titre 1.base",
-    "Sans titre.canvas",
-    "Base de données"
+    "Sans titre.canvas"
   ]
 }
