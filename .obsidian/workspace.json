@@ -11,10 +11,10 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/00_Province_Lumeridia.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Routes/Route 1.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Val Palmeraie.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Port-Saphir.md",
@@ -218,7 +219,6 @@
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/00_Province_Lumeridia.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Villes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Routes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Lieux_et_Reliefs",
