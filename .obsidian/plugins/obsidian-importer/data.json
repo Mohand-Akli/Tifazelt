@@ -1,0 +1,23 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "csv": {
+      "folder": "CSV import",
+      "attachments": {
+        "mode": "folder",
+        "path": "Liste des attaques"
+      },
+      "duplicates": "update",
+      "saveSourceId": true,
+      "template": "",
+      "inlineTemplate": "---\n{{source[\"Nom de l'attaque\"] | yaml_property:\"Nom de lattaque\"}}\n{{source[\"Type\"] | yaml_property:\"Type\"}}\n{{source[\"Catégorie\"] | yaml_property:\"Catégorie\"}}\n{{source[\"Puissance\"] | yaml_property:\"Puissance\"}}\n{{source[\"Précision\"] | yaml_property:\"Précision\"}}\n{{source[\"Page ?\"] | yaml_property:\"Page ?\"}}\n{{source[\"EM\"] | yaml_property:\"EM\"}}\n{{source[\"Effet De l'attaque (Invisible dans le jeu c'est utile que pour coder les effets des attaques)\"] | yaml_property:\"Effet De l'attaque (Invisible dans le jeu cest utile que pour coder les effets des attaques)\"}}\n{{source[\"Description de l'attaque visible en jeu\"] | yaml_property:\"Description de lattaque visible en jeu\"}}\n---",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "csv": "/Users/mohand-aklizidani/Downloads"
+  },
+  "lastSourceFolder": "/Users/mohand-aklizidani/Downloads"
+}

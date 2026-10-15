@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "01c1b5b12fe6f716",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fcd2fb84a7f2c32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4641de6cbf8334",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3498e3ebecdc017",
+    "type": "split",
+    "children": [
+      {
+        "id": "d642177ad906c9eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e84df9b8476a3b25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "f09c33d4c5b55f87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "07cf98c83b99efde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "811fb60bca278462",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d5bdb2e3203b02b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4889a9a1d6eca1e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sans titre 1.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "79a4d4caa7600de7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sans titre 1.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "3a988a6fdf78f086",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "891712ba0ef77bf1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "65fd1b1a88d88df3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sans titre 1.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          },
+          {
+            "id": "36ed183fe99fee4c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "obisidian-note-linker:Note Linker": false,
+      "phrasesync:Reload PhraseSync": false,
+      "obsidian-importer:Importer des notes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ed4641de6cbf8334",
+  "lastOpenFiles": [
+    "Base de données/Table des types.md",
+    "Base de données/9. Monde.md",
+    "Base de données/6. Economie Et Formules Et Reste.md",
+    "Base de données/5. Quêtes Dans L'Aventure.md",
+    "Base de données/1. Objets.md",
+    "Base de données/12. Capacités des Tifazelts.md",
+    "Base de données/11. Personnages.md",
+    "Base de données/10. Tifazelts.md",
+    "Base de données/8. Mécanique.md",
+    "Base de données/7. Joueur.md",
+    "Base de données/4. Menus Et Interfaces.md",
+    "Base de données/3. Sanctuaire.md",
+    "Base de données/2. PNJ.md",
+    "Seraphina Mentalia.md",
+    "Cristalpina.md",
+    "Feu.md",
+    "Sans titre.base",
+    "CSV import.base",
+    "Base de données/Liste des attaques/Abri Ralentisseur.md",
+    "Base de données/Liste des attaques/Vortex Virtuel.md",
+    "Base de données/Liste des attaques/Paix Divine.md",
+    "Base de données/Liste des attaques/Défaitisme.md",
+    "Base de données/Liste des attaques/Incantation Astrale.md",
+    "Base de données/Liste des attaques/Soin Lunaire.md",
+    "Base de données/Liste des attaques/échange Non-Marchand.md",
+    "Base de données/Liste des attaques/Pantin Aspirant.md",
+    "Base de données/Liste des attaques/Concentration Critique.md",
+    "Base de données/Liste des attaques/Pari Risqué.md",
+    "Base de données/Liste des attaques",
+    "Base de données/Liste des attaques",
+    "Liste_des_Attaques.xlsx - Feuil1.csv",
+    "Sans titre 1.base",
+    "Sans titre.canvas",
+    "Base de données"
+  ]
+}

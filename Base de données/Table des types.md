@@ -1,0 +1,174 @@
+Cette note répertorie les efficacités des types d'attaques (lignes) sur les types des Tifazelts défenseurs (colonnes).
+
+> [!info] Légende
+> - 🟩 : **Super efficace**
+> - 🟥 : **Pas très efficace**
+> - ⬛ : **Aucun effet (Immunité)**
+> - ⬜ : **Efficacité normale**
+
+## 1. Grille Visuelle
+
+| Attaque \ Défense | Plante | Eau | Feu | Électrique | Vent | Psy | Obscurité | Insecte | Fantome | Poison | Glace | Fée | Métal | Terre |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **[[#Plante\|Plante]]** | 🟥 | 🟩 | 🟥 | 🟩 | 🟥 | ⬜ | ⬜ | 🟥 | ⬜ | 🟥 | ⬜ | 🟩 | 🟥 | 🟩 |
+| **[[#Eau\|Eau]]** | 🟥 | 🟥 | 🟩 | 🟥 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬛ | 🟥 | ⬜ | 🟩 | 🟩 |
+| **[[#Feu\|Feu]]** | 🟩 | 🟥 | 🟥 | ⬜ | ⬜ | ⬜ | ⬜ | 🟩 | 🟥 | ⬜ | 🟩 | ⬜ | 🟩 | 🟥 |
+| **[[#Électrique\|Électrique]]** | 🟥 | 🟩 | ⬜ | 🟥 | 🟩 | ⬜ | 🟩 | ⬜ | ⬛ | ⬜ | ⬜ | ⬜ | 🟩 | ⬛ |
+| **[[#Vent\|Vent]]** | ⬜ | ⬜ | 🟩 | 🟥 | 🟩 | ⬜ | ⬜ | 🟩 | ⬜ | ⬜ | 🟥 | ⬜ | 🟥 | ⬜ |
+| **[[#Psy\|Psy]]** | ⬛ | ⬜ | ⬜ | ⬜ | 🟩 | ⬛ | ⬛ | ⬜ | 🟥 | 🟩 | ⬜ | 🟩 | ⬜ | ⬜ |
+| **[[#Obscurité\|Obscurité]]** | 🟩 | ⬜ | ⬜ | ⬜ | 🟥 | 🟩 | 🟥 | ⬛ | 🟩 | ⬜ | ⬜ | 🟥 | ⬜ | ⬜ |
+| **[[#Insecte\|Insecte]]** | 🟩 | ⬜ | 🟥 | ⬜ | 🟥 | 🟩 | 🟩 | ⬜ | ⬜ | 🟥 | ⬜ | 🟩 | ⬜ | ⬜ |
+| **[[#Fantome\|Fantome]]** | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 🟩 | ⬜ | ⬜ | 🟥 | ⬜ | ⬜ | ⬛ | ⬜ | ⬜ |
+| **[[#Poison\|Poison]]** | 🟩 | 🟩 | ⬜ | ⬜ | ⬛ | 🟥 | ⬜ | ⬜ | 🟥 | 🟥 | 🟩 | ⬜ | ⬛ | 🟥 |
+| **[[#Glace\|Glace]]** | ⬜ | 🟥 | 🟥 | ⬜ | 🟩 | ⬜ | ⬜ | 🟥 | ⬜ | ⬜ | 🟥 | ⬜ | 🟥 | 🟩 |
+| **[[#Fée\|Fée]]** | ⬜ | ⬜ | 🟥 | ⬜ | ⬜ | ⬛ | 🟩 | ⬜ | 🟩 | 🟥 | ⬜ | 🟥 | 🟥 | ⬜ |
+| **[[#Métal\|Métal]]** | ⬜ | 🟥 | 🟥 | 🟥 | ⬜ | 🟥 | ⬜ | ⬜ | ⬜ | ⬜ | 🟩 | 🟩 | 🟥 | ⬜ |
+| **[[#Terre\|Terre]]** | 🟥 | ⬜ | 🟩 | 🟩 | ⬛ | ⬜ | ⬜ | 🟥 | ⬛ | 🟩 | 🟥 | ⬜ | ⬜ | 🟥 |
+
+*Note : Le type **[[10. Tifazelts#🌌 Type Spécial : Réalité|Réalité]]** ne figure pas dans la grille car il n'a aucune faiblesse, aucune résistance, et inflige des dégâts neutres à tous les types.*
+
+---
+
+## 2. Détails par Type (Offensif & Défensif)
+
+Cette section utilise les liens d'Obsidian pour relier automatiquement cette base de données à vos fiches de types.
+
+### Plante
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Eau|Eau]], [[#Électrique|Électrique]], [[#Fée|Fée]], [[#Terre|Terre]]
+  * 🟥 **Pas très efficace contre :** [[#Plante|Plante]], [[#Feu|Feu]], [[#Vent|Vent]], [[#Insecte|Insecte]], [[#Poison|Poison]], [[#Métal|Métal]]
+  * ⬛ **Aucun effet sur :** *Aucun*
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Plante|Plante]], [[#Eau|Eau]], [[#Électrique|Électrique]], [[#Terre|Terre]]
+  * ⚠️ **Faible face à :** [[#Feu|Feu]], [[#Obscurité|Obscurité]], [[#Insecte|Insecte]], [[#Poison|Poison]]
+  * 🚫 **Immunisé contre :** [[#Psy|Psy]]
+
+### Eau
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Feu|Feu]], [[#Métal|Métal]], [[#Terre|Terre]]
+  * 🟥 **Pas très efficace contre :** [[#Plante|Plante]], [[#Eau|Eau]], [[#Électrique|Électrique]], [[#Glace|Glace]]
+  * ⬛ **Aucun effet sur :** [[#Poison|Poison]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Eau|Eau]], [[#Feu|Feu]], [[#Glace|Glace]], [[#Métal|Métal]]
+  * ⚠️ **Faible face à :** [[#Plante|Plante]], [[#Électrique|Électrique]], [[#Poison|Poison]]
+  * 🚫 **Immunisé contre :** *Aucun*
+
+### Feu
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Plante|Plante]], [[#Insecte|Insecte]], [[#Glace|Glace]], [[#Métal|Métal]]
+  * 🟥 **Pas très efficace contre :** [[#Eau|Eau]], [[#Feu|Feu]], [[#Fantome|Fantome]], [[#Terre|Terre]]
+  * ⬛ **Aucun effet sur :** *Aucun*
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Plante|Plante]], [[#Feu|Feu]], [[#Insecte|Insecte]], [[#Glace|Glace]], [[#Fée|Fée]], [[#Métal|Métal]]
+  * ⚠️ **Faible face à :** [[#Eau|Eau]], [[#Vent|Vent]], [[#Terre|Terre]]
+  * 🚫 **Immunisé contre :** *Aucun*
+
+### Électrique
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Eau|Eau]], [[#Vent|Vent]], [[#Obscurité|Obscurité]], [[#Métal|Métal]]
+  * 🟥 **Pas très efficace contre :** [[#Plante|Plante]], [[#Électrique|Électrique]]
+  * ⬛ **Aucun effet sur :** [[#Fantome|Fantome]], [[#Terre|Terre]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Eau|Eau]], [[#Électrique|Électrique]], [[#Vent|Vent]], [[#Métal|Métal]]
+  * ⚠️ **Faible face à :** [[#Plante|Plante]], [[#Terre|Terre]]
+  * 🚫 **Immunisé contre :** *Aucun*
+
+### Vent
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Feu|Feu]], [[#Vent|Vent]], [[#Insecte|Insecte]]
+  * 🟥 **Pas très efficace contre :** [[#Électrique|Électrique]], [[#Glace|Glace]], [[#Métal|Métal]]
+  * ⬛ **Aucun effet sur :** *Aucun*
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Plante|Plante]], [[#Obscurité|Obscurité]], [[#Insecte|Insecte]]
+  * ⚠️ **Faible face à :** [[#Électrique|Électrique]], [[#Vent|Vent]], [[#Psy|Psy]], [[#Glace|Glace]]
+  * 🚫 **Immunisé contre :** [[#Poison|Poison]], [[#Terre|Terre]]
+
+### Psy
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Vent|Vent]], [[#Poison|Poison]], [[#Fée|Fée]]
+  * 🟥 **Pas très efficace contre :** [[#Fantome|Fantome]]
+  * ⬛ **Aucun effet sur :** [[#Plante|Plante]], [[#Psy|Psy]], [[#Obscurité|Obscurité]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Poison|Poison]], [[#Métal|Métal]]
+  * ⚠️ **Faible face à :** [[#Obscurité|Obscurité]], [[#Insecte|Insecte]], [[#Fantome|Fantome]]
+  * 🚫 **Immunisé contre :** [[#Psy|Psy]], [[#Fée|Fée]]
+
+### Obscurité
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Plante|Plante]], [[#Psy|Psy]], [[#Fantome|Fantome]]
+  * 🟥 **Pas très efficace contre :** [[#Vent|Vent]], [[#Obscurité|Obscurité]], [[#Fée|Fée]]
+  * ⬛ **Aucun effet sur :** [[#Insecte|Insecte]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Obscurité|Obscurité]]
+  * ⚠️ **Faible face à :** [[#Électrique|Électrique]], [[#Insecte|Insecte]], [[#Fée|Fée]]
+  * 🚫 **Immunisé contre :** [[#Psy|Psy]]
+
+### Insecte
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Plante|Plante]], [[#Psy|Psy]], [[#Obscurité|Obscurité]], [[#Fée|Fée]]
+  * 🟥 **Pas très efficace contre :** [[#Feu|Feu]], [[#Vent|Vent]], [[#Poison|Poison]]
+  * ⬛ **Aucun effet sur :** *Aucun*
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Plante|Plante]], [[#Glace|Glace]], [[#Terre|Terre]]
+  * ⚠️ **Faible face à :** [[#Feu|Feu]], [[#Vent|Vent]]
+  * 🚫 **Immunisé contre :** [[#Obscurité|Obscurité]]
+
+### Fantome
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Psy|Psy]]
+  * 🟥 **Pas très efficace contre :** [[#Fantome|Fantome]]
+  * ⬛ **Aucun effet sur :** [[#Fée|Fée]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Feu|Feu]], [[#Psy|Psy]], [[#Fantome|Fantome]], [[#Poison|Poison]]
+  * ⚠️ **Faible face à :** [[#Obscurité|Obscurité]], [[#Fée|Fée]]
+  * 🚫 **Immunisé contre :** [[#Électrique|Électrique]], [[#Terre|Terre]]
+
+### Poison
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Plante|Plante]], [[#Eau|Eau]], [[#Glace|Glace]]
+  * 🟥 **Pas très efficace contre :** [[#Psy|Psy]], [[#Fantome|Fantome]], [[#Poison|Poison]], [[#Terre|Terre]]
+  * ⬛ **Aucun effet sur :** [[#Vent|Vent]], [[#Métal|Métal]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Plante|Plante]], [[#Insecte|Insecte]], [[#Poison|Poison]], [[#Fée|Fée]]
+  * ⚠️ **Faible face à :** [[#Psy|Psy]], [[#Terre|Terre]]
+  * 🚫 **Immunisé contre :** [[#Eau|Eau]]
+
+### Glace
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Vent|Vent]], [[#Terre|Terre]]
+  * 🟥 **Pas très efficace contre :** [[#Eau|Eau]], [[#Feu|Feu]], [[#Insecte|Insecte]], [[#Glace|Glace]], [[#Métal|Métal]]
+  * ⬛ **Aucun effet sur :** *Aucun*
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Eau|Eau]], [[#Vent|Vent]], [[#Glace|Glace]], [[#Terre|Terre]]
+  * ⚠️ **Faible face à :** [[#Feu|Feu]], [[#Poison|Poison]], [[#Métal|Métal]]
+  * 🚫 **Immunisé contre :** *Aucun*
+
+### Fée
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Obscurité|Obscurité]], [[#Fantome|Fantome]]
+  * 🟥 **Pas très efficace contre :** [[#Feu|Feu]], [[#Poison|Poison]], [[#Fée|Fée]], [[#Métal|Métal]]
+  * ⬛ **Aucun effet sur :** [[#Psy|Psy]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Obscurité|Obscurité]], [[#Fée|Fée]]
+  * ⚠️ **Faible face à :** [[#Plante|Plante]], [[#Psy|Psy]], [[#Insecte|Insecte]], [[#Métal|Métal]]
+  * 🚫 **Immunisé contre :** [[#Fantome|Fantome]]
+
+### Métal
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Glace|Glace]], [[#Fée|Fée]]
+  * 🟥 **Pas très efficace contre :** [[#Eau|Eau]], [[#Feu|Feu]], [[#Électrique|Électrique]], [[#Psy|Psy]], [[#Métal|Métal]]
+  * ⬛ **Aucun effet sur :** *Aucun*
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Plante|Plante]], [[#Vent|Vent]], [[#Glace|Glace]], [[#Fée|Fée]], [[#Métal|Métal]]
+  * ⚠️ **Faible face à :** [[#Eau|Eau]], [[#Feu|Feu]], [[#Électrique|Électrique]]
+  * 🚫 **Immunisé contre :** [[#Poison|Poison]]
+
+### Terre
+* **Attaque :**
+  * 🟩 **Super efficace contre :** [[#Feu|Feu]], [[#Électrique|Électrique]], [[#Poison|Poison]]
+  * 🟥 **Pas très efficace contre :** [[#Plante|Plante]], [[#Insecte|Insecte]], [[#Glace|Glace]], [[#Terre|Terre]]
+  * ⬛ **Aucun effet sur :** [[#Vent|Vent]], [[#Fantome|Fantome]]
+* **Défense :**
+  * 🛡️ **Résiste à :** [[#Feu|Feu]], [[#Poison|Poison]], [[#Terre|Terre]]
+  * ⚠️ **Faible face à :** [[#Plante|Plante]], [[#Eau|Eau]], [[#Glace|Glace]]
+  * 🚫 **Immunisé contre :** [[#Électrique|Électrique]]
