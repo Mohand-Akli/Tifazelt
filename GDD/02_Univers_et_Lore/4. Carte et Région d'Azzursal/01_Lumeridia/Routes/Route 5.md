@@ -17,7 +17,7 @@ aliases:
 * **Environnement majeur :** Vastes plaines ouvertes, prairies d'élevage dorées, champs de graminées et petits bosquets ombragés.
 
 ## 🌅 Rôle et Ambiance
-* **Rôle dans l'aventure :** L'avant-dernière grande route avant le donjon de la Team Glaciatech. C'est une route apaisante et bienveillante, axée sur l'élevage et l'entraînement. Les dresseurs rencontrés y sont nombreux mais proposent des affrontements justes et formateurs. C'est le lieu idéal pour faire évoluer ses Tifazelts grâce au bonheur et à l'XP abondante.
+* **Rôle dans l'aventure :** L'avant-dernière grande route avant le donjon de la Team Glacitech. C'est une route apaisante et bienveillante, axée sur l'élevage et l'entraînement. Les dresseurs rencontrés y sont nombreux mais proposent des affrontements justes et formateurs. C'est le lieu idéal pour faire évoluer ses Tifazelts grâce au bonheur et à l'XP abondante.
 * **Ambiance :** Lumineuse, sereine et chaleureuse. En s'éloignant des côtes maritimes de Port-Saphir, l'air s'adoucit et se charge du parfum des foins coupés. La lumière y est radieuse, souvent rasante, donnant aux herbes de superbes teintes ambrées et dorées.
 * **Taille (version Roblox) :** Très large et ouverte. Contrairement à d'autres routes qui forment des couloirs, la Route 5 ressemble à un vaste monde ouvert vallonné où le joueur peut chevaucher ou marcher librement.
 
@@ -40,25 +40,25 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Créature de Pâturage (Bovin/Ovin)* | [[9. Table des types|Normal]] / [[9. Table des types|Sol]] | 13 - 15 | 35% | Jour |
-| *Oiseau Chanteur* | [[9. Table des types|Vol]] / [[9. Table des types|Fée]] | 12 - 14 | 25% | Matin / Jour |
+| *Créature de Pâturage (Bovin/Ovin)* | [[9. Table des types#Terre|Terre]] | 13 - 15 | 35% | Jour |
+| *Oiseau Chanteur* | [[9. Table des types#Vent|Vent]] / [[9. Table des types|Fée]] | 12 - 14 | 25% | Matin / Jour |
 | *Insecte Mielleux* | [[9. Table des types|Insecte]] / [[9. Table des types|Plante]] | 12 - 15 | 20% | Jour / Nuit |
-| *Chien/Renard de Garde* | [[9. Table des types|Normal]] ou [[9. Table des types|Feu]] | 14 - 16 | 15% | Nuit |
-| *Espèce rare du Plateau* | [[9. Table des types|Fée]] ou [[9. Table des types|Acier]] | 15 - 16 | 5% | Aube / Crépuscule |
+| *Chien/Renard de Garde* | [[9. Table des types#Obscurité|Obscurité]] ou [[9. Table des types#Feu|Feu]] | 14 - 16 | 15% | Nuit |
+| *Espèce rare du Plateau* | [[9. Table des types|Fée]] ou [[9. Table des types#Métal|Métal]] | 15 - 16 | 5% | Aube / Crépuscule |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 
 ## ⚔️ Dresseurs à affronter (PNJ)
 Les dresseurs de cette route se spécialisent souvent dans les statistiques défensives et les attaques de soin ou de renforcement.
 
-* **Éleveuse Clara :** *"Mes Tifazelts mangent la meilleure herbe de Luméridia !"* (Équipe : 2x Normal Niv. 14)
-* **Fermier Baptiste :** Posté près d'un tracteur solarpunk. *"La récolte promet d'être bonne, voyons ce que tu vaux !"* (Équipe : 1x Plante Niv. 15, 1x Sol Niv. 14)
-* **Ornithologue Robin :** *"Regarde tous ces oiseaux migrateurs..."* (Équipe : 3x Vol Niv. 13)
-* **Dresseur Prometteur Yassine :** Un rival de transition cherchant à tester les badges/niveaux du joueur. *"Si tu vas au Hameau-Doré, tu dois d'abord me battre !"* (Équipe : 1x Feu Niv. 15, 1x Combat Niv. 16)
+* **Éleveuse Clara :** *"Mes Tifazelts mangent la meilleure herbe de Luméridia !"* (Équipe : 2x Terre Niv. 14)
+* **Fermier Baptiste :** Posté près d'un tracteur solarpunk. *"La récolte promet d'être bonne, voyons ce que tu vaux !"* (Équipe : 1x Plante Niv. 15, 1x Terre Niv. 14)
+* **Ornithologue Robin :** *"Regarde tous ces oiseaux migrateurs..."* (Équipe : 3x Vent Niv. 13)
+* **Dresseur Prometteur Yassine :** Un rival de transition cherchant à tester les cristaux/niveaux du joueur. *"Si tu vas au Hameau-Doré, tu dois d'abord me battre !"* (Équipe : 1x Feu Niv. 15, 1x Métal Niv. 16)
 
 ## 🎒 Objets et Loot (À ramasser)
 * 2x **Super Potion** : Cachées dans les hautes herbes dorées.
-* 1x **[[13. Objets#Grelot Douceur|Grelot Douceur]] (ou équivalent)** : Un objet à faire tenir qui augmente plus rapidement le Bonheur du Tifazelt. Caché au pied d'un grand chêne dans le Val des Éleveurs.
+* 1x **Grelot Douceur (ou équivalent)** : Un objet à faire tenir qui augmente plus rapidement le Bonheur du Tifazelt. Caché au pied d'un grand chêne dans le Val des Éleveurs.
 * 3x **Baies Nourrissantes** : Dans de petits buissons au bord des clôtures, excellentes pour la cuisine.
 * 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask Amis]]** : Une fiole qui rend le Tifazelt capturé plus amical dès le départ.
 

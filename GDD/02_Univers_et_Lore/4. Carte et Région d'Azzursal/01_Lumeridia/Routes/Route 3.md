@@ -40,10 +40,10 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Crabe de boue* | [[9. Table des types|Eau]] / [[9. Table des types|Sol]] | 8 - 10 | 35% | Jour / Nuit |
+| *Crabe de boue* | [[9. Table des types|Eau]] / [[9. Table des types#Terre|Terre]] | 8 - 10 | 35% | Jour / Nuit |
 | *Libellule d'eau* | [[9. Table des types|Insecte]] / [[9. Table des types|Eau]] | 8 - 11 | 30% | Jour |
 | *Amphibien toxique* | [[9. Table des types|Eau]] / [[9. Table des types|Poison]] | 9 - 11 | 20% | Nuit |
-| *Héron pêcheur* | [[9. Table des types|Vol]] / [[9. Table des types|Eau]] | 10 - 12 | 10% | Matin / Jour |
+| *Héron pêcheur* | [[9. Table des types#Vent|Vent]] / [[9. Table des types|Eau]] | 10 - 12 | 10% | Matin / Jour |
 | *Espèce rare du marais* | [[9. Table des types|Fée]] ou [[9. Table des types|Plante]] | 11 - 12 | 5% | Brouillard / Pluie |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
@@ -53,7 +53,7 @@ Les dresseurs tirent parti du terrain pour utiliser des Tifazelts infligeant des
 
 * **Pêcheur Simon :** *"La patience est la clé de la pêche... et du combat !"* (Équipe : 2x Tifazelts Eau Niv. 9)
 * **Scout des Marais Chloé :** Postée sur un ponton étroit. *"Attention où tu mets les pieds !"* (Équipe : 1x Insecte/Eau Niv. 11)
-* **Aventurier Marco :** *"Ma botte est coincée dans la vase, mais mes Tifazelts sont prêts !"* (Équipe : 1x Sol, 1x Poison Niv. 10)
+* **Aventurier Marco :** *"Ma botte est coincée dans la vase, mais mes Tifazelts sont prêts !"* (Équipe : 1x Terre, 1x Poison Niv. 10)
 
 ## 🎒 Objets et Loot (À ramasser)
 * 2x **Antidote** : Essentiel pour contrer les Tifazelts venimeux du marais.

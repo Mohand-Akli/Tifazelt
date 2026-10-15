@@ -13,7 +13,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 1]] (Nord, venant de Bourg-Azur), [[Route 2]] (Sud, menant vers Cité Ocre)
-* **Bâtiments majeurs :** [[#🔬 Laboratoire Arid|Laboratoire Arid]], [[Infirmerie Tifazelt|Pavillon Médical de l'Oasis]], [[Bazar de la Palmeraie|Comptoir Botanique]], [[Restaurant|Salon de Thé des Dattiers]], [[Guilde des Dresseurs|Antenne de l'Oasis]], [[Pâturage|Serres & Palmeraie Expérimentale]]
+* **Bâtiments majeurs :** [[#🔬 Laboratoire Arid|Laboratoire Arid]], [[#🏥 Pavillon Médical de l'Oasis (Infirmerie)|Pavillon Médical de l'Oasis]], [[#🛒 Comptoir Botanique (Magasin)|Comptoir Botanique]], [[#☕ Salon de Thé des Dattiers (Restaurant)|Salon de Thé des Dattiers]], [[#🛡️ Antenne de l'Oasis (Guilde des Dresseurs)|Antenne de l'Oasis]], [[#🌿 Serres & Palmeraie Expérimentale (Pâturage)|Serres & Palmeraie Expérimentale]]
 
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** 2ème ville du jeu. C'est le carrefour scientifique et l'étape fondatrice de l'aventure : le joueur y découvre le [[#🔬 Laboratoire Arid|Laboratoire Arid]], rencontre [[6. Personnages#Zéphir Célestin|Zéphir Célestin]], reçoit son premier [[7. Tifazelts|Tifazelt]] de départ ainsi que son [[13. Objets#Tifalistre|Tifalistre]].
@@ -68,7 +68,7 @@ aliases:
 ### 🌿 Serres & Palmeraie Expérimentale (Pâturage)
 * **Emplacement :** Secteur est de la cuvette.
 * **Architecture :** Enclos abrités sous de hautes canopées et serres à humidité contrôlée.
-* **Particularité :** Emplacement idéal pour la convalescence et l'épanouissement des Tifazelts de type Plante, Insecte et Sol, favorisant un gain de Bonheur constant.
+* **Particularité :** Emplacement idéal pour la convalescence et l'épanouissement des Tifazelts de type Plante, Insecte et Terre, favorisant un gain de Bonheur constant.
 
 ## ⚙️ Technique & Navigation (Roblox)
 * **Points d'apparition :** À la lisière nord de l'Allée des Palmes (arrivée depuis la Route 1).
@@ -77,7 +77,7 @@ aliases:
 
 ## 👥 Personnages & PNJ Présents
 * **[[6. Personnages#Professeur Arid Acanthus|Professeur Arid Acanthus]] :** Chercheur passionné étudiant les liens entre les Tifazelts et l'énergie des Sanctuaires.
-* **[[6. Personnages#Zéphir Célestin|Zéphir Célestin]] :** Rivale / camarade de route croisée au laboratoire.
+* **[[6. Personnages#Zéphir Célestin|Zéphir Célestin]] :** Rival / camarade de route croisé au laboratoire.
 * **Les Aiguadiers (Maîtres de l'Eau) :** PNJ surveillant le flux des seguias et partageant des anecdotes sur l'histoire hydro-technologique du Val.
 * *À compléter avec les laborantins et jardiniers de l'oasis...*
 

@@ -39,8 +39,8 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Oiseau de base* | [[9. Table des types|Vol]] / [[9. Table des types|Normal]] | 2 - 4 | 40% | Matin / Jour |
-| *Rongeur de base* | [[9. Table des types|Normal]] | 2 - 3 | 40% | Matin / Jour / Nuit |
+| *Oiseau de base* | [[9. Table des types#Vent|Vent]] | 2 - 4 | 40% | Matin / Jour |
+| *Rongeur de base* | [[9. Table des types#Terre|Terre]] | 2 - 3 | 40% | Matin / Jour / Nuit |
 | *Insecte (Chenille/Larve)* | [[9. Table des types|Insecte]] | 2 - 3 | 15% | Jour / Nuit |
 | *Espèce rare du bosquet* | [[9. Table des types|Plante]] ou [[9. Table des types|Fée]] | 4 - 5 | 5% | Nuit uniquement |
 

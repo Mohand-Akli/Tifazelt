@@ -34,7 +34,7 @@ Le réseau est structuré en plusieurs salles interconnectées, demandant de l'�
 * **L'Éboulis Scellé :** Un passage effondré bloqué par de lourds rochers massifs, nécessitant une capacité ou un outil spécial pour être dégagé plus tard dans l'aventure.
 
 ## 🌿 Écologie & Tifazelts Sauvages
-* **Faune des parois et plafonds :** Forte densité de Tifazelts des types [[9. Table des types|Roche]], [[9. Table des types|Sol]] et [[9. Table des types|Insecte]], ainsi que des créatures chiroptères (chauves-souris) de type [[9. Table des types|Vol]] / [[9. Table des types|Ténèbres]].
+* **Faune des parois et plafonds :** Forte densité de Tifazelts des types [[9. Table des types#Terre|Terre]] et [[9. Table des types#Insecte|Insecte]], ainsi que des créatures chiroptères (chauves-souris) de type [[9. Table des types#Vent|Vent]] / [[9. Table des types#Obscurité|Obscurité]].
 * **Profondeurs et failles :** Apparition occasionnelle de créatures semi-spectrales ou minérales attirées par les cristaux d'énergie.
 * **Comportement sauvage :** Les créatures y sont plus territoriales : certaines tombent directement des stalactites au passage du joueur si celui-ci fait trop de bruit en courant.
 

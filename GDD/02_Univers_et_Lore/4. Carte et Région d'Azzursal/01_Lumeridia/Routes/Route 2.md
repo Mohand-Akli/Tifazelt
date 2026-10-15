@@ -40,10 +40,10 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Lézard des sables* | [[9. Table des types|Sol]] | 5 - 7 | 35% | Jour |
-| *Oiseau rapace* | [[9. Table des types|Vol]] | 6 - 8 | 25% | Matin / Jour |
+| *Lézard des sables* | [[9. Table des types#Terre|Terre]] | 5 - 7 | 35% | Jour |
+| *Oiseau rapace* | [[9. Table des types#Vent|Vent]] | 6 - 8 | 25% | Matin / Jour |
 | *Scorpion rocailleux* | [[9. Table des types|Poison]] / [[9. Table des types|Insecte]] | 5 - 7 | 20% | Nuit |
-| *Petit golem d'argile* | [[9. Table des types|Roche]] | 6 - 8 | 15% | Jour / Nuit |
+| *Petit golem d'argile* | [[9. Table des types#Terre|Terre]] | 6 - 8 | 15% | Jour / Nuit |
 | *Espèce rare du défilé* | [[9. Table des types|Feu]] | 7 - 8 | 5% | Jour intense (Midi) |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
@@ -51,13 +51,13 @@ aliases:
 ## ⚔️ Dresseurs à affronter (PNJ)
 Les dresseurs de la Route 2 commencent à utiliser des stratégies (attaques infligeant des statuts, objets de soin).
 
-* **Campeur Malik :** *"Il fait chaud, mais mon équipe est brûlante d'énergie !"* (Équipe : 2x Tifazelts Roche/Sol Niv. 6)
+* **Campeur Malik :** *"Il fait chaud, mais mon équipe est brûlante d'énergie !"* (Équipe : 2x Tifazelts Terre Niv. 6)
 * **Exploratrice Léa :** Postée près de l'embranchement de la Grotte Inconnue. *"Tu cherches des minerais rares ou juste la bagarre ?"* (Équipe : 1x Oiseau Niv. 8)
 * **Gamin Léo (Revanche) :** *"Je me suis entraîné depuis Bourg-Azur !"* (Équipe : 1x Rongeur évolué Niv. 7, 1x Insecte Niv. 5)
 
 ## 🎒 Objets et Loot (À ramasser)
 * 2x **[[1. Menus Et Interfaces#Médicaments|Potion basique]]** : Visibles sur de petites corniches rocheuses.
-* 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask Roc]]** (Tiflask efficace sur le type Roche/Sol) : Cachée près de l'entrée de la Grotte Inconnue.
+* 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask Roc]]** (Tiflask efficace sur le type Terre) : Cachée près de l'entrée de la Grotte Inconnue.
 * 1x **Anti-Brûlure** / **Anti-Poison** : Indispensable avant de défier les créatures du défilé.
 
 ## ⚙️ Technique & Level Design (Roblox)

@@ -13,7 +13,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 3]] (Ouest, venant de Cité Ocre), [[Route 4]] (Est, menant à Port-Saphir), [[Asif-Safi]] (Fleuve entourant la localité)
-* **Bâtiments majeurs :** [[Infirmerie Tifazelt|Pavillon Fluvial de Soin]], [[Bazar de la Presqu'île|Comptoir des Eaux Vives]], [[Restaurant|Auberge du Méandre]], [[Guilde des Dresseurs|Relais Fluvial des Dresseurs]], [[Pâturage|Enclos des Rives]]
+* **Bâtiments majeurs :** [[#🏥 Pavillon Fluvial de Soin (Infirmerie)|Pavillon Fluvial de Soin]], [[#🛒 Comptoir des Eaux Vives (Magasin)|Comptoir des Eaux Vives]], [[#☕ Auberge du Méandre (Restaurant)|Auberge du Méandre]], [[#🛡️ Relais Fluvial des Dresseurs (Guilde)|Relais Fluvial des Dresseurs]], [[#🌿 Enclos des Rives (Pâturage)|Enclos des Rives]]
 
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** 4ème ville du périple. Une étape singulière et reposante située exactement au cœur géographique de la boucle de l'Asif-Safi, servant de transition naturelle entre la chaleur aride de la Cité Ocre et l'effervescence océanique de Port-Saphir.

@@ -5,12 +5,12 @@ tags:
   - lumeridia
   - team-glaciatech
 aliases:
-  - Repaire de la Team Glaciatech
-  - Repaire Glaciatech
+  - Repaire de la Team Glacitech
+  - Repaire Glacitech
   - Colline Ksar
-  - Base Glaciatech
+  - Base Glacitech
 ---
-# 🩷 Repaire de la Team Glaciatech (Colline Ksar)
+# 🩷 Repaire de la Team Glacitech (Colline Ksar)
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 6]] (Ouest, sentier escarpé descendant vers le Hameau-Doré)
@@ -30,7 +30,7 @@ aliases:
 * **Décoration & Particules :**
   * Câbles électriques épais serpentant au sol.
   * Fumerolles d'azote liquide ou de vapeur froide s'échappant de grilles au sol.
-  * Bannières et logos holographiques de la Team Glaciatech.
+  * Bannières et logos holographiques de la Team Glacitech.
 
 ## 🗺️ Plan & Quartiers (Progression du Donjon)
 Le repaire est pensé comme une zone d'infiltration et de combat, divisé en plusieurs strates de sécurité :
@@ -40,7 +40,7 @@ Le repaire est pensé comme une zone d'infiltration et de combat, divisé en plu
 * **La Cour Centrale :** Une vaste zone à ciel ouvert encerclée de hauts murs. Remplie de conteneurs empilés servant de labyrinthe et d'arènes pour les combats contre les sbires.
 * **Le Centre de Détention :** Sous-sol des ruines reconverti en cellules. C'est ici que sont enfermés les Tifazelts sauvages ou volés aux habitants de Luméridia, plongés dans un état de léthargie à cause du froid artificiel.
 * **Le Laboratoire d'Expérimentation :** Salles immaculées remplies de serveurs et de cuves d'incubation où les scientifiques de l'équipe étudient l'énergie des cristaux et modifient génétiquement des Tifazelts.
-* **Le Noyau Cryogénique (Salle du Boss) :** Située au sommet de la plus haute tour fortifiée. Une vaste salle abritant l'immense machine refroidissant la région. C'est ici que le joueur affronte l'Admin Glaciatech de la province.
+* **Le Noyau Cryogénique (Salle du Boss) :** Située au sommet de la plus haute tour fortifiée. Une vaste salle abritant l'immense machine refroidissant la région. C'est ici que le joueur affronte l'Admin Glacitech de la province.
 
 ## 📍 Lieux Intérieurs & Points d'Intérêt
 ### 🚨 Les Terminaux de Sécurité
@@ -56,9 +56,9 @@ Le repaire est pensé comme une zone d'infiltration et de combat, divisé en plu
 * **Bande-son :** Musique électronique tendue (synthwave sombre/industrielle) avec des basses lourdes, des alarmes lointaines et le souffle de vents glacés.
 
 ## 👥 Personnages & Ennemis Présents
-* **Sbires Glaciatech :** Gardes de base équipés de Tifazelts de type [[9. Table des types|Glace]], [[9. Table des types|Acier]] ou [[9. Table des types|Poison]].
-* **Scientifiques Glaciatech :** Dresseurs utilisant des Tifazelts artificiels ou de type [[9. Table des types|Électrique]] et [[9. Table des types|Magie]].
-* **Admin Glaciatech (Boss de zone) :** Dirigeant des opérations sur Luméridia Est. Son équipe est puissante et optimisée. Le battre permet de surcharger le Générateur Cryogénique.
+* **Sbires Glacitech :** Gardes de base équipés de Tifazelts de type [[9. Table des types|Glace]], [[9. Table des types#Métal|Métal]] ou [[9. Table des types|Poison]].
+* **Scientifiques Glacitech :** Dresseurs utilisant des Tifazelts artificiels ou de type [[9. Table des types|Électrique]] et [[9. Table des types#Psy|Psy]].
+* **Admin Glacitech (Boss de zone) :** Dirigeant des opérations sur Luméridia Est. Son équipe est puissante et optimisée. Le battre permet de surcharger le Générateur Cryogénique.
 
 ## 📜 Quêtes et Progression
 * *Objectif Principal :* Infiltrer la base, vaincre l'Admin, libérer les Tifazelts du Centre de Détention et détruire le Générateur pour rendre au Hameau-Doré et à la Route 6 leur climat naturel.
@@ -66,4 +66,4 @@ Le repaire est pensé comme une zone d'infiltration et de combat, divisé en plu
 
 ## 🚧 À développer
 * Puzzles d'infiltration (ex: glisser sur des plaques de glace, utiliser des Tifazelts de type Feu pour fondre des barricades).
-* Design et nom exact de l'Admin Glaciatech de cette zone.
+* Design et nom exact de l'Admin Glacitech de cette zone.

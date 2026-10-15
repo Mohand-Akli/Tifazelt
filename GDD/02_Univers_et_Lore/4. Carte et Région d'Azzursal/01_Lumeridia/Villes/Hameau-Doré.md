@@ -13,7 +13,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 5]] (Ouest, vers Port-Saphir), [[Route 6]] (Est, vers la Colline Ksar)
-* **Bâtiments majeurs :** [[Infirmerie Tifazelt|Grange de Soin]], [[Bazar du Hameau|Épicerie Rurale]], [[Restaurant|Auberge des Moissons]], [[Pâturage|Grand Pâturage Doré]]
+* **Bâtiments majeurs :** [[#🏥 Grange de Soin (Infirmerie)|Grange de Soin]], [[#🛒 Épicerie Rurale (Magasin)|Épicerie Rurale]], [[#☕ Auberge des Moissons (Restaurant)|Auberge des Moissons]], [[#🌿 Le Grand Pâturage Doré|Grand Pâturage Doré]]
 
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** 6ème étape majeure du jeu. C'est le dernier havre de paix, d'élevage et de repos avant l'ascension ardue vers la base ennemie de la Colline Ksar.
@@ -66,7 +66,7 @@ aliases:
 * *À compléter avec les fermiers et éleveurs...*
 
 ## 📜 Quêtes liées
-* *À compléter (ex: Récolter un ingrédient rare dans les champs, enquêter sur les premières nuisances causées par la Team Glaciatech en lisière de la Route 6...)*
+* *À compléter (ex: Récolter un ingrédient rare dans les champs, enquêter sur les premières nuisances causées par la Team Glacitech en lisière de la Route 6...)*
 
 ## 🚧 À développer
 * Lore spécifique sur la relation entre le Hameau-Doré et le QG ennemi voisin.

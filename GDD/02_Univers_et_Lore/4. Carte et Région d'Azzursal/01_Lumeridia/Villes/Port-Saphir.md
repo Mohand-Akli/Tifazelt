@@ -12,7 +12,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 4]] (Nord-Ouest, venant de la Presqu'île Marine), [[Route 5]] (Sud, vers le Hameau-Doré), [[Profondeurs Sous-Marines]] (Large / Est)
-* **Bâtiments majeurs :** [[Infirmerie Tifazelt|Hôpital Maritime de Saphir]], [[Bazar de Port-Saphir|Comptoir d'Armement Naval]], [[Restaurant|Taverne de l'Écume]], [[Guilde des Dresseurs|Capitainerie des Dresseurs]], [[Pâturage|Bassins Côtiers du Pâturage]]
+* **Bâtiments majeurs :** [[#🏥 Hôpital Maritime de Saphir (Infirmerie)|Hôpital Maritime de Saphir]], [[#🛒 Comptoir d'Armement Naval (Magasin)|Comptoir d'Armement Naval]], [[#☕ Taverne de l'Écume (Restaurant)|Taverne de l'Écume]], [[#🛡️ Capitainerie des Dresseurs (Guilde)|Capitainerie des Dresseurs]], [[#🌿 Bassins Côtiers du Pâturage|Bassins Côtiers du Pâturage]]
 
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** 5ème ville majeure du périple. Grande métropole portuaire et carrefour maritime incontournable de la façade orientale de Luméridia Est. C'est ici que le joueur accède aux équipements maritimes et prend le large vers les mystères sous-marins.

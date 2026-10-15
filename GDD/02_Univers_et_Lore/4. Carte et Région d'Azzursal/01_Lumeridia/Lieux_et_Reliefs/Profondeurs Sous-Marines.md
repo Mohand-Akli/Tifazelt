@@ -33,7 +33,7 @@ L'exploration de cette zone se fait de manière verticale, la pression et les da
 * **Le Temple Submergé :** Une gigantesque structure architecturale scellée reposant au fond de la faille, liée au mystère des Sanctuaires ou au repaire d'un Tifazelt légendaire des mers.
 
 ## 🌿 Écologie & Tifazelts Sauvages
-* **Types dominants :** Le type [[9. Table des types|Eau]] est omniprésent, accompagné de créatures de type [[9. Table des types|Poison]] (poissons-lions et créatures coralliennes venimeuses), [[9. Table des types|Électrique]] (raies et anguilles luminescentes) et [[9. Table des types|Ténèbres]] dans la Fosse Abyssale.
+* **Types dominants :** Le type [[9. Table des types|Eau]] est omniprésent, accompagné de créatures de type [[9. Table des types|Poison]] (poissons-lions et créatures coralliennes venimeuses), [[9. Table des types|Électrique]] (raies et anguilles luminescentes) et [[9. Table des types#Obscurité|Obscurité]] dans la Fosse Abyssale.
 * **Comportement sauvage :** Les Tifazelts marins se déplacent en trois dimensions. Certains prédateurs s'enfouissent dans le sable ou se camouflent en rochers (mimétisme) pour surprendre les plongeurs.
 
 ## 🤿 Mécaniques de Jeu & Plongée (Gameplay)

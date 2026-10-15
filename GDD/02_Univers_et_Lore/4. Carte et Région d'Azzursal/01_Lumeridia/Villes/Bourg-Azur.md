@@ -12,7 +12,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 1]]
-* **Bâtiments majeurs :** [[Infirmerie]], [[Bazar de l'Azur]], [[Café des Embruns]], [[Guilde des Dresseurs]], [[Pâturage]]
+* **Bâtiments majeurs :** [[#🏥 Infirmerie Tifazelt|Infirmerie]], [[#🛒 Bazar de l'Azur (Magasin)|Bazar de l'Azur]], [[#☕ Café des Embruns|Café des Embruns]], [[#🛡️ Guilde des Dresseurs|Guilde des Dresseurs]], [[#🌿 Pâturage|Pâturage]]
 
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** Village natal du [[12. Joueur|joueur]], où vit sa mère. Le jeu commence ici, devant la maison familiale.
@@ -104,7 +104,7 @@ aliases:
   * Repères extérieurs (Place, Promenade, Phare, Pâturage).
 
 ## 👥 Personnages & PNJ Présents
-* [[Mère du joueur]] : Présente dans la maison.
+* [[6. Personnages#Mère du joueur|Mère du joueur]] : Présente dans la maison.
 * *À compléter avec les habitants et marchands...*
 
 ## 📜 Quêtes liées

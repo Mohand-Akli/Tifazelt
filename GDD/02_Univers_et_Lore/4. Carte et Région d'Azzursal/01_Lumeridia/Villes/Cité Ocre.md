@@ -12,7 +12,7 @@ aliases:
 
 * **Province :** [[00_Province_Lumeridia|Luméridia Est]]
 * **Connexions :** [[Route 2]] (Nord, vers Val Palmeraie), [[Route 3]] (Est, vers Presqu'île Marine), Désert d'Ardusia (Sud)
-* **Bâtiments majeurs :** [[Infirmerie Tifazelt|Infirmerie (Architecture Solarpunk/Passive)]], [[Bazar Ocre]], [[Guilde des Dresseurs|Guilde des Caravaniers]], [[Pâturage|Écuries du Désert]]
+* **Bâtiments majeurs :** [[#🏥 Infirmerie Tifazelt (Style Ocre)|Infirmerie (Architecture Solarpunk/Passive)]], [[#🛒 Bazar Ocre (Le Grand Souk)|Bazar Ocre]], [[#🛡️ Guilde des Dresseurs (Annexe des Caravaniers)|Guilde des Caravaniers]], [[#🌿 Pâturage (Écuries du Désert)|Écuries du Désert]]
 
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** 3ème ville du jeu. C'est le point de transition idéal et la dernière grande halte avant de s'enfoncer vers le sud en direction des étendues arides d'Ardusia ou de bifurquer vers l'Asif-Safi.

@@ -17,7 +17,7 @@ aliases:
 * **Environnement majeur :** Berges verdoyantes, collines ondulantes surplombant l'océan, et large route marchande pavée à l'approche du port.
 
 ## 🌅 Rôle et Ambiance
-* **Rôle dans l'aventure :** La Route 4 est un grand axe de voyage, marquant la transition entre la quiétude fluviale de l'Asif-Safi et l'effervescence de la métropole maritime de Port-Saphir. C'est ici que le joueur a sa première vision panoramique de l'immensité océanique et, au loin, des silhouettes de l'Archipel des 11 Sanctuaires.
+* **Rôle dans l'aventure :** La Route 4 est un grand axe de voyage, marquant la transition entre la quiétude fluviale de l'Asif-Safi et l'effervescence de la métropole maritime de Port-Saphir. C'est ici que le joueur a sa première vision panoramique de l'immensité océanique et, au loin, des silhouettes d'un archipel lointain.
 * **Ambiance :** Vivifiante et dynamique. Le ciel s'ouvre, dégagé et azuréen. L'air, d'abord chargé de l'humidité du fleuve, devient de plus en plus iodé. Le vent de la mer fait bruisser les herbes hautes, et les caravanes de marchands croisent de nombreux dresseurs attirés par le littoral.
 * **Taille (version Roblox) :** Une route large et vallonnée, propice à l'exploration en largeur avec plusieurs corniches herbeuses et points de vue en hauteur.
 
@@ -40,11 +40,11 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Oiseau Marin (Mouette/Albatros)* | [[9. Table des types|Vol]] / [[9. Table des types|Eau]] | 11 - 13 | 35% | Matin / Jour |
+| *Oiseau Marin (Mouette/Albatros)* | [[9. Table des types#Vent|Vent]] / [[9. Table des types|Eau]] | 11 - 13 | 35% | Matin / Jour |
 | *Rongeur Foudroyant* | [[9. Table des types|Électrique]] | 10 - 12 | 25% | Jour / Nuit |
 | *Crabe Corallien* | [[9. Table des types|Eau]] | 11 - 13 | 20% | Nuit / Matin |
 | *Plante Aromatique (Agrume)* | [[9. Table des types|Plante]] | 11 - 12 | 15% | Jour |
-| *Espèce rare de l'Estuaire* | [[9. Table des types|Dragon]] ou [[9. Table des types|Eau]] | 12 - 14 | 5% | Brouillard / Soir |
+| *Espèce rare de l'Estuaire* | [[9. Table des types#Vent|Vent]] ou [[9. Table des types#Eau|Eau]] | 12 - 14 | 5% | Brouillard / Soir |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 
@@ -52,12 +52,12 @@ aliases:
 Les dresseurs rencontrés ici reflètent le commerce et la mer.
 
 * **Matelot Arthur :** *"J'ai le mal de terre, alors je m'entraîne avant d'embarquer !"* (Équipe : 2x Oiseau Marin Niv. 11, 12)
-* **Caravanier Hassan :** *"Mes Tifazelts voyagent avec moi depuis la Cité Ocre."* (Équipe : 1x Sol Niv. 13, 1x Normal Niv. 12)
+* **Caravanier Hassan :** *"Mes Tifazelts voyagent avec moi depuis la Cité Ocre."* (Équipe : 1x Terre Niv. 13, 1x Vent Niv. 12)
 * **Nageuse Océane :** Postée près d'une petite crique en contrebas. *"L'eau de la mer est plus forte que celle du fleuve, tu vas voir !"* (Équipe : 2x Eau Niv. 13)
 
 ## 🎒 Objets et Loot (À ramasser)
 * 1x **Anti-Para (Soin Paralysie)** : Dissimulé sous un oranger dans les collines, très utile contre les Tifazelts Électriques de la zone.
-* 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask Azur]]** (Meilleur taux de capture sur les types Vol/Eau) : Oubliée sur un muret de pierre le long de l'Avenue de l'Estuaire.
+* 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask Azur]]** (Meilleur taux de capture sur les types Vent/Eau) : Oubliée sur un muret de pierre le long de l'Avenue de l'Estuaire.
 * 2x **Baies Citrus** : À cueillir sur les arbustes de la Partie 2 (restaurent des PV).
 
 ## ⚙️ Technique & Level Design (Roblox)
