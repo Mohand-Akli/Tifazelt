@@ -11,14 +11,12 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Base de données/1. Objets.md",
-                "mode": "source",
-                "source": false
+                "file": "Exemple de menu.png"
               },
-              "icon": "lucide-file",
-              "title": "1. Objets"
+              "icon": "lucide-image",
+              "title": "Exemple de menu"
             }
           }
         ]
@@ -55,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "??",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base de données/1. Objets.md",
+                "file": "Exemple de menu.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base de données/1. Objets.md",
+                "file": "Exemple de menu.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base de données/1. Objets.md",
+                "file": "Exemple de menu.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,17 +200,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ed183fe99fee4c",
+  "active": "e84df9b8476a3b25",
   "lastOpenFiles": [
+    "Base de données/14. Charte Graphique.md",
+    "Exemple de menu.png",
+    "Base de données/1. Objets.md",
     "Base de données/Liste des attaques/Abri Ralentisseur.md",
     "Base de données/9. Monde.md",
-    "Base de données/14. Charte Graphique.md",
     "Base de données/13. Table des types.md",
     "Base de données/10. Tifazelts.md",
     "Base de données/12. Capacités des Tifazelts.md",
     "Base de données/11. Personnages.md",
     "Base de données/8. Mécanique.md",
-    "Base de données/1. Objets.md",
     "Base de données/Liste des attaques/Absorption de Vie.md",
     "Base de données/6. Economie Et Formules Et Reste.md",
     "Base de données/5. Quêtes Dans L'Aventure.md",
@@ -231,7 +230,6 @@
     "Base de données/Liste des attaques/Incantation Astrale.md",
     "Base de données/Liste des attaques/Soin Lunaire.md",
     "Base de données/Liste des attaques/échange Non-Marchand.md",
-    "Base de données/Liste des attaques/Pantin Aspirant.md",
     "Base de données/Liste des attaques",
     "Base de données/Liste des attaques",
     "Liste_des_Attaques.xlsx - Feuil1.csv",
