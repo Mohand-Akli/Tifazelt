@@ -11,10 +11,14 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Base de données/10. Tifazelts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Tifazelts"
             }
           }
         ]
@@ -201,14 +205,15 @@
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
     "Base de données/Table des types.md",
+    "Base de données/12. Capacités des Tifazelts.md",
+    "Base de données/11. Personnages.md",
+    "Base de données/8. Mécanique.md",
+    "Base de données/1. Objets.md",
+    "Base de données/Liste des attaques/Absorption de Vie.md",
     "Base de données/9. Monde.md",
     "Base de données/6. Economie Et Formules Et Reste.md",
     "Base de données/5. Quêtes Dans L'Aventure.md",
-    "Base de données/1. Objets.md",
-    "Base de données/12. Capacités des Tifazelts.md",
-    "Base de données/11. Personnages.md",
     "Base de données/10. Tifazelts.md",
-    "Base de données/8. Mécanique.md",
     "Base de données/7. Joueur.md",
     "Base de données/4. Menus Et Interfaces.md",
     "Base de données/3. Sanctuaire.md",
@@ -227,7 +232,6 @@
     "Base de données/Liste des attaques/échange Non-Marchand.md",
     "Base de données/Liste des attaques/Pantin Aspirant.md",
     "Base de données/Liste des attaques/Concentration Critique.md",
-    "Base de données/Liste des attaques/Pari Risqué.md",
     "Base de données/Liste des attaques",
     "Base de données/Liste des attaques",
     "Liste_des_Attaques.xlsx - Feuil1.csv",
