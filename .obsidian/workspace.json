@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSV import/Armure de Débrits.md",
+                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armure de Débrits"
+              "title": "Bourg-Azur - Construction et Direction Artistique"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSV import/Armure de Débrits.md",
+                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSV import/Armure de Débrits.md",
+                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSV import/Armure de Débrits.md",
+                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,8 +204,17 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
-    "CSV import/Vortex Virtuel 1.md",
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
     "CSV import/Armure de Débrits.md",
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
+    "Claude outputs/6_fleuriste.jpg",
+    "Claude outputs/5_sortie_route1.jpg",
+    "Claude outputs/4_fontaine.jpg",
+    "Claude outputs/3_interieur_maison.jpg",
+    "Claude outputs/2_porte_magique.jpg",
+    "Claude outputs/1_vue_aerienne.jpg",
+    "Claude outputs",
+    "CSV import/Vortex Virtuel 1.md",
     "CSV import/Argent Revenant 1.md",
     "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques",
@@ -230,8 +239,6 @@
     "CSV import/Compte-Reve.md",
     "CSV import/Voix Magique.md",
     "CSV import/éclat surnaturel.md",
-    "CSV import/Rayon lunaire.md",
-    "CSV import/Explo-Brume.md",
     "CSV import",
     "CSV Import",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts",
@@ -239,13 +246,6 @@
     "Claude outputs/7_salon_de_the_pnj.jpg",
     "Claude outputs/6_porte_du_sirocco.jpg",
     "Claude outputs/5_faubourg_des_fontaines.jpg",
-    "Claude outputs/4_pepinieres_noria.jpg",
-    "Claude outputs/3_miroir_et_labo.jpg",
-    "Claude outputs/2_entree_est.jpg",
-    "Claude outputs/1_vue_aerienne.jpg",
-    "Claude outputs/08_clairiere.jpg",
-    "Claude outputs/07_camp_theo.jpg",
-    "Claude outputs",
     "assets/cartes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes",

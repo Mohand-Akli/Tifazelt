@@ -15,6 +15,8 @@ aliases:
 * **Connexions :** [[Route 1]] (Ouest, vers Val Palmeraie)
 * **Bâtiments majeurs :** [[#🏥 Infirmerie Tifazelt|Infirmerie]], [[#🛒 Bazar de l'Azur (Magasin)|Bazar de l'Azur]], [[#☕ Café des Embruns|Café des Embruns]], [[#🛡️ Guilde des Dresseurs|Guilde des Dresseurs]], [[#🌿 Pâturage|Pâturage]]
 
+> 🎨 Détail de la construction Roblox et de la direction artistique : [[Bourg-Azur - Construction et Direction Artistique]]
+
 ## 🌅 Rôle et Ambiance
 * **Rôle dans l'aventure :** Village natal du [[12. Joueur|joueur]], où vit sa mère. Le jeu commence ici, devant la maison familiale.
 * **Ambiance :** Bourg côtier méditerranéen, lumineux et paisible. Des ruelles blanchies à la chaux descendent vers la mer, entre bougainvillées, orangers et oliviers.
@@ -52,7 +54,7 @@ aliases:
 * **Rue des Jardins :** Mène vers les jardins, l'oliveraie, les potagers et le Pâturage.
 * **Promenade (Front de Mer) :** Longe toute la côte en arc de cercle avec garde-corps, bancs, lampadaires et palmiers. Deux ruelles la relient au centre.
 * **Belvédère :** Plateforme en surplomb sur la mer, avec muret, rosace au sol, assises et longue-vue.
-* **Ponton et Phare :** Un ponton sur pieux s'avance dans la mer menant à un phare servant de repère visuel.
+* **Ponton de pêche :** Un ponton sur pieux s'avance dans la mer jusqu'à une plateforme avec banc, casiers et bitte d'amarrage. L'ancien phare, trop petit et hors sujet, a été retiré.
 * **Jardins & Cultures :**
   * **Jardin des Orangers :** Jardin public planté d'orangers.
   * **Oliveraie & Potagers :** Verger entouré de murets et cinquantaine de parcelles cultivées avec cabanon.
@@ -98,7 +100,8 @@ aliases:
 * **Équipement :** Enclos en bois avec portail, abri couvert, foin, abreuvoir, mangeoires et arbre d'ombrage. 
 
 ## ⚙️ Technique & Navigation (Roblox)
-* **Points d'apparition :** Le joueur apparaît dans la rue, devant sa maison (Rue des Lauriers), tourné vers la place.
+* **Points d'apparition :** Le joueur apparaît dans sa chambre, à l'intérieur de la maison familiale.
+* **Intérieurs :** Les bâtiments accessibles (maison, Infirmerie, Bazar, Café, Guilde, Fleuriste) ont un intérieur séparé, plus grand que la façade, comme dans les premiers Pokémon. La porte s'entrouvre et laisse voir une lueur, puis le seuil téléporte le joueur dedans. Sortie par la porte intérieure.
 * **Repères invisibles :**
   * Entrée de la maison du joueur, entrée/sortie du village vers la Route 1.
   * Points d'accueil intérieurs (Infirmerie, Bazar, Café, Guilde).
@@ -106,7 +109,9 @@ aliases:
 
 ## 👥 Personnages & PNJ Présents
 * [[6. Personnages#Mère du joueur|Mère du joueur]] : Présente dans la maison.
-* *À compléter avec les habitants et marchands...*
+* **Habitants (PNJ R6, dialogues courts) :** Margot (boulangère), Hugo (épicier), Anselme (potier), Céleste (libraire), Nadia (tisserande), Kaël (dresseur), Mamie Odile, Victor (habitué du café), Rosalie, les enfants Théo et Lina, Romain (garde de la porte), Ayla (dresseuse en route pour Val Palmeraie), Gaspard (vieux marin du belvédère), Mila (pêcheuse du ponton), Léa (promeneuse), Paulin (jardinier du champ), Ondine (rêveuse de l'oliveraie).
+* **Intérieurs :** Maman (maison), Infirmière Tifazelt, Réceptionniste de la Guilde, Lou (barista), Inès (fleuriste), Léon (marchand du Bazar).
+* **Secrets :** Huit petits secrets à découvrir (fontaine, plage, belvédère, oliveraie, chat du café, Bazar, maison). Ils ne donnent pas de récompense.
 
 ## 📜 Quêtes liées
 * *À compléter (ex: Quête de départ, interagir avec la mère...)*
