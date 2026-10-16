@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
+                "file": "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Tifazelts"
+              "title": "5. Quêtes Dans L'Aventure"
             }
           }
         ]
@@ -203,14 +203,16 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
-    "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
     "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
-    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/00_Region_Azzursal.md",
+    "GDD/05_Inventaire/13. Objets.md",
+    "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
+    "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
+    "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Abri Ralentisseur.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Absorption de Vie.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
-    "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
     "assets/cartes/Lumeridia_Est.png",
     "assets/cartes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 6.md",
@@ -233,8 +235,6 @@
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Carte de Luméridia Est.png",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/00_Province_Lumeridia.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/Bâtiments Communs.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal",
     "Claude outputs/08_clairiere.jpg",
