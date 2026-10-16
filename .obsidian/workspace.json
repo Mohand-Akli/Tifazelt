@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
+                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Vortex Virtuel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Quêtes Dans L'Aventure"
+              "title": "Vortex Virtuel"
             }
           }
         ]
@@ -203,12 +203,15 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Paix Divine.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Ombre éthérée.md",
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Grotte Inconnue.md",
+    "GDD/05_Inventaire/13. Objets.md",
+    "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
     "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/00_Region_Azzursal.md",
-    "GDD/05_Inventaire/13. Objets.md",
     "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
-    "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Abri Ralentisseur.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Absorption de Vie.md",
@@ -222,15 +225,12 @@
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 2.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 1.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Profondeurs Sous-Marines.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Grotte Inconnue.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Colline Ksar.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Asif-Safi.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Val Palmeraie.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Repaire Glacitech.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Presqu'île Marine.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Port-Saphir.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Hameau-Doré.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Cité Ocre.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
