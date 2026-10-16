@@ -11,13 +11,14 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
-                "viewName": "Table"
+                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "8. Liste des attaques"
+              "icon": "lucide-file",
+              "title": "Argent Revenant"
             }
           }
         ]
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,13 +202,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ed183fe99fee4c",
+  "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Vortex Virtuel.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques",
-    "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
-    "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
     "CSV import/Vortex Virtuel.md",
     "CSV import/Paix Divine.md",
     "CSV import/Défaitisme.md",
@@ -231,7 +231,6 @@
     "CSV import/éclat surnaturel.md",
     "CSV import/Rayon lunaire.md",
     "CSV import/Explo-Brume.md",
-    "CSV import/Résillience Accrue.md",
     "CSV import",
     "CSV Import",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts",
