@@ -201,8 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e84df9b8476a3b25",
+  "active": "36ed183fe99fee4c",
   "lastOpenFiles": [
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Vortex Virtuel.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques",
     "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
     "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
     "CSV import/Vortex Virtuel.md",
@@ -229,7 +232,6 @@
     "CSV import/Rayon lunaire.md",
     "CSV import/Explo-Brume.md",
     "CSV import/Résillience Accrue.md",
-    "CSV import/Bouclier Imparable.md",
     "CSV import",
     "CSV Import",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts",
@@ -247,8 +249,6 @@
     "assets/cartes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Villes",
     "Sans titre.canvas"
   ]
 }
