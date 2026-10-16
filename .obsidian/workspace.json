@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "???",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Signets"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,11 +201,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ed183fe99fee4c",
+  "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
+    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/00_Region_Azzursal.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Abri Ralentisseur.md",
+    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Absorption de Vie.md",
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
+    "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
     "assets/cartes/Lumeridia_Est.png",
     "assets/cartes",
-    "GDD/02_Univers_et_Lore/5. Quêtes Dans L'Aventure.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 6.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 5.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 4.md",
@@ -221,7 +229,6 @@
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Port-Saphir.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Hameau-Doré.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Cité Ocre.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
@@ -229,7 +236,6 @@
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/00_Province_Lumeridia.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/Bâtiments Communs.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/00_Region_Azzursal.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal",
     "Claude outputs/08_clairiere.jpg",
     "Claude outputs/07_camp_theo.jpg",
@@ -240,11 +246,6 @@
     "Claude outputs/02_apres_prairie_P1.jpg",
     "Claude outputs/01_avant_prairie_P1.jpg",
     "Claude outputs",
-    "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
-    "GDD/02_Univers_et_Lore/5. Monde.md",
-    "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
-    "assets/ui/Tableau des caracteres.png",
-    "GDD/04_Joueur_et_PNJ/10. PNJ.md",
     "src",
     "dossier sans titre",
     "GDD/06_Direction_Artistique",
