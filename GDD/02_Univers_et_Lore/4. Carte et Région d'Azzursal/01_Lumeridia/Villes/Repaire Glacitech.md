@@ -56,8 +56,8 @@ Le repaire est pensé comme une zone d'infiltration et de combat, divisé en plu
 * **Bande-son :** Musique électronique tendue (synthwave sombre/industrielle) avec des basses lourdes, des alarmes lointaines et le souffle de vents glacés.
 
 ## 👥 Personnages & Ennemis Présents
-* **Sbires Glacitech :** Gardes de base équipés de Tifazelts de type [[9. Table des types|Glace]], [[9. Table des types#Métal|Métal]] ou [[9. Table des types|Poison]].
-* **Scientifiques Glacitech :** Dresseurs utilisant des Tifazelts artificiels ou de type [[9. Table des types|Électrique]] et [[9. Table des types#Psy|Psy]].
+* **Sbires Glacitech :** Gardes de base équipés de Tifazelts de type [[10. Table des types|Glace]], [[10. Table des types#Métal|Métal]] ou [[10. Table des types|Poison]].
+* **Scientifiques Glacitech :** Dresseurs utilisant des Tifazelts artificiels ou de type [[10. Table des types|Électrique]] et [[10. Table des types#Psy|Psy]].
 * **Admin Glacitech (Boss de zone) :** Dirigeant des opérations sur Luméridia Est. Son équipe est puissante et optimisée. Le battre permet de surcharger le Générateur Cryogénique.
 
 ## 📜 Quêtes et Progression

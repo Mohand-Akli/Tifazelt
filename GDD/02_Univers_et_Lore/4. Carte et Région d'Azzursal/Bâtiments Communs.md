@@ -16,7 +16,7 @@ Services que l'on retrouve dans la plupart des villes d'[[00_Region_Azzursal|Azz
 ---
 
 ## 🏥 Infirmerie
-* **Rôle :** Soigner les [[7. Tifazelts#📊 Système de Statistiques|PV]] et les [[7. Tifazelts#⚠️ Effets de Statuts|effets de statuts]] de l'équipe, et restaurer les [[8. Capacités des Tifazelts#📋 Fiche Technique d'une Attaque|EM]] des attaques.
+* **Rôle :** Soigner les [[00. Définition#📊 Système de Statistiques|PV]] et les [[00. Définition#⚠️ Effets de Statuts|effets de statuts]] de l'équipe, et restaurer les [[9. Capacités des Tifazelts#📋 Fiche Technique d'une Attaque|EM]] des attaques.
 * **Classe liée :** Les dresseurs [[12. Joueur#Infirmier|Infirmiers]] y ont des activités exclusives pour obtenir remèdes et potions.
 * **Versions locales :**
   * [[Bourg-Azur#🏥 Infirmerie Tifazelt|Bourg-Azur — Infirmerie Tifazelt]]
@@ -66,7 +66,7 @@ Services que l'on retrouve dans la plupart des villes d'[[00_Region_Azzursal|Azz
 ---
 
 ## 🌿 Pâturage
-* **Rôle :** Lieu de garde des Tifazelts et de [[7. Tifazelts#🥚 Accouplement et Reproduction|reproduction]] (2 % de chances de transmettre un [[8. Capacités des Tifazelts#🌟 Compétences Secrètes (Talent Caché)|talent caché]]).
+* **Rôle :** Lieu de garde des Tifazelts et de [[00. Définition#🥚 Accouplement et Reproduction|reproduction]] (2 % de chances de transmettre un [[9. Capacités des Tifazelts#🌟 Compétences Secrètes (Talent Caché)|talent caché]]).
 * **Classe liée :** Les dresseurs [[12. Joueur#Éleveur|Éleveurs]] peuvent y augmenter le [[3. Mécanique#❤️ Bonheur|bonheur]] d'un Tifazelt jusqu'à +100 en une fois et ont des récompenses exclusives.
 * **Versions locales :**
   * [[Bourg-Azur#🌿 Pâturage|Bourg-Azur — Pâturage]]

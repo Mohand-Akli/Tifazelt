@@ -1,0 +1,15 @@
+filters: file.folder == "CSV import"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Nom de lattaque
+      - Type
+      - Catgorie
+      - Puissance
+      - Prcision
+      - "Page "
+      - EM
+      - Effet De lattaque Invisible dans le jeu cest utile que pour coder les effets des attaques
+      - Description de lattaque visible en jeu

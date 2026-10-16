@@ -11,14 +11,13 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
-                "mode": "source",
-                "source": false
+                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Bourg-Azur"
+              "icon": "lucide-table",
+              "title": "8. Liste des attaques"
             }
           }
         ]
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
+                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
+                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
+                "file": "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,6 +203,37 @@
   },
   "active": "e84df9b8476a3b25",
   "lastOpenFiles": [
+    "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+    "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+    "CSV import/Vortex Virtuel.md",
+    "CSV import/Paix Divine.md",
+    "CSV import/Défaitisme.md",
+    "CSV import/Incantation Astrale.md",
+    "CSV import/Soin Lunaire.md",
+    "CSV import/échange Non-Marchand.md",
+    "CSV import/Pantin Aspirant.md",
+    "CSV import/Concentration Critique.md",
+    "CSV import/Pari Risqué.md",
+    "CSV import/Imagination.md",
+    "CSV import/Protection Jumelière.md",
+    "CSV import/Art De Combats.md",
+    "CSV import/Larmes Théatrales.md",
+    "CSV import/Séduction.md",
+    "CSV import/Priere Spatiale.md",
+    "CSV import/Calin Amical.md",
+    "CSV import/Séance Féerique.md",
+    "CSV import/Pouvoir météolorogique.md",
+    "CSV import/Compte-Reve.md",
+    "CSV import/Voix Magique.md",
+    "CSV import/éclat surnaturel.md",
+    "CSV import/Rayon lunaire.md",
+    "CSV import/Explo-Brume.md",
+    "CSV import/Résillience Accrue.md",
+    "CSV import/Bouclier Imparable.md",
+    "CSV import",
+    "CSV Import",
+    "GDD/03_Tifazelts_et_Combats/7. Tifazelts",
+    "assets/ui/Tableau des caracteres.png",
     "Claude outputs/7_salon_de_the_pnj.jpg",
     "Claude outputs/6_porte_du_sirocco.jpg",
     "Claude outputs/5_faubourg_des_fontaines.jpg",
@@ -213,43 +243,12 @@
     "Claude outputs/1_vue_aerienne.jpg",
     "Claude outputs/08_clairiere.jpg",
     "Claude outputs/07_camp_theo.jpg",
-    "Claude outputs/06_bosquet.jpg",
-    "Claude outputs/05_ruisseau_passerelle.jpg",
     "Claude outputs",
-    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Sans titre.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
     "assets/cartes",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Cité Ocre.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/00_Province_Lumeridia.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Routes/Route 1.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Val Palmeraie.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Port-Saphir.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Repaire Glacitech.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Presqu'île Marine.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Hameau-Doré.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Profondeurs Sous-Marines.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Grotte Inconnue.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Colline Ksar.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs/Asif-Safi.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 6.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 5.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 4.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 3.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 2.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes/Route 1.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Villes",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Routes",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/04_Ardusia/Lieux_et_Reliefs",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/03_Cristalpina/Villes",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/03_Cristalpina/Routes",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/Bâtiments Communs.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/00_Region_Azzursal.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Villes/Val Palmeraie.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Villes/Cité Ocre.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Villes/Bourg-Azur.md",
     "Sans titre.canvas"
   ]
 }

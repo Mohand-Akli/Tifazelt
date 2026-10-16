@@ -21,7 +21,7 @@ aliases:
 
 ## 🌅 Rôle et Présentation
 * **Rôle dans l'aventure :** Première grande zone souterraine facultative ou semi-obligatoire de Luméridia Est. C'est un lieu propice au « grinding » (entraînement), à la découverte d'espèces cavernicoles rares et à la recherche d'objets d'évolution ou de fossiles minéraux.
-* **Histoire & Lore :** Mentionnée uniquement sous le nom de « Grotte ??? » sur les vieux parchemins de voyage, cette cavité naturelle est réputée instable et chargée d'une énergie minérale résiduelle. Les anciens mineurs d'Azzursal l'évitaient en raison de résonances étranges émises par ses parois cristallines, qui réagissent curieusement à la présence des [[13. Objets#Bague (Nom à définir)|Bagues des Sanctuaires]].
+* **Histoire & Lore :** Mentionnée uniquement sous le nom de « Grotte ??? » sur les vieux parchemins de voyage, cette cavité naturelle est réputée instable et chargée d'une énergie minérale résiduelle. Les anciens mineurs d'Azzursal l'évitaient en raison de résonances étranges émises par ses parois cristallines, qui réagissent curieusement à la présence des [[14. Objets#Bague (Nom à définir)|Bagues des Sanctuaires]].
 * **Ambiance :** Obscure, fraîche et mystique. L'écho des gouttes d'eau tombant des stalactites brise un silence lourd. Seuls les reflets turquoise et ambrés de grappes de cristaux phosphorescents percent les ténèbres, tandis que des yeux sauvages luisent au fond des anfractuosités.
 
 ## 🗺️ Géographie et Niveaux d'Exploration
@@ -34,7 +34,7 @@ Le réseau est structuré en plusieurs salles interconnectées, demandant de l'�
 * **L'Éboulis Scellé :** Un passage effondré bloqué par de lourds rochers massifs, nécessitant une capacité ou un outil spécial pour être dégagé plus tard dans l'aventure.
 
 ## 🌿 Écologie & Tifazelts Sauvages
-* **Faune des parois et plafonds :** Forte densité de Tifazelts des types [[9. Table des types#Terre|Terre]] et [[9. Table des types#Insecte|Insecte]], ainsi que des créatures chiroptères (chauves-souris) de type [[9. Table des types#Vent|Vent]] / [[9. Table des types#Obscurité|Obscurité]].
+* **Faune des parois et plafonds :** Forte densité de Tifazelts des types [[10. Table des types#Terre|Terre]] et [[10. Table des types#Insecte|Insecte]], ainsi que des créatures chiroptères (chauves-souris) de type [[10. Table des types#Vent|Vent]] / [[10. Table des types#Obscurité|Obscurité]].
 * **Profondeurs et failles :** Apparition occasionnelle de créatures semi-spectrales ou minérales attirées par les cristaux d'énergie.
 * **Comportement sauvage :** Les créatures y sont plus territoriales : certaines tombent directement des stalactites au passage du joueur si celui-ci fait trop de bruit en courant.
 

@@ -32,7 +32,7 @@ aliases:
 
 ### 🌳 Partie 3 : Le Bosquet des Égarés (Événement Scénarisé)
 * **Description :** En approchant de Val Palmeraie, la route se rétrécit et s'enfonce dans un petit bois de chênes-lièges et d'oliviers denses. La lumière y est plus tamisée, parfois voilée d'une brume légère.
-* **Événement de la Bague :** Le chemin semble se perdre et former un petit labyrinthe. C'est ici, au centre d'une petite clairière isolée (ou devant un vieil autel de pierre), que le joueur reçoit mystérieusement (ou découvre) la [[13. Objets#Bague (Nom à définir)|Bague]] mystique, avant que la brume ne se lève et ne révèle la sortie vers Val Palmeraie.
+* **Événement de la Bague :** Le chemin semble se perdre et former un petit labyrinthe. C'est ici, au centre d'une petite clairière isolée (ou devant un vieil autel de pierre), que le joueur reçoit mystérieusement (ou découvre) la [[14. Objets#Bague (Nom à définir)|Bague]] mystique, avant que la brume ne se lève et ne révèle la sortie vers Val Palmeraie.
 
 ## 🐾 Tifazelts Sauvages (Spawns)
 *Zone d'apparition principale : Les hautes herbes de la Partie 2.*

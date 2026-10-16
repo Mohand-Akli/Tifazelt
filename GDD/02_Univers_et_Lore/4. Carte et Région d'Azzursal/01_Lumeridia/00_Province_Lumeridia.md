@@ -11,8 +11,8 @@ aliases:
 # 🌊 Luméridia Est
 
 * **Région :** [[00_Region_Azzursal#🌊 Luméridia|Luméridia]] ([[00_Region_Azzursal|Azzursal]])
-* **Gardien légendaire de la province :** [[9. Table des types#Eau|Eau]] / [[9. Table des types#Fée|Fée]]
-* **Rôle :** Province de départ de l'aventure. C'est ici que le [[12. Joueur|joueur]] quitte sa maison, reçoit la [[13. Objets#Bague (Nom à définir)|Bague]] sur la [[Route 1]] et son premier Tifazelt au [[Val Palmeraie#🔬 Laboratoire Arid|Laboratoire Arid]].
+* **Gardien légendaire de la province :** [[10. Table des types#Eau|Eau]] / [[10. Table des types#Fée|Fée]]
+* **Rôle :** Province de départ de l'aventure. C'est ici que le [[12. Joueur|joueur]] quitte sa maison, reçoit la [[14. Objets#Bague (Nom à définir)|Bague]] sur la [[Route 1]] et son premier Tifazelt au [[Val Palmeraie#🔬 Laboratoire Arid|Laboratoire Arid]].
 
 ## 🗺️ Carte de la province
 ![[Lumeridia_Est.png]]

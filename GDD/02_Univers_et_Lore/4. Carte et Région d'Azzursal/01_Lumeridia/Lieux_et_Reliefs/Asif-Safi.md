@@ -33,7 +33,7 @@ aliases:
 
 ## 🌿 Écologie & Faune Associée
 * **Flore ripisylve :** Roseaux géants, joncs d'eau, iris sauvages indigo, nénuphars épais et mousses aquatiques filtrantes.
-* **Types de Tifazelts dominants :** Prédominance absolue du type [[9. Table des types|Eau]], côtoyant des créatures secondaires des types [[9. Table des types|Plante]], [[9. Table des types|Insecte]] et [[9. Table des types#Vent|Vent]].
+* **Types de Tifazelts dominants :** Prédominance absolue du type [[10. Table des types|Eau]], côtoyant des créatures secondaires des types [[10. Table des types|Plante]], [[10. Table des types|Insecte]] et [[10. Table des types#Vent|Vent]].
 * **Micro-climat fluvial :** L'évaporation constante maintient une ceinture de fraîcheur et d'humidité permanente le long de son lit, offrant un refuge thermique aux créatures sensibles à la chaleur environnante.
 
 ## 🎣 Activités, Mécaniques & Pêche

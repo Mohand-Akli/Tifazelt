@@ -60,7 +60,7 @@ aliases:
 ### 🌿 Bassins Côtiers du Pâturage
 * **Emplacement :** En contrebas de la falaise nord, dans une crique protégée.
 * **Architecture :** Une installation semi-submergée unique avec de larges lagons d'eau de mer entourés de digues de bois.
-* **Particularité :** Idéal pour accueillir et faire évoluer les Tifazelts de type [[9. Table des types|Eau]], amphibies ou semi-aquatiques en toute liberté.
+* **Particularité :** Idéal pour accueillir et faire évoluer les Tifazelts de type [[10. Table des types|Eau]], amphibies ou semi-aquatiques en toute liberté.
 
 ## ⚙️ Technique & Navigation (Roblox)
 * **Points d'apparition :** À l'arche de la Porte des Méandres (arrivée depuis la Route 4).
@@ -69,7 +69,7 @@ aliases:
 
 ## 👥 Personnages & PNJ Présents
 * **Le Vieux Capitaine :** Navigateur chevronné qui initie le joueur aux techniques de pêche et remet sa première canne à pêche.
-* **L'Artisan Plongeur :** PNJ clé qui mentionne la [[13. Objets#Bonbonne d'oxygène|Bonbonne d'oxygène]] nécessaire pour explorer les fonds marins.
+* **L'Artisan Plongeur :** PNJ clé qui mentionne la [[14. Objets#Bonbonne d'oxygène|Bonbonne d'oxygène]] nécessaire pour explorer les fonds marins.
 * **Les Marchands des Docks :** PNJ ambulants vendant des objets de troc et des coquillages anciens.
 * *À compléter avec les matelots et citoyens de la corniche...*
 

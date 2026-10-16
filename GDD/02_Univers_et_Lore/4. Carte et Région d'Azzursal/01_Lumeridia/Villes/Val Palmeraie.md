@@ -16,7 +16,7 @@ aliases:
 * **Bâtiments majeurs :** [[#🔬 Laboratoire Arid|Laboratoire Arid]], [[#🏥 Pavillon Médical de l'Oasis (Infirmerie)|Pavillon Médical de l'Oasis]], [[#🛒 Comptoir Botanique (Magasin)|Comptoir Botanique]], [[#☕ Salon de Thé des Dattiers (Restaurant)|Salon de Thé des Dattiers]], [[#🛡️ Antenne de l'Oasis (Guilde des Dresseurs)|Antenne de l'Oasis]], [[#🌿 Serres & Palmeraie Expérimentale (Pâturage)|Serres & Palmeraie Expérimentale]]
 
 ## 🌅 Rôle et Ambiance
-* **Rôle dans l'aventure :** 2ème ville du jeu. C'est le carrefour scientifique et l'étape fondatrice de l'aventure : le joueur y découvre le [[#🔬 Laboratoire Arid|Laboratoire Arid]], rencontre [[6. Personnages#Zéphir Célestin|Zéphir Célestin]], reçoit son premier [[7. Tifazelts|Tifazelt]] de départ ainsi que son [[13. Objets#Tifalistre|Tifalistre]].
+* **Rôle dans l'aventure :** 2ème ville du jeu. C'est le carrefour scientifique et l'étape fondatrice de l'aventure : le joueur y découvre le [[#🔬 Laboratoire Arid|Laboratoire Arid]], rencontre [[6. Personnages#Zéphir Célestin|Zéphir Célestin]], reçoit son premier [[00. Définition|Tifazelt]] de départ ainsi que son [[14. Objets#Tifalistre|Tifalistre]].
 * **Ambiance :** Une oasis luxuriante et éclatante nichée dans une cuvette fertile. Des milliers de palmiers dattiers forment une canopée protectrice sous laquelle règne une fraîcheur bienvenue. Le murmure régulier de l'eau circulant dans les canaux d'irrigation traditionnels (seguias et foggaras) rythme la vie paisible des chercheurs et des habitants.
 * **Taille (version Roblox) :** Agglomération aérée et verdoyante de taille moyenne, mêlant habitat traditionnel en pisé clair et installations scientifiques sous serres géodésiques.
 

@@ -29,8 +29,8 @@ aliases:
 * **Le Plateau Sommet :** Surface terrassée et lourdement modifiée par des plaques de métal, servant de parvis et d'entrée principale au [[Repaire Glacitech]].
 
 ## 🌿 Écologie & Tifazelts Sauvages
-* **Faune d'origine :** Autour de la base et dans les ruines, on trouve principalement des Tifazelts de type [[9. Table des types#Terre|Terre]].
-* **Faune corrompue (Ligne de givre) :** En s'approchant du sommet, l'écosystème est perturbé. Des Tifazelts de type [[9. Table des types|Glace]] (attirés par le froid) et [[9. Table des types#Métal|Métal]] (attirés par les installations) commencent à apparaître, souvent agressifs.
+* **Faune d'origine :** Autour de la base et dans les ruines, on trouve principalement des Tifazelts de type [[10. Table des types#Terre|Terre]].
+* **Faune corrompue (Ligne de givre) :** En s'approchant du sommet, l'écosystème est perturbé. Des Tifazelts de type [[10. Table des types|Glace]] (attirés par le froid) et [[10. Table des types#Métal|Métal]] (attirés par les installations) commencent à apparaître, souvent agressifs.
 
 ## ⚙️ Technique & Navigation (Roblox)
 * **Level Design :** Conception très verticale. Utilisation de *Terrain* rocheux (matériau *Rock* et *Slate* bruns/gris). Des rampes naturelles en zigzag obligent le joueur à explorer les corniches.
