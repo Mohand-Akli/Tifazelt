@@ -11,14 +11,14 @@
             "id": "ed4641de6cbf8334",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
-                "bFile": "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
-                "aRef": ""
+                "file": "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2. Economie Et Formules Et Reste  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "7. Tifazelts"
             }
           }
         ]
@@ -200,8 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ed183fe99fee4c",
+  "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
+    "GDD/02_Univers_et_Lore/5. Monde.md",
+    "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
     "assets/ui/Tableau des caracteres.png",
     "GDD/04_Joueur_et_PNJ/10. PNJ.md",
     "GDD/03_Tifazelts_et_Combats/9. Table des types.md",
@@ -211,11 +214,8 @@
     "GDD/EZBUIV B2BP N2B90UV2.md",
     "GDD/05_Inventaire/13. Objets.md",
     "GDD/04_Joueur_et_PNJ/12. Joueur.md",
-    "GDD/04_Joueur_et_PNJ/11. Sanctuaire.md",
-    "GDD/03_Tifazelts_et_Combats/8. Capacités des Tifazelts.md",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts.md",
     "GDD/02_Univers_et_Lore/6. Personnages.md",
-    "GDD/02_Univers_et_Lore/5. Monde.md",
     "GDD/01_Game_Design_Core/3. Mécanique.md",
     "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
     "src",
