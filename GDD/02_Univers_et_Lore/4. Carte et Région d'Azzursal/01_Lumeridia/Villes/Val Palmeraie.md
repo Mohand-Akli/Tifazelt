@@ -85,6 +85,52 @@ aliases:
 * **L'Heure du Choix (Quête Principale) :** Visiter le Laboratoire Arid, sélectionner son premier Tifazelt, recevoir le Tifalistre et valider son premier combat d'apprentissage.
 * *Quêtes secondaires à compléter (ex: Nettoyer le filtre d'un peigne d'irrigation, récolter des feuilles rares pour l'infirmerie...)*
 
+## 🧭 Identité face à Bourg-Azur (analyse, oct. 2026)
+*Objectif : qu'un joueur reconnaisse la ville en 2 secondes, même sur une capture.*
+
+| | 🔴 Bourg-Azur | 🟢 Val Palmeraie (cible) |
+|---|---|---|
+| Couleur qui domine | Blanc chaux + bleu azur | **Vert** (canopée) + pisé beige rosé + reflets turquoise du verre |
+| Silhouette / repère | Phare, mer, toits plats blancs | **Dôme géodésique du Labo** dépassant d'une forêt de dattiers de 20–30 studs |
+| Relief | Pente douce vers la mer | **Cuvette** : on descend dans la ville depuis la Route 1 |
+| Plan | Place **ronde** + fontaine, rues droites | Ville **organisée par l'eau** : les rues suivent les seguias, place **allongée** en miroir d'eau |
+| Lumière | Plein soleil, ombres nettes | **Ombre tachetée** sous les palmes, lumière plus douce et plus verte |
+| Sol | Pavés, dalles | Terre damée, dalles claires, **rigoles d'eau partout** |
+| Toits | Terrasses + citernes, tuiles | Patios, treilles de vigne, verrières, panneaux solaires |
+| Son | Vagues, mouettes | Eau qui coule, ney, oiseaux des palmes |
+
+**Points communs à corriger :**
+* L'**Esplanade des Savoirs** ne doit pas être ronde comme la place de Bourg-Azur : en faire un **long miroir d'eau** dans l'axe Allée des Palmes → Laboratoire, coupé de bassins en escalier.
+* Les bâtiments publics ne doivent pas tous entourer la place : les répartir **le long de l'eau** (Infirmerie près des bassins thermaux, Comptoir à l'entrée des Pépinières, Antenne à la Porte du Sirocco, comme prévu ci-dessus).
+* Éviter le blanc pur et l'ocre franc (réservé à [[Cité Ocre]]) : murs en **pisé beige rosé**, boiseries **vert émeraude**, cuivre et verre teinté **turquoise**.
+* Arbres : **dattiers** et **grenadiers** dominent ; orangers rares ; pas d'oliviers ni de cyprès (signature de Bourg-Azur et de la Route 1).
+* L'arrivée par l'est reste une avenue, mais **plongeante** (on voit la canopée et le dôme d'en haut avant d'entrer sous les palmes).
+
+## 💡 Pistes pour une ville vivante (propositions Claude, à valider)
+**L'eau comme système visible**
+* Seguias qui serpentent dans toute la ville (eau du terrain ou plans d'eau animés), petits ponts de pierre, **kesria** (peignes répartiteurs) aux carrefours.
+* **Noria** (grande roue à eau) qui tourne près des Pépinières : repère sonore et visuel.
+* **Heure de l'arrosage** (toutes les X minutes) : les vannes s'ouvrent, l'eau monte dans les parterres, brumisateurs dans les serres — les Aiguadiers marchent alors d'une vanne à l'autre.
+
+**Habitants qui font quelque chose** (décor animé, pas de nouveau système de jeu)
+* Aiguadiers qui inspectent les canaux, jardiniers qui arrosent et taillent, laborantins qui font l'aller-retour serres ↔ labo avec des caisses, enfants qui jouent autour du miroir d'eau, vieux qui jouent aux dames sous une treille, vendeurs qui interpellent au marché.
+* Chaque PNJ a 2–3 points de routine et des petites animations (s'asseoir, arroser, porter) ; quelques répliques d'ambiance quand on passe à côté.
+
+**Lieux qui vivent**
+* **Souk des Semences** près du Comptoir Botanique : étals sous auvents qui ondulent, sacs d'épices et de graines colorés, théière qui fume.
+* **Caravansérail** à la Porte du Sirocco : dromadaires au repos, ballots, abreuvoir — annonce l'aridité de la [[Route 2]].
+* **Serres** : Tifazelts Plante / Insecte visibles à travers le verre (purement visuel dans un premier temps), papillons et brume à l'intérieur.
+* Terrasse du **Salon de Thé** au-dessus du bassin : clients assis, vapeur des verres, musique douce.
+* Petit **jardin d'étude** du Professeur (carrés d'herbes médicinales étiquetés) à côté du Laboratoire.
+
+**Ambiance et vie sauvage**
+* Zone d'ambiance locale (comme la brume du bosquet) : lumière plus verte et plus douce sous la canopée, ombres de palmes qui bougent avec le vent.
+* Oiseaux (tourterelles, huppes) sur les palmes, libellules sur les canaux, poissons dans les bassins, palmes qui ondulent (même système que les hautes herbes de la Route 1).
+* Lanternes solaires qui s'allument au crépuscule le long des stipes de palmiers.
+
+**Repères de navigation**
+* Dôme du Labo visible de partout ; noria à l'est ; porte en pisé au nord ; le joueur suit l'eau pour trouver la place.
+
 ## 🚧 À développer
 * Liste et statistiques des trois Tifazelts de départ disponibles dans la salle des starters.
 * Dialogues scénarisés complets du Professeur et de Zéphir lors de la remise du premier Tifazelt.
