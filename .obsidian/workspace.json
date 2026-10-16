@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+                "file": "CSV import/Armure de Débrits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Argent Revenant"
+              "title": "Armure de Débrits"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+                "file": "CSV import/Armure de Débrits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+                "file": "CSV import/Armure de Débrits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
+                "file": "CSV import/Armure de Débrits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,9 +204,10 @@
   },
   "active": "ed4641de6cbf8334",
   "lastOpenFiles": [
+    "CSV import/Vortex Virtuel 1.md",
+    "CSV import/Armure de Débrits.md",
+    "CSV import/Argent Revenant 1.md",
     "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
-    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Vortex Virtuel.md",
-    "GDD/03_Tifazelts_et_Combats/Liste des attaques/Argent Revenant.md",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques",
     "CSV import/Vortex Virtuel.md",
     "CSV import/Paix Divine.md",
