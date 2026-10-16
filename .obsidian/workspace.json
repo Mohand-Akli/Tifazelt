@@ -202,23 +202,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4641de6cbf8334",
+  "active": "e84df9b8476a3b25",
   "lastOpenFiles": [
+    "Claude outputs/7_salon_de_the_pnj.jpg",
+    "Claude outputs/6_porte_du_sirocco.jpg",
+    "Claude outputs/5_faubourg_des_fontaines.jpg",
+    "Claude outputs/4_pepinieres_noria.jpg",
+    "Claude outputs/3_miroir_et_labo.jpg",
+    "Claude outputs/2_entree_est.jpg",
+    "Claude outputs/1_vue_aerienne.jpg",
     "Claude outputs/08_clairiere.jpg",
     "Claude outputs/07_camp_theo.jpg",
     "Claude outputs/06_bosquet.jpg",
     "Claude outputs/05_ruisseau_passerelle.jpg",
-    "Claude outputs/04_plaine_P2.jpg",
-    "Claude outputs/03_arche_rocheuse.jpg",
-    "Claude outputs/02_apres_prairie_P1.jpg",
-    "Claude outputs/01_avant_prairie_P1.jpg",
     "Claude outputs",
     "GDD/03_Tifazelts_et_Combats/Liste des attaques/Sans titre.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
-    "assets/cartes/Lumeridia_Est.png",
     "assets/cartes",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Cité Ocre.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Carte de Luméridia Est.png",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/00_Province_Lumeridia.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Routes/Route 1.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Val Palmeraie.md",
@@ -249,7 +250,6 @@
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Villes/Val Palmeraie.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Villes/Cité Ocre.md",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal.md/01_Lumeridia/Villes/Bourg-Azur.md",
-    "assets/ui/Tableau des caracteres.png",
     "Sans titre.canvas"
   ]
 }

@@ -131,6 +131,44 @@ aliases:
 **Repères de navigation**
 * Dôme du Labo visible de partout ; noria à l'est ; porte en pisé au nord ; le joueur suit l'eau pour trouver la place.
 
+## 🏗️ Construction Roblox — état réel (16 oct. 2026)
+
+> Construit par Claude dans Studio (générateur `ServerStorage.MapGeneration.ValPalmeraie`, modules Core / Bati / Vie / LISEZMOI). Sortie : `Workspace.Map.CityPlots.ValPalmeraie`. ~37 000 pièces, 23 lumières locales. **À sauvegarder (Ctrl+S).**
+
+### Ce qui est construit (décor)
+- **Cuvette** : le sol descend doucement de +2 (bord) à −8 (labo). Herbe rase dans la ville, sol battu sous l'esplanade, les bâtiments et les rues, herbe haute seulement dans la palmeraie extérieure.
+- **A — Allée des Palmes** (entrée est, depuis la Route 1) : piliers de pisé + enseigne « VAL PALMERAIE », double alignement de grands dattiers, lanternes, banquettes.
+- **B — Esplanade des Savoirs** : miroir d'eau en 5 bassins étagés (cascades, îlot planté d'un palmier, pont bas), promenades nord et sud bordées de palmiers et de banquettes tournées vers l'eau. **Laboratoire Arid** au bout : bâtiment en pisé, tambour à oculi, **dôme géodésique** (sommet du dôme ≈ y 48, flèche ≈ y 55, soit ~20–25 studs au-dessus de la canopée), intérieur avec atrium, bureau du Professeur et salle des spécimens (emplacements vides).
+- **Salon de Thé des Dattiers** sur terrasse au sud du miroir (3 coins thé, samovar fumant). **Pavillon Médical** en demi-cercle autour d'un bassin thermal + bassin secondaire.
+- **C — Faubourg des Fontaines** (ouest) : la plus grande partie des 80 maisons (simple, à étage, patio, en L, tour), ruelles, **passage couvert sous treilles** (lieu caché), **patio aux jasmins** fermé avec fontaine (lieu caché).
+- **D — Quartier des Pépinières** (sud-est) : noria (roue de 10 studs), serre géodésique, serre tunnel, serre basse, réserve à graines, 4 parcelles d'essai, ombrière de travail, **Souk des Semences** (8 étals), **Comptoir Botanique**.
+- **E — Porte du Sirocco** (nord) : deux tours, arche, remparts bas, poste de garde ; **caravansérail** (cour, dromadaires stylisés) ; **Antenne de l'Oasis** ; **atelier du potier** (lieu caché). La sortie mène directement à la route existante vers la Route 2 (non construite).
+- **Eau** : Seguia Mère (du nord jusqu'au haut du miroir, à l'est de la rue du Sirocco), branches jardins, aqueduc, faubourg, médicale, est ; regards maçonnés ; 6 ponts aux croisements.
+- **Végétation** : ~780 palmiers dattiers (dominants, avec régimes de dattes), ~130 grenadiers (patios et jardins), ~23 orangers, buissons (secs au nord), roseaux le long des canaux, nénuphars et lotus. Pas d'oliviers ni de cyprès.
+- **Signalétique** : 7 poteaux directionnels (Laboratoire, Salon de Thé, Pépinières, Comptoir, Souk, Pavillon Médical, Antenne, Caravansérail, Noria, Faubourg, Route 1, Route 2).
+- **Palette** : pisé rose-beige (assombri après le premier test, le blanc dominait), émeraude, verre turquoise, cuivre.
+
+### Vie d'ambiance (client, purement visuelle — `StarterPlayerScripts.ValPalmeraie_Ambiance`)
+- **20 PNJ figurines** (non bloquants) : promeneuse, porteur d'eau, jardinière, étudiante du labo, deux enfants, infirmière (trajets en boucle) ; gardien de la porte, caravanier, éclaireur de l'Antenne, maître du salon, 4 clients assis, 5 marchands. Bulle de répliques pour le PNJ le plus proche (16 studs). Aucune quête, aucune interaction.
+- Noria qui tourne, couronnes de palmiers qui ondulent près de la caméra, poissons dans les bassins, oiseaux, libellules (système de la Route 1).
+- **Heure de l'arrosage** toutes les 180 s (30 s) : brume dans les serres, jets sur les parcelles, noria accélérée, annonce discrète à l'écran.
+- Étalonnage chaud léger, uniquement quand la caméra est dans la ville.
+
+### Emplacements réservés au gameplay (vides, marqués par attributs)
+Atrium / BureauProfesseur / SalleSpecimens / EntreeLabo, 3 `SocleTiflask`, `RepereGuilde` (Antenne), `PosteMarchand` (souk), `Siege` (salon), 8 repères `SonPrevu_*` (sons à brancher, aucun fichier audio chargé).
+
+### Tests réellement faits en Play
+- Marche du personnage (Humanoid:MoveTo) : Route 1 → allée → miroir → intérieur du labo ; labo → rue du Sirocco → Porte → route de la Route 2 ; faubourg + pavillon médical + passage couvert ; pépinières + chemin des jardins ; chemin des palmes. Tout passe (un poteau au milieu d'une rue et un canal posé dans la rue du Sirocco ont été corrigés).
+- Aucun tronc ni bâtiment flottant détecté (palmier de l'îlot volontairement posé sur l'îlot).
+- Noria, déplacement des PNJ, bulles, brume et jets de l'arrosage, étalonnage : vérifiés par script. Aucune erreur de script dans la console.
+- FPS Studio : 15 dans la ville comme hors de la ville (limite de l'environnement de test, pas une mesure fiable sur un vrai appareil).
+
+### Limites connues
+- Figurines sans visage ni animation squelettique ; pas de vrais sons.
+- L'annonce de l'arrosage n'a pas été vue en capture.
+- L'enseigne intérieure de la Porte affiche aussi « VAL PALMERAIE ».
+- Pas de cycle jour/nuit dans la scène : les lanternes restent discrètes de jour.
+
 ## 🚧 À développer
 * Liste et statistiques des trois Tifazelts de départ disponibles dans la salle des starters.
 * Dialogues scénarisés complets du Professeur et de Zéphir lors de la remise du premier Tifazelt.
