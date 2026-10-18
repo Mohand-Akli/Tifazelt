@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
+                "file": "GDD/05_Inventaire/14. Objets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bourg-Azur - Construction et Direction Artistique"
+              "title": "14. Objets"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
+                "file": "GDD/05_Inventaire/14. Objets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
+                "file": "GDD/05_Inventaire/14. Objets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
+                "file": "GDD/05_Inventaire/14. Objets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,11 +202,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4641de6cbf8334",
+  "active": "36ed183fe99fee4c",
   "lastOpenFiles": [
+    "GDD/04_Joueur_et_PNJ/11. PNJ.md",
+    "GDD/03_Tifazelts_et_Combats/9. Capacités des Tifazelts.md",
+    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
+    "src/Backup1.rbxl",
     "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur.md",
     "CSV import/Armure de Débrits.md",
-    "GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/Bourg-Azur - Construction et Direction Artistique.md",
     "Claude outputs/6_fleuriste.jpg",
     "Claude outputs/5_sortie_route1.jpg",
     "Claude outputs/4_fontaine.jpg",
@@ -237,8 +240,6 @@
     "CSV import/Séance Féerique.md",
     "CSV import/Pouvoir météolorogique.md",
     "CSV import/Compte-Reve.md",
-    "CSV import/Voix Magique.md",
-    "CSV import/éclat surnaturel.md",
     "CSV import",
     "CSV Import",
     "GDD/03_Tifazelts_et_Combats/7. Tifazelts",
