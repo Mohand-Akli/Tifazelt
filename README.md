@@ -32,13 +32,10 @@ Ce répertoire sert d'archive et d'espace de travail principal pour la conceptio
 ```text
 ├── README.md
 ├── LICENSE
-├── assets/
-│   └── ui/                         (maquettes d'interface)
+├── 🏠 Accueil.md                   (sommaire du vault + légende du graphe)
+├── assets/                         (cartes, maquettes d'interface, icônes)
 ├── GDD/                            (Game Design Document — vault Obsidian)
-│   ├── 01_Game_Design_Core/
-│   │   ├── 1. Menus Et Interfaces.md
-│   │   ├── 2. Economie Et Formules Et Reste.md
-│   │   └── 3. Mécanique.md
+│   ├── 01_Game_Design_Core/        (menus, économie, mécaniques)
 │   ├── 02_Univers_et_Lore/
 │   │   ├── 4. Carte et Région d'Azzursal/
 │   │   │   ├── 00_Region_Azzursal.md
@@ -51,20 +48,17 @@ Ce répertoire sert d'archive et d'espace de travail principal pour la conceptio
 │   │   ├── 5. Quêtes Dans L'Aventure.md
 │   │   └── 6. Personnages.md
 │   ├── 03_Tifazelts_et_Combats/
-│   │   ├── 7. Tifazelts.md
-│   │   ├── 8. Capacités des Tifazelts.md
-│   │   ├── 9. Table des types.md
-│   │   └── Liste des attaques/     (une fiche par attaque)
-│   ├── 04_Joueur_et_PNJ/
-│   │   ├── 10. PNJ.md
-│   │   ├── 11. Sanctuaire.md
-│   │   └── 12. Joueur.md
-│   ├── 05_Inventaire/
-│   │   └── 13. Objets.md
-│   └── 06_Direction_Artistique/
-│       └── 14. Charte Graphique.md
+│   │   ├── 7. Tifazelts/00. Définition.md
+│   │   ├── 8. Attaques/            (283 fiches, une par attaque)
+│   │   ├── 8. Liste des attaques.base
+│   │   ├── 9. Capacités des Tifazelts.md
+│   │   └── 10. Table des types.md
+│   ├── 04_Joueur_et_PNJ/           (11. PNJ, 12. Joueur, 13. Sanctuaire)
+│   ├── 05_Inventaire/              (14. Objets)
+│   ├── 06_Direction_Artistique/    (15. Charte Graphique)
+│   └── 07_Production_Roblox/       (construction de la carte dans Roblox Studio)
 └── src/
-    └── (Scripts Luau, modèles 3D et assets UI Roblox — à venir)
+    └── Backup1.rbxl                (copie de secours du place Roblox)
 ```
 
 ## Licence

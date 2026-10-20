@@ -133,6 +133,8 @@ aliases:
 
 ## 🏗️ Construction Roblox — état réel (16 oct. 2026)
 
+> Vue d'ensemble de la production : [[00. Production Roblox]] · [[Journal de construction de la carte]].
+
 > Construit par Claude dans Studio (générateur `ServerStorage.MapGeneration.ValPalmeraie`, modules Core / Bati / Vie / LISEZMOI). Sortie : `Workspace.Map.CityPlots.ValPalmeraie`. ~37 000 pièces, 23 lumières locales. **À sauvegarder (Ctrl+S).**
 
 ### Ce qui est construit (décor)

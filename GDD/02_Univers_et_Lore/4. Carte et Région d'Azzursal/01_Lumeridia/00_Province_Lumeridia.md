@@ -59,4 +59,4 @@ aliases:
 * Map générée dans Roblox Studio (dossier `Workspace.Map`, générateur `ServerStorage.MapGeneration.LumeridiaEst`).
 * Les couleurs des emojis correspondent aux points de la carte de référence.
 * La forme de l'île, les villes, les routes, l'Asif-Safi et la colline suivent la carte ci-dessus.
-* Seul [[Bourg-Azur]] est aménagé pour l'instant ; les autres villes et la Cascade sont des emplacements vides. L'entrée de la [[Grotte Inconnue]] est posée à l'est de la [[Route 2]].
+* **État au 19 oct. 2026 :** [[Bourg-Azur]], la [[Route 1]] (forêt centrale et plaine ouest comprises) et [[Val Palmeraie]] sont construits. Les autres villes et la Cascade sont des emplacements vides. Détail : [[00. Production Roblox]] et [[Journal de construction de la carte]]. L'entrée de la [[Grotte Inconnue]] est posée à l'est de la [[Route 2]].

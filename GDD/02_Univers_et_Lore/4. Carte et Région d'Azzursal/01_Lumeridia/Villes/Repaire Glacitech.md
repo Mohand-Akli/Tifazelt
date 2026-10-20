@@ -3,7 +3,7 @@ tags:
   - monde
   - lieu_hostile
   - lumeridia
-  - team-glaciatech
+  - team-glacitech
 aliases:
   - Repaire de la Team Glacitech
   - Repaire Glacitech

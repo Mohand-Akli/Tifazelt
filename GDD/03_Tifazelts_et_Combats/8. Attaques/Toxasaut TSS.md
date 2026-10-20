@@ -1,0 +1,14 @@
+---
+Nom: "Toxasaut TSS"
+Type: "Poison"
+Catégorie: "Contact"
+Puissance: "125"
+Précision: "Infinie"
+Page: "Non"
+EM: "5"
+"Effet (technique, invisible en jeu)": "Le lanceur Appele des Sbires Morts Vivants recouvert d'armes et équipements nucléaires,les morts vivants fonce sur la cible et l'attaquent de toute leurs forces.Cette attaque augmente l'esquive du lanceur,et à 30% d'empoisoner la cible"
+"Description (visible en jeu)": "Le lanceur Appele des Sbires Morts Vivants recouvert d'armes et équipements nucléaires,les morts vivants fonce sur la cible et l'attaquent de toute leurs forces.Cette attaque augmente l'esquive du lanceur,et peut empoisoner la cible"
+tags:
+  - attaque
+  - type/poison
+---

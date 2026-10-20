@@ -1,0 +1,14 @@
+---
+Nom: "Choc Plasmatique"
+Type: "Électrique"
+Catégorie: "Contact"
+Puissance: "125"
+Précision: "100"
+Page: "Oui"
+EM: "10"
+"Effet (technique, invisible en jeu)": "Un Choc si puissant que le lanceur voit sa défense magique et sa défense physique diminuer de 1 cran"
+"Description (visible en jeu)": "Le lanceur se charge en éléctricité pour foncer sur la cible,ceci réduit la défense et la défense magique du lanceur"
+tags:
+  - attaque
+  - type/electrique
+---

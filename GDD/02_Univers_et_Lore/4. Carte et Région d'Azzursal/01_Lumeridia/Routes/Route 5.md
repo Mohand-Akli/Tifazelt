@@ -40,11 +40,11 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Créature de Pâturage (Bovin/Ovin)* | [[9. Table des types#Terre|Terre]] | 13 - 15 | 35% | Jour |
-| *Oiseau Chanteur* | [[9. Table des types#Vent|Vent]] / [[9. Table des types|Fée]] | 12 - 14 | 25% | Matin / Jour |
-| *Insecte Mielleux* | [[9. Table des types|Insecte]] / [[9. Table des types|Plante]] | 12 - 15 | 20% | Jour / Nuit |
-| *Chien/Renard de Garde* | [[9. Table des types#Obscurité|Obscurité]] ou [[9. Table des types#Feu|Feu]] | 14 - 16 | 15% | Nuit |
-| *Espèce rare du Plateau* | [[9. Table des types|Fée]] ou [[9. Table des types#Métal|Métal]] | 15 - 16 | 5% | Aube / Crépuscule |
+| *Créature de Pâturage (Bovin/Ovin)* | [[10. Table des types#Terre|Terre]] | 13 - 15 | 35% | Jour |
+| *Oiseau Chanteur* | [[10. Table des types#Vent|Vent]] / [[10. Table des types|Fée]] | 12 - 14 | 25% | Matin / Jour |
+| *Insecte Mielleux* | [[10. Table des types|Insecte]] / [[10. Table des types|Plante]] | 12 - 15 | 20% | Jour / Nuit |
+| *Chien/Renard de Garde* | [[10. Table des types#Obscurité|Obscurité]] ou [[10. Table des types#Feu|Feu]] | 14 - 16 | 15% | Nuit |
+| *Espèce rare du Plateau* | [[10. Table des types|Fée]] ou [[10. Table des types#Métal|Métal]] | 15 - 16 | 5% | Aube / Crépuscule |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 

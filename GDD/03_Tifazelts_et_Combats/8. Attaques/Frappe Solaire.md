@@ -1,0 +1,14 @@
+---
+Nom: "Frappe Solaire"
+Type: "Plante"
+Catégorie: "Contact"
+Puissance: "115"
+Précision: "100"
+Page: "Oui"
+EM: "10"
+"Effet (technique, invisible en jeu)": "Une attaque qui à besoin d'un tour de chargement.Si le soleil effervescent est sur le terrain,il n'ya pas de tour de chargement.Si il pleut la puissance de cette attaque est divisé par 2"
+"Description (visible en jeu)": "Le lanceur concentre son énergie au 1er tour et frappe l'adversaire d'une puissance forestiére au second tour."
+tags:
+  - attaque
+  - type/plante
+---

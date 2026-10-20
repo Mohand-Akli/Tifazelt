@@ -116,6 +116,10 @@ aliases:
 ## 📜 Quêtes liées
 * *À compléter (ex: Quête de départ, interagir avec la mère...)*
 
+## 🏗️ Construction Roblox
+* Détail de la construction (portes et intérieurs, PNJ, secrets, place pavée, moulin, littoral, crique secrète) : [[Bourg-Azur - Construction et Direction Artistique]].
+* Vue d'ensemble de la production : [[00. Production Roblox]].
+
 ## 🚧 À développer
 * Écriture des dialogues de la mère du joueur et des PNJ du village.
 * Scénarisation de l'événement de départ poussant le joueur vers la Route 1.

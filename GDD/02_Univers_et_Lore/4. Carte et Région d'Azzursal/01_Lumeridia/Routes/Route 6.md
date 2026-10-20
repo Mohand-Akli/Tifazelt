@@ -40,11 +40,11 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Boucardin des Roches* | [[9. Table des types#Terre|Terre]] | 15 - 17 | 30% | Jour |
-| *Rongeur Cuirassé* | [[9. Table des types#Métal|Métal]] | 16 - 18 | 25% | Jour / Nuit |
-| *Renard des Neiges (Corrompu)* | [[9. Table des types|Glace]] | 16 - 18 | 20% | Nuit / Tempête |
-| *Chauve-souris Féroce* | [[9. Table des types#Vent|Vent]] / [[9. Table des types#Obscurité|Obscurité]] | 15 - 17 | 15% | Nuit |
-| *Espèce rare de l'Escarpement* | [[9. Table des types|Glace]] ou [[9. Table des types#Métal|Métal]] | 17 - 19 | 10% | Brouillard / Glace |
+| *Boucardin des Roches* | [[10. Table des types#Terre|Terre]] | 15 - 17 | 30% | Jour |
+| *Rongeur Cuirassé* | [[10. Table des types#Métal|Métal]] | 16 - 18 | 25% | Jour / Nuit |
+| *Renard des Neiges (Corrompu)* | [[10. Table des types|Glace]] | 16 - 18 | 20% | Nuit / Tempête |
+| *Chauve-souris Féroce* | [[10. Table des types#Vent|Vent]] / [[10. Table des types#Obscurité|Obscurité]] | 15 - 17 | 15% | Nuit |
+| *Espèce rare de l'Escarpement* | [[10. Table des types|Glace]] ou [[10. Table des types#Métal|Métal]] | 17 - 19 | 10% | Brouillard / Glace |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 

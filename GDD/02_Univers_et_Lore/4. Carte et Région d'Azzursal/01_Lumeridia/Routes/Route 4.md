@@ -40,11 +40,11 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Oiseau Marin (Mouette/Albatros)* | [[9. Table des types#Vent|Vent]] / [[9. Table des types|Eau]] | 11 - 13 | 35% | Matin / Jour |
-| *Rongeur Foudroyant* | [[9. Table des types|Électrique]] | 10 - 12 | 25% | Jour / Nuit |
-| *Crabe Corallien* | [[9. Table des types|Eau]] | 11 - 13 | 20% | Nuit / Matin |
-| *Plante Aromatique (Agrume)* | [[9. Table des types|Plante]] | 11 - 12 | 15% | Jour |
-| *Espèce rare de l'Estuaire* | [[9. Table des types#Vent|Vent]] ou [[9. Table des types#Eau|Eau]] | 12 - 14 | 5% | Brouillard / Soir |
+| *Oiseau Marin (Mouette/Albatros)* | [[10. Table des types#Vent|Vent]] / [[10. Table des types|Eau]] | 11 - 13 | 35% | Matin / Jour |
+| *Rongeur Foudroyant* | [[10. Table des types|Électrique]] | 10 - 12 | 25% | Jour / Nuit |
+| *Crabe Corallien* | [[10. Table des types|Eau]] | 11 - 13 | 20% | Nuit / Matin |
+| *Plante Aromatique (Agrume)* | [[10. Table des types|Plante]] | 11 - 12 | 15% | Jour |
+| *Espèce rare de l'Estuaire* | [[10. Table des types#Vent|Vent]] ou [[10. Table des types#Eau|Eau]] | 12 - 14 | 5% | Brouillard / Soir |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 

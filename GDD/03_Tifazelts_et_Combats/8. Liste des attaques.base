@@ -1,15 +1,44 @@
-filters: file.folder == "CSV import"
+filters:
+  and:
+    - file.inFolder("GDD/03_Tifazelts_et_Combats/8. Attaques")
 views:
   - type: table
-    name: Table
+    name: Toutes les attaques
     order:
       - file.name
-      - Nom de lattaque
       - Type
-      - Catgorie
+      - Catégorie
       - Puissance
-      - Prcision
-      - "Page "
+      - Précision
       - EM
-      - Effet De lattaque Invisible dans le jeu cest utile que pour coder les effets des attaques
-      - Description de lattaque visible en jeu
+      - Page
+      - Description (visible en jeu)
+      - Effet (technique, invisible en jeu)
+    sort:
+      - property: Type
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Par type
+    groupBy:
+      property: Type
+      direction: ASC
+    order:
+      - file.name
+      - Catégorie
+      - Puissance
+      - Précision
+      - EM
+      - Description (visible en jeu)
+  - type: table
+    name: Par catégorie
+    groupBy:
+      property: Catégorie
+      direction: ASC
+    order:
+      - file.name
+      - Type
+      - Puissance
+      - Précision
+      - EM

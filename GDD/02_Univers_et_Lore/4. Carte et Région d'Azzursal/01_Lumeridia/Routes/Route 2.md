@@ -40,11 +40,11 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Lézard des sables* | [[9. Table des types#Terre|Terre]] | 5 - 7 | 35% | Jour |
-| *Oiseau rapace* | [[9. Table des types#Vent|Vent]] | 6 - 8 | 25% | Matin / Jour |
-| *Scorpion rocailleux* | [[9. Table des types|Poison]] / [[9. Table des types|Insecte]] | 5 - 7 | 20% | Nuit |
-| *Petit golem d'argile* | [[9. Table des types#Terre|Terre]] | 6 - 8 | 15% | Jour / Nuit |
-| *Espèce rare du défilé* | [[9. Table des types|Feu]] | 7 - 8 | 5% | Jour intense (Midi) |
+| *Lézard des sables* | [[10. Table des types#Terre|Terre]] | 5 - 7 | 35% | Jour |
+| *Oiseau rapace* | [[10. Table des types#Vent|Vent]] | 6 - 8 | 25% | Matin / Jour |
+| *Scorpion rocailleux* | [[10. Table des types|Poison]] / [[10. Table des types|Insecte]] | 5 - 7 | 20% | Nuit |
+| *Petit golem d'argile* | [[10. Table des types#Terre|Terre]] | 6 - 8 | 15% | Jour / Nuit |
+| *Espèce rare du défilé* | [[10. Table des types|Feu]] | 7 - 8 | 5% | Jour intense (Midi) |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 

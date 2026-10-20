@@ -40,11 +40,11 @@ aliases:
 
 | Tifazelt (Nom temp.) | Type | Niveau | Taux d'apparition | Moment de la journée |
 | :--- | :--- | :--- | :--- | :--- |
-| *Crabe de boue* | [[9. Table des types|Eau]] / [[9. Table des types#Terre|Terre]] | 8 - 10 | 35% | Jour / Nuit |
-| *Libellule d'eau* | [[9. Table des types|Insecte]] / [[9. Table des types|Eau]] | 8 - 11 | 30% | Jour |
-| *Amphibien toxique* | [[9. Table des types|Eau]] / [[9. Table des types|Poison]] | 9 - 11 | 20% | Nuit |
-| *Héron pêcheur* | [[9. Table des types#Vent|Vent]] / [[9. Table des types|Eau]] | 10 - 12 | 10% | Matin / Jour |
-| *Espèce rare du marais* | [[9. Table des types|Fée]] ou [[9. Table des types|Plante]] | 11 - 12 | 5% | Brouillard / Pluie |
+| *Crabe de boue* | [[10. Table des types|Eau]] / [[10. Table des types#Terre|Terre]] | 8 - 10 | 35% | Jour / Nuit |
+| *Libellule d'eau* | [[10. Table des types|Insecte]] / [[10. Table des types|Eau]] | 8 - 11 | 30% | Jour |
+| *Amphibien toxique* | [[10. Table des types|Eau]] / [[10. Table des types|Poison]] | 9 - 11 | 20% | Nuit |
+| *Héron pêcheur* | [[10. Table des types#Vent|Vent]] / [[10. Table des types|Eau]] | 10 - 12 | 10% | Matin / Jour |
+| *Espèce rare du marais* | [[10. Table des types|Fée]] ou [[10. Table des types|Plante]] | 11 - 12 | 5% | Brouillard / Pluie |
 
 *(Note : Tableaux à ajuster une fois la liste des 150 Tifazelts validée)*
 
