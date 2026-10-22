@@ -12,12 +12,12 @@ aliases:
 Toutes les captures d'écran prises dans Roblox Studio pendant la construction du jeu, dans l'ordre chronologique.
 Nom des fichiers : `AAAA-MM-JJ_HHhMM_sujet.jpg` (heure de Bruxelles). Les captures `ui-phaseN-…` montrent les écrans de l'interface, phase par phase (voir [[Liste des Menus et Écrans]]).
 
-**333 captures** du 2026-10-15 au 2026-10-20.
+**372 captures** du 2026-10-15 au 2026-10-20.
 
 | Thème | Nombre |
 | :--- | :--- |
 | Bourg-Azur | 29 |
-| Bourg-Azur — intérieurs | 11 |
+| Bourg-Azur — intérieurs | 27 |
 | Carte et terrain | 20 |
 | Essais d'objets | 4 |
 | Extensions de la carte | 2 |
@@ -28,6 +28,8 @@ Nom des fichiers : `AAAA-MM-JJ_HHhMM_sujet.jpg` (heure de Bruxelles). Les captur
 | Interface — phase 3 (combat) | 23 |
 | Interface — phase 4 (bâtiments et services) | 16 |
 | Interface — phase 5 (début de partie) | 27 |
+| Interface — phase 6 (en ligne) | 13 |
+| Interface — phase 7 (mini-jeux et énigmes) | 10 |
 | Route 1 | 103 |
 | Route 1 — Bosquet des Égarés | 31 |
 | Val Palmeraie | 14 |
@@ -1190,3 +1192,127 @@ Nom des fichiers : `AAAA-MM-JJ_HHhMM_sujet.jpg` (heure de Bruxelles). Les captur
 
 **04h30 · ui phase5 chargement val palmeraie astuce**
 ![[2026-10-20_04h30_ui-phase5-chargement-val-palmeraie-astuce.jpg|420]]
+
+### Interface — phase 6 (en ligne)
+
+**04h50 · ui phase6 menu principal bouton en ligne actif**
+![[2026-10-20_04h50_ui-phase6-menu-principal-bouton-en-ligne-actif.jpg|420]]
+
+**04h50 · ui phase6 en ligne proximite joueur test**
+![[2026-10-20_04h50_ui-phase6-en-ligne-proximite-joueur-test.jpg|420]]
+
+**04h51 · ui phase6 carte dresseur autre joueur lecture seule**
+![[2026-10-20_04h51_ui-phase6-carte-dresseur-autre-joueur-lecture-seule.jpg|420]]
+
+**10h16 · ui phase6 echange offre du joueur test**
+![[2026-10-20_10h16_ui-phase6-echange-offre-du-joueur-test.jpg|420]]
+
+**10h16 · ui phase6 echange reussi florelin recu**
+![[2026-10-20_10h16_ui-phase6-echange-reussi-florelin-recu.jpg|420]]
+
+**10h16 · ui phase6 combat en ligne contre joueur test**
+![[2026-10-20_10h16_ui-phase6-combat-en-ligne-contre-joueur-test.jpg|420]]
+
+**10h17 · ui phase6 combat en ligne remplacement et gel**
+![[2026-10-20_10h17_ui-phase6-combat-en-ligne-remplacement-et-gel.jpg|420]]
+
+**10h19 · ui phase6 combat en ligne plus d energie**
+![[2026-10-20_10h19_ui-phase6-combat-en-ligne-plus-d-energie.jpg|420]]
+
+**10h20 · ui phase6 en ligne onglet boss de raid**
+![[2026-10-20_10h20_ui-phase6-en-ligne-onglet-boss-de-raid.jpg|420]]
+
+**10h20 · ui phase6 raid salle d attente deux dresseurs**
+![[2026-10-20_10h20_ui-phase6-raid-salle-d-attente-deux-dresseurs.jpg|420]]
+
+**10h20 · ui phase6 raid combat pv partages**
+![[2026-10-20_10h20_ui-phase6-raid-combat-pv-partages.jpg|420]]
+
+**10h21 · ui phase6 raid salle rouverte apres victoire**
+![[2026-10-20_10h21_ui-phase6-raid-salle-rouverte-apres-victoire.jpg|420]]
+
+**10h22 · ui phase6 demande de combat recue**
+![[2026-10-20_10h22_ui-phase6-demande-de-combat-recue.jpg|420]]
+
+### Interface — phase 7 (mini-jeux et énigmes)
+
+**10h32 · ui phase7 peche lancer ponton bourg azur**
+![[2026-10-20_10h32_ui-phase7-peche-lancer-ponton-bourg-azur.jpg|420]]
+
+**10h32 · ui phase7 peche mouliner tension zone verte**
+![[2026-10-20_10h32_ui-phase7-peche-mouliner-tension-zone-verte.jpg|420]]
+
+**10h32 · ui phase7 peche prise tifazelt d eau**
+![[2026-10-20_10h32_ui-phase7-peche-prise-tifazelt-d-eau.jpg|420]]
+
+**10h32 · ui phase7 peche combat ondine terrain eau**
+![[2026-10-20_10h32_ui-phase7-peche-combat-ondine-terrain-eau.jpg|420]]
+
+**10h35 · ui phase7 plongee jauge air et bonbonne**
+![[2026-10-20_10h35_ui-phase7-plongee-jauge-air-et-bonbonne.jpg|420]]
+
+**10h36 · ui phase7 plongee bonbonne prend le relais**
+![[2026-10-20_10h36_ui-phase7-plongee-bonbonne-prend-le-relais.jpg|420]]
+
+**10h36 · ui phase7 enigme stele mauvais ordre**
+![[2026-10-20_10h36_ui-phase7-enigme-stele-mauvais-ordre.jpg|420]]
+
+**10h36 · ui phase7 enigme stele resolue**
+![[2026-10-20_10h36_ui-phase7-enigme-stele-resolue.jpg|420]]
+
+**10h37 · ui phase7 enigme dalles chasseur de tresors**
+![[2026-10-20_10h37_ui-phase7-enigme-dalles-chasseur-de-tresors.jpg|420]]
+
+**10h37 · ui phase7 enigme dalles resolue**
+![[2026-10-20_10h37_ui-phase7-enigme-dalles-resolue.jpg|420]]
+
+### Bourg-Azur — refonte des intérieurs (Guilde, Infirmerie, Café, Bazar, Fleuriste)
+
+**10h48 · interieurs avant bazar**
+![[2026-10-20_10h48_interieurs-avant-bazar.jpg|420]]
+
+**10h48 · interieurs avant cafe**
+![[2026-10-20_10h48_interieurs-avant-cafe.jpg|420]]
+
+**10h48 · interieurs avant fleuriste**
+![[2026-10-20_10h48_interieurs-avant-fleuriste.jpg|420]]
+
+**10h48 · interieurs avant guilde**
+![[2026-10-20_10h48_interieurs-avant-guilde.jpg|420]]
+
+**10h48 · interieurs avant infirmerie**
+![[2026-10-20_10h48_interieurs-avant-infirmerie.jpg|420]]
+
+**11h08 · interieurs bug maison teinte verte**
+![[2026-10-20_11h08_interieurs-bug-maison-teinte-verte.jpg|420]]
+
+**11h15 · interieurs guilde assis table carte**
+![[2026-10-20_11h15_interieurs-guilde-assis-table-carte.jpg|420]]
+
+**11h22 · interieurs maison teinte corrigee**
+![[2026-10-20_11h22_interieurs-maison-teinte-corrigee.jpg|420]]
+
+**11h23 · interieurs infirmerie dialogue soins**
+![[2026-10-20_11h23_interieurs-infirmerie-dialogue-soins.jpg|420]]
+
+**11h27 · interieurs bug camera bloquee a l arrivee**
+![[2026-10-20_11h27_interieurs-bug-camera-bloquee-a-l-arrivee.jpg|420]]
+
+**11h28 · interieurs apres guilde arrivee**
+![[2026-10-20_11h28_interieurs-apres-guilde-arrivee.jpg|420]]
+
+**11h28 · interieurs apres infirmerie**
+![[2026-10-20_11h28_interieurs-apres-infirmerie.jpg|420]]
+
+**11h29 · interieurs apres bazar**
+![[2026-10-20_11h29_interieurs-apres-bazar.jpg|420]]
+
+**11h29 · interieurs apres cafe**
+![[2026-10-20_11h29_interieurs-apres-cafe.jpg|420]]
+
+**11h29 · interieurs apres infirmerie coupole**
+![[2026-10-20_11h29_interieurs-apres-infirmerie-coupole.jpg|420]]
+
+**11h30 · interieurs apres fleuriste**
+![[2026-10-20_11h30_interieurs-apres-fleuriste.jpg|420]]
+

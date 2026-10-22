@@ -225,3 +225,99 @@ Autres changements : la Tiflask est dessinée comme une fiole ronde à bouchon (
 
 Captures de cette phase : [[Historique des captures]] (section « Interface — phase 5 »).
 
+## 🌐 Phase 6 — en ligne (20 oct. 2026)
+Le serveur fait l'arbitre : `ServerScriptService.EnLigne_Serveur` (un seul RemoteEvent, `ReplicatedStorage.Reseau.EnLigne`). Côté joueur : `UI.Reseau` (messages, profil public, combat distant).
+
+| Écran | Module | Contenu |
+| :--- | :--- | :--- |
+| 6.1 En ligne | `Ecrans.EnLigne` | Ouvert depuis le bandeau EN LIGNE du menu. Onglets À proximité (≤ 250 studs), Amis (amis Roblox), Boss de raid. Fiche du dresseur choisi : grade, classe, captures, équipe ; boutons COMBAT, ÉCHANGE, CARTE DE DRESSEUR. Liste rafraîchie toutes les 3 s. |
+| 6.2 Demande de combat | fenêtre de `UI_Client` + `Ecrans.Combat` | Invitation avec les règles (accepter / refuser ; l'envoyeur peut annuler ; sans réponse en 30 s elle expire). Refus automatique si le joueur est déjà en combat, en échange ou dans un dialogue. Le combat se joue dans l'écran Combat habituel : chaque tour est calculé par le serveur quand les deux dresseurs ont choisi. FUITE devient ABANDON, SAC grisé. |
+| 6.3 Échange | `Ecrans.Echange` | Deux colonnes (je propose / je reçois), fiche complète du Tifazelt proposé en face, PRÊT des deux côtés. Changer d'offre annule les validations. Le Tifazelt reçu entre dans l'équipe et la Tifalistre. |
+| 6.4 Carte d'un autre joueur | `Ecrans.CarteDresseur` (`lecture = true`) | Même carte que la sienne, ses TFD restent privés. |
+| 6.5 Boss de raid | `Ecrans.Raid` | Salle d'attente (rejoindre / quitter / lancer). Chaque dresseur affronte le boss avec son équipe ; les PV du boss sont partagés et se mettent à jour chez tous. Victoire : TFD + un objet rare pour chaque dresseur qui l'a touché. La salle rouvre 20 s après. |
+
+Moteur de combat : `Combat.Moteur` accepte `deuxJoueurs = true` (le camp A est joué par un second dresseur : action choisie, remplaçant choisi, abandon) ; pas d'XP ni de bonheur dans les combats en ligne. Sauvegarde de l'ancien moteur et de l'ancien écran Combat dans `ServerStorage.Sauvegardes_UI`.
+
+Joueur test (Studio seulement) : un faux dresseur « Joueur test » apparaît dans la liste pour essayer seul. Il accepte les invitations, propose un Tifazelt, valide après toi, joue ses tours et tape aussi le boss de raid. Attribut de workspace `EnLigne_JoueurTest` = false pour l'enlever. Il n'existe jamais dans le jeu publié.
+
+### Ce qui suit le vault
+- Menu En ligne : combat, échange, carte des autres joueurs (1. Menus Et Interfaces).
+- PvP : victoire = PC, +1 PC par victoire de suite ; défaite = 0 PC et série brisée (3. Mécanique).
+- Échange : aucune évolution ne demande d'échange (rien n'en dépend).
+- Boss de raid : seul ou à plusieurs, par région (façon Pokémon GO).
+
+### ⚠️ Provisoire / à trancher dans le GDD
+- **PC par victoire : 10** (+1 par victoire de suite). Le vault ne chiffre pas la base.
+- **Règles PvP** : équipes soignées pour le combat, pas d'objets, abandon = défaite, choix automatique après 60 s sans réponse, l'équipe ne garde ni dégâts ni XP.
+- **Échange** : Tifazelts seulement (le vault parle aussi d'objets).
+- **Raid** : boss Voltaneau niveau 35 pour Bourg-Azur, PV = 6 fois + 1 par dresseur, 5 minutes, récompense = TFD d'un combat de boss + un objet rare ; accès par le menu En ligne (pas encore de lieu dans le monde).
+- **Proximité** : 250 studs.
+- **Données venues du joueur** : sans sauvegarde, équipes et profils sont envoyés par le joueur ; le serveur les nettoie et les borne (types, attaques, stats, longueurs, limite de messages). À rendre sûr quand les données seront gardées par le serveur.
+
+### 🧪 Tests faits en jeu (phase 6, avec le Joueur test)
+- Menu : bandeau EN LIGNE ouvre l'écran. Liste : Joueur test « Ami », « À 4 m ». Carte de dresseur en lecture seule (TFD « Privé », 40 PC, 2 cristaux).
+- Échange : invitation acceptée, son offre affichée (Florelin), j'ai proposé Aqualune, validé, Florelin reçu, toasts.
+- Combat en ligne : invitation acceptée, combat complet avec remplacements et statuts, victoire : 320 → 330 PC, série de 1.
+- Raid : salle avec 2 dresseurs, lancement, PV partagés qui baissent avec les coups des deux, boss vaincu : +2 800 TFD, la salle rouvre.
+- Demande de combat reçue : fenêtre ACCEPTER / REFUSER avec les règles.
+- 0 erreur de nos scripts.
+- **Non vérifié :** deux vrais joueurs en même temps (Studio ne lance ici qu'un joueur ; à tester avec Test > Clients et serveurs, 2 joueurs), déconnexion pendant un combat, délai de 60 s, onglet Amis avec de vrais amis Roblox, les vrais clics et la manette.
+- Commandes de test : `open:EnLigne`, `t:onglet|raid`, `t:combat`, `t:echange`, `t:carte`, `t:proposer|2`, `t:valider`, `open:Raid`, `t:rejoindre`, `t:lancer`.
+
+Captures de cette phase : [[Historique des captures]] (section « Interface — phase 6 »).
+
+## 🎣 Phase 7 — mini-jeux et énigmes (20 oct. 2026)
+
+| Écran | Module | Contenu |
+| :--- | :--- | :--- |
+| 7.1 Pêche | `Ecrans.Peche` | Invite « Pêcher » au bout du ponton de Bourg-Azur (sur la plateforme, rien d'ajouté dans l'eau). Il faut une canne à pêche dans les objets clés. LANCER, attendre que ça morde, FERRER à temps (trop tôt ou trop tard = raté), puis MOULINER : maintenir pour tirer, relâcher pour détendre, garder le curseur dans la zone verte pendant que le Tifazelt tire par à-coups. Ligne cassée si la tension est au maximum, fuite si la ligne reste molle. Prise = combat contre un Tifazelt de type Eau (nouveau décor de combat « eau »). Le décor du jeu reste visible derrière l'interface. Espace, clic, bouton A ou gâchette droite. |
+| 7.2 Plongée | `UI.Plongee` (sur le HUD) | Jauge AIR dès que la tête est sous l'eau : temps restant, profondeur en mètres. Le Tuba de plongée donne plus de souffle ; la Bonbonne d'oxygène prend le relais (5 minutes, elle ne se recharge pas à la surface). La jauge passe au magenta sous 25 %. Sans air : remontée à la surface. Sous l'eau : teinte bleutée et flou au loin. |
+| 7.3 Énigmes | `Ecrans.Enigme` + `UI.Enigmes` | Écran commun, interface selon l'énigme. « Symboles » : quatre creux à remplir dans l'ordre que donne l'indice (stèle du Sanctuaire de Pierre, Route 1). « Dalles » : rejouer l'ordre des lueurs, trois manches de 4, 5 puis 6 (pierre du cercle, Crique secrète). Récompense une seule fois. |
+
+Autres changements :
+- Maman donne le Tuba de plongée au début d'une nouvelle partie (vault : 14. Objets).
+- Les énigmes « Chasseur de trésors » ne sont visibles que pour cette classe : attribut `ChasseurSeulement` sur l'invite.
+- Invites ajoutées (attribut `Service`) : Plateforme du ponton (Peche), Stèle de la Route 1 (Enigme = stele_route1), Pierre du cercle de la Crique secrète (Enigme = pierre_crique).
+
+### Ce qui suit le vault
+- La canne permet d'affronter des Tifazelts de type Eau ; les spots de pêche (remous) et la canne améliorable sont décrits dans Asif-Safi et 14. Objets.
+- Bonbonne : 5 minutes, rechargée par un PNJ de Florédena. Tuba : respirer plus longtemps. Jauge d'oxygène, ColorCorrection et DepthOfField sous l'eau (Profondeurs Sous-Marines).
+- Énigmes cachées dans le monde, avec des puzzles réservés au Chasseur de trésors (3. Mécanique).
+
+### ⚠️ Provisoire / à trancher dans le GDD
+- **Pêche** :
+  - réglages : zone verte, vitesse de prise, attente de 1,6 à 4,2 s, 1 s pour ferrer, « Canne pro » prévue ;
+  - prises : seulement Ondine (seule espèce Eau de test) ;
+  - niveau du Tifazelt pêché : autour de la moyenne de l'équipe ;
+  - pas encore de remous visibles dans l'eau, pas d'appâts.
+- **Plongée** :
+  - souffle : 15 s sans équipement, +25 s avec le Tuba, regagné à 6 s par seconde à la surface ;
+  - remontée automatique quand l'air manque ;
+  - recharge de la Bonbonne : pas encore de PNJ, et le prix est `???` dans le vault.
+- **Mer de Bourg-Azur** : le script existant `Route1_Passe5_Client` (le « courant ») ramène le joueur s'il nage à plus de 12 studs de la rive. On ne peut donc pas encore plonger au large de Bourg-Azur. C'est voulu pour la Route 1 ; il faudra une exception quand la Tenue de plongée existera (vault : elle permet de nager dans la mer).
+- **Énigmes** : textes, solutions, emplacements et récompenses inventés pour l'exemple (1 500 TFD + 2 Super potions ; 2 500 TFD + 3 Tiflask d'écume + 1 Réveil).
+
+### 🧪 Tests faits en jeu (phase 7)
+- **Pêche** : ouverture au ponton, lancer, « Ça mord ! », ferrer, mouliner (pilote automatique), prise, combat contre une Ondine niveau 31 sur le décor « eau », fuite.
+- **Plongée** :
+  - jauge AIR visible sous l'eau, avec teinte bleue et flou ;
+  - temps et profondeur qui bougent ;
+  - la Bonbonne (orange) prend le relais quand le souffle est vide ;
+  - test fait au large (x = 3 050), courant désactivé le temps du test.
+- **Énigmes** :
+  - stèle : mauvais ordre refusé (la pierre reste immobile), bon ordre accepté, +1 500 TFD ;
+  - dalles : trois manches réussies, récompense.
+- 0 erreur de nos scripts.
+- **Non vérifié** :
+  - la vraie prise en main de la pêche (maintenir et relâcher à la main) et son équilibre ;
+  - la descente à la nage (le personnage flotte : il faut nager vers le bas) ;
+  - la remontée automatique quand l'air manque (la Bonbonne de test durait 5 minutes) ;
+  - l'invite cachée pour une autre classe que Chasseur de trésors ;
+  - les vrais clics et la manette.
+- **Commandes de test** :
+  - pêche : `service:Peche`, `t:lancer`, `t:ferrer`, `t:auto`, `t:combattre` ;
+  - plongée : `objet:Bonbonne d'oxygène`, `plonger:16` ;
+  - énigmes : `enigme:stele_route1`, `t:poser|cercle`, `t:valider`, `enigme:pierre_crique`, `t:resoudre`.
+
+Captures de cette phase : [[Historique des captures]] (section « Interface — phase 7 »).
+

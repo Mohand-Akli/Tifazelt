@@ -61,6 +61,8 @@ Bourg-Azur est le **village natal** du joueur : c'est le premier lieu qu'il voit
 - **Extérieur :** les réglages globaux de Luméridia sont conservés (étalonnage de la Route 1, Atmosphere, Bloom léger). Les **52 lampadaires** ont une lumière plus douce (luminosité 0,8, portée 24, sans ombres).
 - **Murs « éclairés de l'intérieur » :** les plafonniers des anciens intérieurs (luminosité 1,6, portée 22) traversaient les murs. Leur suppression a réglé le problème.
 - **Intérieurs :** au plus 2 à 3 points lumineux chauds par pièce (luminosité 0,3, portée 24 ; 0,36 et 28 dans la Guilde), sans ombres. Le reste vient de la lumière ambiante. Les fenêtres intérieures sont des vitres « jour diffus » qui n'émettent aucune lumière.
+- **Ambiance intérieure (20 oct.) :** dès que le joueur est dans un intérieur, le script client `Interieurs_Ambiance` coupe la brume extérieure (Atmosphere), retire les rayons du soleil, renforce un peu la lumière ambiante et ajoute un léger étalonnage chaud. Tout revient en 0,35 s quand il sort.
+- **Enveloppes :** chaque intérieur est entouré de blocs épais, invisibles pour le joueur. Sans eux, la lumière turquoise du ciel traversait les murs et plafonds de 1 stud (l'éclairage de Roblox travaille par cases de 4 studs) et donnait une teinte verte aux pièces.
 
 ---
 
@@ -90,12 +92,11 @@ Le bâtiment visible dans la rue ne sert que de façade. L'**intérieur jouable*
 | Bâtiment | Taille (studs) | Ce qu'on y trouve |
 |---|---|---|
 | **Maison du joueur** | 44 × 36 | Salon (canapé, table basse, meuble TV, bibliothèque, lampadaire, tapis), cuisine et salle à manger (plan de travail, frigo, évier, plaques, placards, table et 4 chaises), **chambre du joueur** (lit, chevet, bureau et ordinateur, armoire, affiche), **chambre de la mère** (lit double, deux chevets, commode avec miroir, photo), entrée (porte-manteau, meuble à chaussures). C'est ici que **le joueur apparaît** au début de la partie. |
-| **Infirmerie Tifazelt** | 48 × 38 | Allée d'accueil, comptoir rose et blanc, station de soin avec 6 capsules sous un dôme de verre et un écran, grande croix rouge, 3 lits de soin séparés par des rideaux, salle d'attente (bancs, table basse et magazines, fontaine à eau, affiche). |
-| **Guilde des Dresseurs** | 56 × 42 | Grand comptoir, étagères de rouleaux, emblème or et bleu, bannières, **arène d'entraînement** tracée au sol, tableau « Avis de missions », coin « Échanges » (pupitre et panneau), carte de Luméridia, étagère de trophées et médailles, 4 tables avec chaises, caisses et tonneau. |
-| **Café des Embruns** | 44 × 34 | Comptoir bleu azur, machine à café en cuivre, vitrine de pâtisseries, tabourets de bar, ardoise « Thé des marins · Café salé · Brioche de l'Azur », 5 tables rondes sous des suspensions, décor marin (bouée, filet de pêche et flotteurs, tableau de bateau, rame, coquillages). |
-| **Fleuriste** | 34 × 28 | Gradins de pots fleuris le long des murs, table centrale avec seaux de bouquets, comptoir avec ruban, paniers de lierre suspendus, arrosoir. |
-| **Bazar de l'Azur** | 40 × 30 | Deux rayons garnis, étagère murale, comptoir et caisse, table d'exposition avec paniers de fruits, caisses et tonneaux, enseigne intérieure. |
-
+| **Infirmerie Tifazelt** | 48 × 38 | *Refaite le 20 oct.* **Coupole** polygonale (16 × 5 panneaux, nervures dorées, oculus) au-dessus de l'entrée, tapis d'accueil, comptoir en arc (marbre, bandeau rouge, écran « Fiches dresseurs », registre, sonnette, bouquet), infirmière sur une estrade, **station de soin** (6 fioles de couleur dans leurs alvéoles sous un dôme de verre, écran « Soins 6/6 prêts »), enseigne « Infirmerie Tifazelt » avec croix verte, deux armoires à pharmacie vitrées, chariot de soins. Salle d'attente : deux bancs face à face avec coussins, table basse (magazines, bouquet), fontaine à eau, deux affiches, plantes. Espace médical : 3 lits avec chevets, séparés par des rideaux sur tringles, perfusion. |
+| **Guilde des Dresseurs** | 56 × 42 | *Refaite le 20 oct.* Charpente apparente (poutres, corbeaux, piliers), fenêtres hautes, tapis bleu et or, **terrain d'entraînement** tracé au sol, comptoir bleu et or sur une estrade (registre, plume, sonnette), grand emblème or et bleu, ruban « Guilde des Dresseurs », 2 bannières, 2 étagères de rouleaux, **tableau « Avis de missions »** avec pupitre, **coin Échanges** (panneau, table ronde, 2 chaises), **salle commune** (grande table avec la carte de la région, 2 bancs de 4 places), vitrine des trophées (coupes, médailles, plaque « Palmarès »), caisses et tonneau, 3 lustres en bois. |
+| **Café des Embruns** | 44 × 34 | *Refait le 20 oct.* Sol en tomettes, soubassement turquoise, poutres. Bar turquoise à lattes avec repose-pied en laiton, **vitrine de pâtisseries** (brioches, tartelettes, croissants), 5 tabourets, 3 suspensions au-dessus du bar. Arrière-bar : **machine à café en cuivre** (dôme, groupes, manomètre), moulin, théière, étagères de bocaux, bouteilles et tasses, **ardoise « Thé des marins · Café salé · Brioche de l'Azur »**. Salle : 5 tables rondes (10 chaises) sous des suspensions en cuivre. Décor marin : filet et flotteurs, bouée, rames croisées, coquillages, tableau de la mer. |
+| **Fleuriste** | 34 × 28 | *Refaite le 20 oct.* Tomettes, soubassement vert, poutres claires. **Gradins de pots** à 3 marches (mur gauche) et 2 marches (mur droit), table centrale avec 4 seaux de bouquets et étiquette, **comptoir avec rouleaux de ruban**, papier kraft, ciseaux, bouquet prêt, **arrosoir**, 3 **paniers de lierre suspendus**, **bougainvillée** sur treillage, jardinière à la fenêtre. |
+| **Bazar de l'Azur** | 40 × 30 | *Refait le 20 oct.* Comptoir avec **caisse enregistreuse**, balance et bocal de bonbons ; enseigne suspendue « Bazar de l'Azur » ; étagère derrière Léon (potions, fioles, bocaux, boîtes) ; **grande étagère à 4 rayons** étiquetés Soins / Tiflasks / Vivres / Outils ; banc à paniers de fruits et objets suspendus (lanternes, cordes) ; table d'exposition (paniers de baies, fioles, ardoise « Promo du jour ») ; caisses et tonneaux. La **peluche Tiflask** (secret) est sur le rayon Outils, en hauteur. |
 ---
 
 ## 🏘️ 4. Corrections dans la ville
@@ -230,6 +231,9 @@ Ce sont des secrets discrets, sans récompense, à découvrir en explorant. Une 
 | Générateur de la passe 2 | `ServerStorage.MapGeneration.BourgAzur.Passe2` et `Passe2b` (mode d'emploi `LISEZMOI_Passe2`) |
 | Sauvegarde des éléments modifiés | `ServerStorage.BourgAzur_Sauvegarde_Passe2` |
 | Intérieurs | `Workspace.Interieurs.<MaisonJoueur / Infirmerie / Guilde / Cafe / Fleuriste / Bazar>` |
+| Générateur des intérieurs (refonte du 20 oct.) | `ServerStorage.MapGeneration.BourgAzur.Passe3_Interieurs` (Kit + une pièce par module, mode d'emploi `LISEZMOI`) |
+| Sauvegarde des anciens intérieurs | `ServerStorage.Sauvegardes_Interieurs.<Nom>_avant` |
+| Ambiance intérieure (client) | `StarterPlayerScripts.Interieurs_Ambiance` |
 | Portes et assises (serveur) | `ServerScriptService.BourgAzur_Portes` |
 | Animations, bulles, secrets (client) | `StarterPlayerScripts.BourgAzur_Client` |
 | PNJ | `Workspace.Map.CityPlots.BourgAzur.PNJ` (et dans chaque intérieur) |
@@ -249,3 +253,30 @@ Ce sont des secrets discrets, sans récompense, à découvrir en explorant. Une 
 - Tests en jeu : aller-retour de la crique, bout du ponton, ailes du moulin qui tournent.
 - Liste des secrets : [[Secrets d'exploration]]. Journal : [[Journal de construction de la carte]].
 
+## 🏛️ 14. Refonte des intérieurs (20 oct. 2026)
+> Générateur `ServerStorage.MapGeneration.BourgAzur.Passe3_Interieurs`. Anciens intérieurs sauvegardés dans `ServerStorage.Sauvegardes_Interieurs`. Captures avant/après : [[Historique des captures]] (section « refonte des intérieurs »).
+
+- **Pièces refaites :** Guilde, Infirmerie, Café, Bazar et Fleuriste (détail au § 3.5). Chaque pièce garde sa porte magique, son point d'arrivée, son PNJ (avec ses répliques et son service) et ses secrets. La Maison du joueur n'a pas été refaite : elle a seulement reçu l'enveloppe qui corrige sa teinte.
+- **Règles respectées :** 2 à 3 lumières chaudes sans ombres par pièce, vitres non émissives, aucune collision invisible. Les assises sont des sièges sans collision avec l'invite « S'asseoir » habituelle : on passe de 33 à 40 places. La zone d'arrivée devant la porte reste dégagée.
+- **Bugs corrigés :**
+  - la teinte verdâtre et la brume dans les pièces ;
+  - les PNJ cachés derrière des comptoirs trop hauts : les comptoirs sont plus bas et les PNJ sont sur une estrade ;
+  - Léon, qui était posé sur le point d'arrivée du Bazar ;
+  - la caméra bloquée derrière la lueur de la porte à l'arrivée : l'écran devenait gris ;
+  - les traînées de vent de la Route 1 qui apparaissaient à l'intérieur.
+- **Choix à valider (PROVISOIRE) :**
+  - les croix de soin de l'Infirmerie sont **vertes**, pour éviter l'emblème de la croix rouge, qui est protégé ;
+  - l'arène de la Guilde est un **terrain rectangulaire**, pour éviter un motif de type Poké Ball ;
+  - les textes « Coin Échanges », « Palmarès de la Guilde », « Promo du jour » et « Bouquets du jour », ainsi que ceux des deux affiches de l'Infirmerie.
+- **Testé en jeu (Play) :**
+  - entrée par la porte (Guilde, Infirmerie, Café, Bazar, Fleuriste, Maison) et sortie (Infirmerie) ;
+  - brume coupée à l'intérieur puis rétablie à la sortie ;
+  - s'asseoir sur un banc de la salle commune ;
+  - dialogue avec la réceptionniste et avec l'infirmière, jusqu'au choix « Soigner l'équipe » ;
+  - aucune erreur dans la console.
+- **Limite observée :** à la toute première entrée dans une pièce, la teinte peut rester verte 1 à 3 secondes, le temps que Roblox recalcule l'éclairage.
+- **Non vérifié :**
+  - les services ouverts jusqu'au bout depuis le Café et le Bazar ;
+  - le jeu sur mobile ;
+  - le multijoueur ;
+  - les performances sur un appareil modeste (environ 470 à 650 pièces par intérieur).

@@ -82,18 +82,18 @@ aliases:
 ## 🌐 Phase 6 — En ligne
 | # | Écran | Contenu | Lien GDD | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| 6.1 | **Menu En ligne** | Joueurs à proximité / amis | [[1. Menus Et Interfaces#🌐 En ligne\|En ligne]] | ☐ |
-| 6.2 | **Demande de combat (PvP)** | Invitation, acceptation, règles | [[3. Mécanique#⚔️ PvP (Joueur contre Joueur)\|PvP]] | ☐ |
-| 6.3 | **Échange** | Deux colonnes, validation des deux côtés | [[3. Mécanique#🔄 Échange de Tifazelt\|Échange]] | ☐ |
-| 6.4 | **Carte de dresseur d'un autre joueur** | Version lecture seule de 2.7 | — | ☐ |
-| 6.5 | **Boss de raid** | Salle d'attente, équipe, récompenses | [[3. Mécanique#🐉 Boss de Raid\|Raid]] | ☐ |
+| 6.1 | **Menu En ligne** | Joueurs à proximité / amis | [[1. Menus Et Interfaces#🌐 En ligne\|En ligne]] | ✅ onglets À proximité / Amis / Boss de raid, fiche du dresseur, COMBAT, ÉCHANGE, CARTE |
+| 6.2 | **Demande de combat (PvP)** | Invitation, acceptation, règles | [[3. Mécanique#⚔️ PvP (Joueur contre Joueur)\|PvP]] | ✅ invitation (accepter / refuser / annuler), combat calculé par le serveur, PC + série de victoires |
+| 6.3 | **Échange** | Deux colonnes, validation des deux côtés | [[3. Mécanique#🔄 Échange de Tifazelt\|Échange]] | ✅ deux colonnes, validation des deux côtés, offre changée = validations annulées (Tifazelts seulement pour l'instant) |
+| 6.4 | **Carte de dresseur d'un autre joueur** | Version lecture seule de 2.7 | — | ✅ même carte, TFD privés |
+| 6.5 | **Boss de raid** | Salle d'attente, équipe, récompenses | [[3. Mécanique#🐉 Boss de Raid\|Raid]] | ✅ salle d'attente, PV du boss partagés, récompenses (boss et chiffres provisoires) |
 
 ## 🎣 Phase 7 — Mini-jeux et énigmes
 | # | Écran | Contenu | Lien GDD | Statut |
 | :--- | :--- | :--- | :--- | :--- |
-| 7.1 | **Pêche** | Jauge de tension, prise | [[14. Objets#**Canne à pêche**\|Canne à pêche]] | ☐ |
-| 7.2 | **Plongée** | Jauge d'oxygène (bonbonne, 5 min) | [[14. Objets#**Bonbonne d'oxygène**\|Bonbonne]] | ☐ |
-| 7.3 | **Puzzles et énigmes** | Interface selon l'énigme | [[3. Mécanique#🧩 Puzzles et Énigmes\|Puzzles]] | ☐ |
+| 7.1 | **Pêche** | Jauge de tension, prise | [[14. Objets#**Canne à pêche**\|Canne à pêche]] | ✅ lancer, ferrer, jauge de tension (zone verte), prise → combat contre un Tifazelt Eau ; ponton de Bourg-Azur |
+| 7.2 | **Plongée** | Jauge d'oxygène (bonbonne, 5 min) | [[14. Objets#**Bonbonne d'oxygène**\|Bonbonne]] | ✅ jauge d'air dès que la tête est sous l'eau, Tuba (plus de souffle), Bonbonne 5 min, profondeur, teinte bleue et flou |
+| 7.3 | **Puzzles et énigmes** | Interface selon l'énigme | [[3. Mécanique#🧩 Puzzles et Énigmes\|Puzzles]] | ✅ écran commun ; énigme des symboles (stèle, Route 1) et des dalles (Crique secrète, Chasseur de trésors seulement) |
 
 ---
 **Total : 4 fondations + 45 écrans.** Les phases 0 à 2 donnent un jeu explorable avec de vrais menus ; la phase 3 demande que le système de combat soit codé en même temps.

@@ -11,10 +11,14 @@
             "id": "c2dce2d634d21589",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Liste des Menus et Écrans"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,6 +178,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "0c12d8779686b577",
+            "type": "leaf",
+            "state": {
+              "type": "gemini-agent-view",
+              "state": {},
+              "icon": "sparkles",
+              "title": "Mode Agent"
             }
           }
         ],
@@ -191,29 +207,43 @@
       "command-palette:Ouvrir la palette de commandes": false,
       "bases:Créer une nouvelle base": false,
       "obsidian-importer:Importer des notes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe : Mode agent": false
     }
   },
   "active": "36ed183fe99fee4c",
   "lastOpenFiles": [
-    "GDD/08_Captures/_p5_append.md",
-    "GDD/08_Captures/2026-10-20_04h30_ui-phase5-chargement-val-palmeraie-astuce.jpg",
-    "GDD/08_Captures/2026-10-20_04h29_ui-phase5-starter-zephir-prend-pyrofennec-objets-recus.jpg",
-    "GDD/08_Captures/2026-10-20_04h28_ui-phase5-starter-fioles-tiflask-florepine.jpg",
-    "GDD/08_Captures/2026-10-20_04h28_ui-phase5-arrivee-chambre-nouvelle-partie-2.jpg",
-    "GDD/08_Captures/2026-10-20_04h27_ui-phase5-creation-dresseur-avatar-pose-repos-magenta.jpg",
-    "GDD/08_Captures/2026-10-20_04h24_ui-phase5-fin-tutoriel-quete-vers-route-2.jpg",
-    "GDD/08_Captures/2026-10-20_04h23_ui-phase5-combat-zephir-liste-attaques.jpg",
-    "GDD/08_Captures/2026-10-20_04h22_ui-phase5-combat-zephir-choix-attaque.jpg",
-    "GDD/08_Captures/2026-10-20_04h21_ui-phase5-combat-apprentissage-contre-zephir.jpg",
-    "GDD/08_Captures/2026-10-20_04h20_ui-phase5-starter-zephir-choisit-aqualune.jpg",
+    "GDD/01_Game_Design_Core/3. Mécanique.md",
+    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+    "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
+    "Accueil.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "Roblox_Textures/Vetements_PNJ/apercu_visages.jpg",
+    "Roblox_Textures/Vetements_PNJ/apercu_hauts.jpg",
+    "Roblox_Textures/Vetements_PNJ/apercu_bas.jpg",
     "GDD/08_Captures/Historique des captures.md",
-    "GDD/08_Captures/captures_4.zip",
-    "GDD/08_Captures/captures_3.zip",
-    "GDD/08_Captures/captures_2.zip",
-    "GDD/08_Captures/captures_1.zip",
-    "GDD/08_Captures",
-    "GDD/03_Tifazelts_et_Combats/8. Liste des attaques.base",
+    "Roblox_Textures/Vetements_PNJ/Visages/V24_Sage.png",
+    "Roblox_Textures/Vetements_PNJ/Visages/V23_Enfant_joyeux.png",
+    "Roblox_Textures/Vetements_PNJ/Visages/V22_Enfant_espiegle.png",
+    "Roblox_Textures/Vetements_PNJ/Visages/V21_Vieux_marin.png",
+    "Roblox_Textures/Vetements_PNJ/Visages/V20_Grand_mere.png",
+    "Roblox_Textures/Vetements_PNJ/Visages/V19_Grand_pere.png",
+    "Roblox_Textures/Vetements_PNJ/Visages/V18_Barbe_de_trois_jours.png",
+    "Roblox_Textures/Vetements_PNJ/Visages",
+    "Roblox_Textures/Vetements_PNJ/Bas",
+    "Claude outputs/Animations, déplacements et audio.md",
+    "GDD/07_Production_Roblox/À décider et à faire.md",
+    "GDD/08_Captures/_p7_append.md",
+    "GDD/08_Captures/_p6_append.md",
+    "GDD/08_Captures/_p5_append.md",
     "GDD/03_Tifazelts_et_Combats/9. Capacités des Tifazelts.md",
     "GDD/03_Tifazelts_et_Combats/10. Table des types.md",
     "GDD/07_Production_Roblox/Interface (UI) - Construction Roblox.md",
@@ -222,28 +252,15 @@
     "GDD/06_Direction_Artistique/16. Direction Artistique des Menus.md",
     "GDD/07_Production_Roblox/Bourg-Azur - Construction et Direction Artistique.md",
     "GDD/07_Production_Roblox/Journal de construction de la carte.md",
-    "🏠 Accueil.md",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
     "Sans titre.canvas",
     "GDD/07_Production_Roblox/Secrets d'exploration.md",
     "GDD/07_Production_Roblox/Systèmes de jeu Roblox.md",
     "GDD/07_Production_Roblox/Route 1 - Construction Roblox.md",
-    "GDD/07_Production_Roblox",
     "GDD/03_Tifazelts_et_Combats/8. Attaques/étreinte de peine.md",
     "GDD/03_Tifazelts_et_Combats/8. Attaques/étreinte chitineuse.md",
     "GDD/03_Tifazelts_et_Combats/8. Attaques/étau glacial.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/éruption tellurique.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/émanation venimeuse.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/électricité statique.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/éfleurement.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/éclipse Entomologique.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/éclat surnaturel.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/éclaboussure.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/échange Non-Marchand.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/Éruption Infernal.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques",
-    "src/Backup1.rbxl",
-    "Claude outputs"
+    "GDD/03_Tifazelts_et_Combats/8. Attaques/éruption tellurique.md"
   ]
 }
