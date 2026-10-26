@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
+                "file": "GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liste des Menus et Écrans"
+              "title": "Noms des Tifazelts (propositions)"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
+                "file": "GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
+                "file": "GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,34 +211,41 @@
       "gemini-scribe:Gemini Scribe : Mode agent": false
     }
   },
-  "active": "36ed183fe99fee4c",
+  "active": "c2dce2d634d21589",
   "lastOpenFiles": [
-    "GDD/01_Game_Design_Core/3. Mécanique.md",
-    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+    "Claude outputs/Passation Cowork/Feuille de route 26-27 oct.md",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramosaur_Rig_v01.fbm/Image_2",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramosaur_Rig_v01.fbm/Image_0",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramosaur_Rig_v01.fbm",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramorex_Rig_v01.fbm/Image_2_002",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramorex_Rig_v01.fbm/Image_0_002",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramorex_Rig_v01.fbm",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramoraptor_Rig_v01.fbm/Image_2_001",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramoraptor_Rig_v01.fbm/Image_0_001",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Cramoraptor_Rig_v01.fbm",
+    "Claude outputs/Modeles 3D/Cramosaur/Rig/Lignee_Cramosaur_Rig.blend",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramorex_v02_controle.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramoraptor_v02_controle.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_v02_controle.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_v2_dos.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_v2_droite.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_v2_gauche.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_v1_rendu_profil.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_v1_rendu_face.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_rendu_profil.png",
+    "Claude outputs/Modeles 3D/Cramosaur/Rendus/Cramosaur_rendu_face.png",
+    "Claude outputs/Passation Cowork/Starters - plan.md",
     "GDD/01_Game_Design_Core/1. Menus Et Interfaces.md",
+    "GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md",
+    "GDD/07_Production_Roblox/Habillage des PNJ.md",
+    "Claude outputs/Passation Cowork/Vêtements PNJ et suite.md",
+    "CLAUDE.md",
+    "GDD/01_Game_Design_Core/2. Economie Et Formules Et Reste.md",
+    "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
+    "GDD/01_Game_Design_Core/3. Mécanique.md",
     "Accueil.md",
     "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Scheduled-Tasks",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Prompts",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe",
-    "Roblox_Textures/Vetements_PNJ/apercu_visages.jpg",
-    "Roblox_Textures/Vetements_PNJ/apercu_hauts.jpg",
-    "Roblox_Textures/Vetements_PNJ/apercu_bas.jpg",
     "GDD/08_Captures/Historique des captures.md",
-    "Roblox_Textures/Vetements_PNJ/Visages/V24_Sage.png",
-    "Roblox_Textures/Vetements_PNJ/Visages/V23_Enfant_joyeux.png",
-    "Roblox_Textures/Vetements_PNJ/Visages/V22_Enfant_espiegle.png",
-    "Roblox_Textures/Vetements_PNJ/Visages/V21_Vieux_marin.png",
-    "Roblox_Textures/Vetements_PNJ/Visages/V20_Grand_mere.png",
-    "Roblox_Textures/Vetements_PNJ/Visages/V19_Grand_pere.png",
-    "Roblox_Textures/Vetements_PNJ/Visages/V18_Barbe_de_trois_jours.png",
-    "Roblox_Textures/Vetements_PNJ/Visages",
-    "Roblox_Textures/Vetements_PNJ/Bas",
     "Claude outputs/Animations, déplacements et audio.md",
     "GDD/07_Production_Roblox/À décider et à faire.md",
     "GDD/08_Captures/_p7_append.md",
@@ -248,19 +255,12 @@
     "GDD/03_Tifazelts_et_Combats/10. Table des types.md",
     "GDD/07_Production_Roblox/Interface (UI) - Construction Roblox.md",
     "GDD/07_Production_Roblox/00. Production Roblox.md",
-    "GDD/01_Game_Design_Core/Liste des Menus et Écrans.md",
     "GDD/06_Direction_Artistique/16. Direction Artistique des Menus.md",
     "GDD/07_Production_Roblox/Bourg-Azur - Construction et Direction Artistique.md",
     "GDD/07_Production_Roblox/Journal de construction de la carte.md",
     "Sans titre 2.canvas",
     "Sans titre 1.canvas",
     "Sans titre.canvas",
-    "GDD/07_Production_Roblox/Secrets d'exploration.md",
-    "GDD/07_Production_Roblox/Systèmes de jeu Roblox.md",
-    "GDD/07_Production_Roblox/Route 1 - Construction Roblox.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/étreinte de peine.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/étreinte chitineuse.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/étau glacial.md",
-    "GDD/03_Tifazelts_et_Combats/8. Attaques/éruption tellurique.md"
+    "GDD/07_Production_Roblox/Secrets d'exploration.md"
   ]
 }
