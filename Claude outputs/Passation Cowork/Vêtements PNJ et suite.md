@@ -95,3 +95,6 @@ Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman)
 - Nouveau PNJ `Workspace.Map.Starter_BourgAzur.Zéphir Célestin` (rue devant le portail, `Service = Rival`, géré dans `UI_Client.ouvrirService`).
 - Testé en Play : nouvelle partie complète avec Aqualune, victoire, objectif mis à jour ; Zéphir visible, E ouvre son dialogue, « Combattre » sans starter affiche le bon message. Détail et points à valider dans `GDD/07_Production_Roblox/À décider et à faire.md`.
 - Ctrl+S à faire dans Studio.
+
+## Bugs 2 à 7 traités le 26 oct. 2026 (Claude Code, Opus)
+- Suite du travail suivie dans `Feuille de route 26-27 oct.md`. Détail des corrections et des tests dans `GDD/07_Production_Roblox/À décider et à faire.md` > « Bugs relevés en Play ».
