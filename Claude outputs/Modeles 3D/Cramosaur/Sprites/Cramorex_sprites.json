@@ -1,0 +1,36 @@
+{
+ "face": {
+  "planches": [
+   "Cramorex_face_1_v4.png",
+   "Cramorex_face_2_v4.png",
+   "Cramorex_face_3_v4.png",
+   "Cramorex_face_4_v4.png",
+   "Cramorex_face_5_v4.png",
+   "Cramorex_face_6_v4.png"
+  ],
+  "images": 12,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 737,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Cramorex_dos_1_v4.png",
+   "Cramorex_dos_2_v4.png",
+   "Cramorex_dos_3_v4.png",
+   "Cramorex_dos_4_v4.png",
+   "Cramorex_dos_5_v4.png",
+   "Cramorex_dos_6_v4.png"
+  ],
+  "images": 12,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 707,
+  "contenuH": 492
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "face": {
+  "planches": [
+   "Cramosaur_face_1_v4.png",
+   "Cramosaur_face_2_v4.png",
+   "Cramosaur_face_3_v4.png"
+  ],
+  "images": 12,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 484,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Cramosaur_dos_1_v4.png",
+   "Cramosaur_dos_2_v4.png",
+   "Cramosaur_dos_3_v4.png"
+  ],
+  "images": 12,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 488,
+  "contenuH": 492
+ }
+}

@@ -129,6 +129,26 @@ Ces sons viennent du pack de sons d'interface publié par Roblox (`Roblox_UI_…
   - **voix des PNJ** : un petit son toutes les deux lettres pendant que le texte s'écrit ;
   - la hauteur de la voix est propre à chaque PNJ (tirée de son nom) : plus aiguë pour les enfants, plus grave pour les anciens.
 - **Déplacements :** sonnette en montant sur le vélo, souffle en descendant.
+- **Tiflask dans le monde** (26 oct. 2026, PROVISOIRE, à valider à l'écoute) : sons Pro Sound Effects, joués **à l'endroit de l'action**. Les joueurs proches les entendent, de moins en moins fort avec la distance (au-delà de 90 studs, plus rien).
+  - souffle au lâcher de la Tiflask ;
+  - tintement de verre à l'atterrissage puis à chaque rebond, de plus en plus faible ;
+  - pop de bouteille quand le bouchon saute ;
+  - « pouf » quand le Tifazelt apparaît, et un scintillement qui monte jusqu'à la fin de sa croissance ;
+  - au rappel : aspiration qui finit par un pop au moment où il disparaît dans la fiole, et scintillement ;
+  - petit bouchon quand la Tiflask se referme.
+  - Le début de chaque son a été mesuré en Play (volume par tranches de 50 ms) pour tomber sur l'action.
+
+## 🙋 4 bis. Gestes du joueur (26 oct. 2026, PROVISOIRE)
+
+Gestes procéduraux, sans fichier d'animation, avec les mêmes conventions que les gestes des PNJ. Chaque client les joue sur le personnage concerné : les autres joueurs voient donc aussi le geste. Ils se mêlent aux animations du personnage, avec un fondu d'entrée et de sortie. Ils marchent en R6 et en R15.
+- **Lancer** (0,65 s) :
+  - prise d'élan : bras droit levé en arrière, coude plié, buste tourné vers la droite, bras gauche tendu vers l'avant ;
+  - puis le bras passe par-dessus la tête et le buste pivote ;
+  - la Tiflask, tenue dans la main, part à 0,3 s.
+- **Rappel** (1,1 s) : bras tendu devant, la Tiflask apparaît dans la main et le Tifazelt y est aspiré.
+- **Pas de geste sur le vélo** : la pose de pédalage tient déjà les bras.
+
+**Aide à l'écran** : au-dessus du bouton MENU, la touche « R » (ou la croix de la manette) et l'action en cours, « Sortir Cramosaur » ou « Rentrer Cramosaur » (`UI.HUD`, `api.aideCompagnon`).
 
 ## 🛠️ 5. Où trouver quoi (Roblox Studio)
 
@@ -139,7 +159,9 @@ Ces sons viennent du pack de sons d'interface publié par Roblox (`Roblox_UI_…
 | Animations du joueur, vélo (serveur) | `ServerScriptService.Deplacements_Serveur` |
 | Course et vélo (client) | `ReplicatedStorage.Joueur.Deplacements` + `StarterPlayerScripts.Deplacements_Client` |
 | Demande de vélo | RemoteEvent `ReplicatedStorage.Reseau.Deplacement` |
-| Catalogue des sons | `ReplicatedStorage.Audio.Sons` |
+| Catalogue des sons | `ReplicatedStorage.Audio.Sons` (`jouerEn` : son placé dans le monde) |
+| Gestes du joueur (lancer, rappel) | `ReplicatedStorage.Joueur.Gestes` |
+| Sons de la Tiflask | `ReplicatedStorage.Tiflasks.Lancer` (effets `tiflask_*` du catalogue) |
 | Musique | `StarterPlayerScripts.Musique` |
 | Sauvegardes avant modification | `ServerStorage.Sauvegardes_UI` (`Kit_avant_sons`, `Dialogue_avant_sons`, `MenuManager_avant_sons`, `UI_Client_avant_sons`, `DonneesTest_avant_velo`, `NouvellePartie_avant_velo`, `Inventaire_avant_velo`) |
 

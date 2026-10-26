@@ -67,5 +67,5 @@ Racine : **Spectro-**
 
 ## À vérifier
 * Les types sont tirés de [[10. Table des types]] (tous existants). Les types indiqués ici sont ceux proposés, pas encore validés dans les fiches.
-* Aucun nom n'est encore codé dans Roblox Studio.
+* Codés dans Roblox Studio (26 oct. 2026) : Cramosaur, Dauphimyst et Garenbois comme starters (types du premier stade : Feu, Eau, Plante), et Cramoraptor comme évolution de test. Les autres noms ne sont pas encore dans le jeu.
 * Les starters ont été choisis par Mohand : Garenbois, Dauphimyst, Cramosaur (voir section Starters). Leurs types en jeu restent à vérifier.

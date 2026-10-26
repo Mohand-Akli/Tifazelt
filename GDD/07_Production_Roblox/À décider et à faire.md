@@ -36,11 +36,11 @@ aliases:
 - **Reproduction :** temps d'éclosion (60 s), ce que le petit hérite, talents cachés.
 
 ### 🌅 Début de partie
-- **Starters :** Garenbois (Plante), Dauphimyst (Eau/Psy), Cramosaur (Feu/Obscurité), choisis par Mohand le 26 oct. 2026 (remplacent Pyrofennec, Aqualune, Florépine). Reste à faire : niveau 5, attaques, et renommer dans le jeu.
+- **Starters :** Garenbois (Plante), Dauphimyst (Eau/Psy), Cramosaur (Feu/Obscurité), choisis par Mohand le 26 oct. 2026 (remplacent Pyrofennec, Aqualune, Florépine). Fait le 26 oct. 2026 : renommés dans le jeu, niveau 5, attaques validées par Mohand et appliquées (détail dans `Claude outputs/Passation Cowork/Starters - plan.md`). Reste : modèles de Dauphimyst et Garenbois (à fournir par Mohand), duel Garenbois contre Zéphir à jouer en Play.
 - **Cadeaux de départ :** 3 000 TFD de Maman et 5 Tiflask simples.
 - **Classes :** combien on en choisit. Aujourd'hui : une principale et une secondaire.
 - **Apparence :** apparence du joueur. Aujourd'hui : avatar Roblox et couleur de dresseur.
-- **Combat d'apprentissage :** adversaire (Zéphir ?).
+- **Combat d'apprentissage :** contre Zéphir Célestin, en place depuis le 26 oct. 2026 (PROVISOIRE, voir « Combat d'apprentissage et Zéphir » plus bas).
 - **Lieu du starter (PROVISOIRE, 26 oct. 2026) :** le vault dit Laboratoire Arid à Val Palmeraie (gelé). En jeu : le **Professeur Arid Acanthus** attend devant la maison familiale de Bourg-Azur (`Workspace.Map.Starter_BourgAzur`) ; « Parler » → « Choisir un Tifazelt ». Ses répliques et celles de Maman sont provisoires.
 - **Après la quête :** objectif suivant. Aujourd'hui (PROVISOIRE) : « Premiers pas — Explorer la Route 1 » (la Route 2 par la Porte du Sirocco est gelée avec Val Palmeraie).
 
@@ -70,7 +70,7 @@ aliases:
 ### 🎨 Direction artistique et interface
 - **Menus :** système de design (couleurs, tailles, animations), proposé et pas encore validé.
 - **Bulles et carte « Secret trouvé » :** à passer aux couleurs de la Charte (Blanc carte, Terracotta).
-- **Portraits :** les portraits de Tifazelts sont provisoires (initiale dans un cercle).
+- **Portraits :** depuis le 26 oct. 2026, les Tifazelts qui ont un modèle (lignée Cramosaur) ont un buste rendu dans Blender dans le cercle (`Kit.portrait`, tous les écrans) ; les autres gardent l'initiale (PROVISOIRE) en attendant leurs modèles. À valider : cadrage des bustes.
 - **Intérieurs (20 oct.) :**
   - croix de soin **vertes** ;
   - terrain d'entraînement **rectangulaire** dans la Guilde ;
@@ -118,7 +118,7 @@ Sauvegardes avant correction : `ServerStorage.Sauvegardes_UI.*_avant_bugs_2026-1
 4. ~~**Interface.**~~ Corrigé : nom d'attaque long réduit automatiquement (« Avalanche Torrentielle » tient, testé) ; les toasts longs passent sur 2 ou 3 lignes au lieu de sortir de l'écran (`Kit.toast`, testé, y compris « Maman t'a donné 3 000 TFD… » qui débordait aussi) ; signe moins remplacé par un tiret moyen « – » (le tiret simple se collait au chiffre avec le contour ; testé : « –4 »).
 5. ~~**Vocabulaire de laboratoire.**~~ Corrigé : « Tiflasks de départ » au lieu de « Plateau stérile » à Bourg-Azur ; Professeur : « Je suis venu jusqu'à Bourg-Azur avec trois Tiflasks » ; Maman : « venu exprès pour toi ». Gardé : Céleste, Romain et Ayla parlent de Val Palmeraie et du laboratoire (lore, pas l'écran du starter).
 6. **Chambre** : le carré bleu était une affiche vide (`MaisonJoueur.Affiche`) et la carte claire à côté aussi (`CarteDresseur`). Elles ont maintenant un dessin (PROVISOIRE) : affiche « Luméridia — Bourg-Azur » (ciel, soleil, mer, collines) et carte de dresseur épinglée, chacune dans un cadre en bois. **Non vérifié à l'écran** (Studio n'affichait plus la 3D pendant le test). Jambes pliées : le personnage joue la pose de repos du pack Cartoony (choisi le 20 oct.), qui a les genoux fléchis ; état « Running », bien posé au sol. Pas de changement : à confirmer par Mohand.
-7. **Titre « AZZURSAL »** : pas modifié. Le vault appelle le projet « Azzursal (Tifazelt) » (README, Accueil, Charte graphique) et Azzursal est la région. **À décider par Mohand** : titre du jeu « Azzursal » ou « Tifazelt ».
+7. ~~**Titre « AZZURSAL »**~~ : Mohand a choisi « Tifazelt » (26 oct. 2026). L'écran titre affiche TIFAZELT, avec le bandeau « La région d'Azzursal » (PROVISOIRE, remplace « Le monde des Tifazelts »). Non vu à l'écran.
 8. **Nouveau bug trouvé et corrigé : combat bloqué dès que le starter a un modèle 3D.** `Tifazelts.Vue` (style « dessin ») écrivait `SurfaceAppearance.ColorMap` pendant le jeu, ce qui est interdit hors plugin : erreur, puis le combat restait figé sur « À toi, Pyrofennec ! ». Correctif : une SurfaceAppearance `SA_Dessin` préparée dans chaque modèle de `Tifazelts.Modeles`, que la Vue clone à la place de l'originale. **Testé en Play** : le combat se déroule, aucune erreur. Aspect du modèle non vu (3D non affichée).
 9. **Remarque** : sur l'écran « Nouveau dresseur », le cadre « Apparence » était vide pendant le test (sans doute la même absence de rendu 3D que plus haut). À revoir quand Studio affiche la 3D.
 
@@ -138,9 +138,36 @@ Vérifié sans défaut : écran titre → Nouvelle partie → création → clas
 - **Performances :** sur un appareil modeste.
 
 ## Modèles 3D de la lignée Cramosaur (26 oct. 2026) — PROVISOIRE
-- **Tailles** choisies sans référence dans le vault : Cramosaur ≈ 1,07 m de haut ; Cramoraptor et Cramorex à fixer (proposition : ≈ 1,8 m et ≈ 3 m).
-- **Pas d'armature ni d'animation** : modèles statiques. À décider : rig (et lequel) avant l'animation en jeu.
-- **Découpage pour Roblox** : un objet par matériau (lave séparée pour pouvoir la mettre en Neon). Import dans Studio non testé.
+- **Affichage en combat (26 oct. 2026, soir)** : images pré-rendues dans Blender (`Tifazelts.Sprite`) au lieu de la 3D temps réel, jugée floue et terne par Mohand. Rendu mat et saturé (saturation 1,7) depuis la remarque de Mohand (« ni chromé ni néons »). À valider : rendu, niveau de saturation, taille (adversaire 1,3 × d, allié 1,55 × d), vitesse de respiration (8 images/s), vue de l'allié de 3/4 arrière. Cramoraptor et Cramorex faits le 26 oct. 2026 (testés dans un banc de combat, pas dans un vrai combat). À décider : taille relative des stades à l'écran, niveaux d'évolution, stats (PROVISOIRES dans `Combat.Especes`). À faire : Dauphimyst et Garenbois quand leurs modèles existeront. (Portraits Tifalistre / Équipe faits le 26 oct. 2026.)
+- **Tailles** choisies sans référence dans le vault, appliquées dans le jeu : Cramosaur ≈ 1,1 m de haut, Cramoraptor ≈ 1,8 m, Cramorex ≈ 3 m. À valider.
+- **Armature et animation** : rig de 21 os fait dans Blender et importé par Mohand le 26 oct. 2026 ; animations procédurales (`Tifazelts.Animation` : attente, marche, attaque, touché, K.O., apparition), utilisées par le Tifazelt qui suit le joueur. À valider à l'écran : la marche.
+- ~~**Découpage pour Roblox** (modèles faits par Claude, lave séparée)~~ : sans objet, ces modèles ont été abandonnés le 26 oct. 2026 au profit des modèles Meshy fournis par Mohand, importés dans Studio.
 - Fichiers : `Claude outputs/Modeles 3D/Cramosaur/` (`.blend`, rendus, scripts de construction).
+- **Nouvelles versions v04 (26 oct. 2026)** : trois nouveaux modèles Meshy de Mohand, allégés à 10 000 triangles, riggés avec le même squelette, prêts à importer (`Claude outputs/Modeles 3D/Cramosaur/V04/Rig/*_Rig_v04.glb`). Les v03 restent dans le jeu. **À décider par Mohand** : v03 ou v04, espèce par espèce (planche `V04/Rendus/Comparaison_v03_v04.jpg`). Si les v04 sont retenues : refaire les images de combat, les portraits et les tailles. Détail : `Claude outputs/Passation Cowork/Lignée Cramosaur v04 - plan.md`.
+
+## Portraits et Tiflask (26 oct. 2026) — PROVISOIRE
+- **Portraits** des Tifazelts qui ont un modèle (Cramosaur, Cramoraptor, Cramorex) : buste rendu dans Blender dans le cercle de `Kit.portrait` (tous les écrans). Les autres gardent l'initiale.
+- **Tiflask** : forme reprise de l'icône 2D du jeu (le vault ne décrit pas son apparence). Couleurs des liquides à valider : simple rouge-orangé, écume turquoise avec bulles, amitié rose. La Tiflask d'Amitié a une image et un modèle mais n'est ni en vente ni dans les règles du combat (bonus de capture et 250 de bonheur à brancher).
+- **Base des systèmes** : `ReplicatedStorage.Tiflasks.Lancer` (lancer, ouverture, sortie et retour d'un Tifazelt). Branchée le 26 oct. 2026 sur la sortie d'un Tifazelt dans le monde (section suivante). Reste à décider : capture dans le monde (lancer sur un Tifazelt sauvage ?).
+- **À vérifier avec de vrais clics** : pendant les tests pilotés par commandes, les menus restaient parfois bloqués (gestionnaire « occupé » : titre qui ne se ferme pas, inventaire qui ne s'ouvre pas). Probablement dû au pilotage de Studio, mais à confirmer en jouant normalement.
+
+## Tifazelt qui accompagne le joueur (26 oct. 2026) — PROVISOIRE
+Le vault ne dit rien d'un Tifazelt qui suit le joueur hors combat. Détail : `Claude outputs/Passation Cowork/Sortie du Tifazelt - plan.md`.
+- **Commandes** : touche **R** (PC), **croix bas** (manette), bouton rond **SORTIR / RENTRER** (mobile, au-dessus de COURIR) pour sortir le leader ou rentrer celui qui est dehors ; bouton « Sortir » / « Rentrer » dans la **Fiche** de chaque membre (le menu se ferme pour qu'on voie le lancer). Aide à l'écran au-dessus du bouton MENU (« R · Sortir Cramosaur », croix dessinée à la manette), cachée sur mobile, en intérieur et quand le leader ne peut pas sortir. À valider : touches, emplacement du bouton mobile et de l'aide.
+- **À surveiller** : en fin de séance du 26 oct. 2026, Studio déconnectait le client de test du serveur à chaque Play (« readRegionRemoval error total time exceeded »), même avec les anciennes versions des scripts. Un redémarrage de Studio a réglé le problème ; si ça revient, regarder le streaming du terrain.
+- **Scène** : Tiflask lancée depuis la main, Tifazelt qui grandit depuis la fiole, suivi derrière le joueur et un peu à droite, regard vers le joueur à l'arrêt ; rentrée dans une Tiflask qui apparaît dans la main.
+- **Geste et sons (26 oct. 2026, soir)** : geste de lancer par-dessus la tête et geste de rappel (bras tendu), procéduraux, vus par tous les joueurs (`Joueur.Gestes`). Sons Pro Sound Effects placés dans le monde : souffle, tintements, pop du bouchon, « pouf » et scintillement, aspiration (détail dans `Claude outputs/Animations, déplacements et audio.md`). **À valider** : le geste à l'œil, chaque son à l'écoute (choisis sur leur titre et sur leur volume mesuré, pas écoutés).
+- **Apparence** : modèle 3D avec la texture retouchée (`SA_Retouche`), pas les images du combat. Le Tifazelt traverse les obstacles (aucune collision).
+- **Règles** : seules les espèces avec un modèle 3D peuvent sortir (lignée Cramosaur pour l'instant ; les autres : « ne peut pas encore sortir de sa Tiflask »). Refus si K.O. ou en intérieur. Rentre tout seul s'il tombe K.O., s'il quitte l'équipe ou à la mort du personnage ; en intérieur il rentre et ressort tout seul à la sortie ; après une évolution, la nouvelle forme ressort. Sur le vélo il suit plus vite et réapparaît près du joueur s'il est à plus de 50 studs.
+- **Tiflask de sortie** : celle de la capture (champ `tiflask` posé par le moteur de combat) ; starter et Tifazelts plus anciens : Tiflask simple. À décider : Tiflask propre au starter ?
+- **Bug corrigé en route** : à l'évolution, `Combat.Moteur.evoluer` changeait le nom mais pas le champ `espece` (les Tifazelts créés par `Especes.creer` en ont un). Les images de combat et le portrait de la forme évoluée auraient montré l'ancienne forme. Sauvegarde : `Sauvegardes_UI.Moteur_avant_compagnon`.
+
+
+## Panneau d'équipe en exploration (26 oct. 2026) — PROVISOIRE
+Demande de Mohand d'après une capture de Cobblemon. Le vault ne décrit pas de panneau d'équipe dans le HUD. Détail : `Claude outputs/Passation Cowork/Panneau d'équipe - plan.md`.
+- **Place** : bord gauche, centré en hauteur. Six cartes biseautées : numéro de touche, portrait, nom, niveau, PV, Tiflask (ouverte si le Tifazelt est dehors). Choisie : la carte avance, liseré terracotta. Dehors : liseré cyan, étiquette « DEHORS ». K.O. : grisée.
+- **Commandes** : touches 1 à 6, croix gauche / droite, clic. R / croix bas / bouton mobile agissent sur le Tifazelt choisi (et non plus sur le leader).
+- **À valider** : place et taille du panneau, toujours affiché (ou à replier ?), touches 1 à 6 (à vérifier avec le sac de Roblox s'il est actif), croix gauche / droite.
+- **Testé en Play le 26 oct. 2026** (touches 1 à 6, croix, clic, R, K.O., intérieur, menus). Non testé : affichage manette et tactile.
 
 > Rappel : penser à **Ctrl+S** dans Studio après chaque séance.

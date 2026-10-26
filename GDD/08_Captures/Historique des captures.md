@@ -1316,3 +1316,79 @@ Nom des fichiers : `AAAA-MM-JJ_HHhMM_sujet.jpg` (heure de Bruxelles). Les captur
 **11h30 · interieurs apres fleuriste**
 ![[2026-10-20_11h30_interieurs-apres-fleuriste.jpg|420]]
 
+
+### Titre et starter Cramosaur (26 oct. 2026)
+
+**19h33 · titre tifazelt**
+![[2026-10-26_19h33_titre-tifazelt.jpg|420]]
+
+**19h33 · combat cramosaur attaques**
+![[2026-10-26_19h33_combat-cramosaur-attaques.jpg|420]]
+
+**19h39 · vue3d variantes a d** (A actuel de dos ; B 3/4 face + ombre solide ; C et D essais d'autocollant ratés : bord noir)
+![[2026-10-26_19h39_vue3d-variantes-a-d.jpg|420]]
+
+**19h39 · vue3d variantes e h** (E contour encre ; F autocollant blanc ; G autocollant + ombre brune ; H sans contour)
+![[2026-10-26_19h39_vue3d-variantes-e-h.jpg|420]]
+
+**19h47 · vue3d avant après retouche** (ligne du haut : Cramosaur allié et Cramoraptor adversaire ; en bas : Cramorex ; avant = style dessin, après = texture retouchée + lumière clé)
+![[2026-10-26_19h47_vue3d-avant-apres-retouche.jpg|420]]
+
+**19h47 · combat cramosaur texture retouchée** (à comparer avec 19h33_combat-cramosaur-attaques)
+![[2026-10-26_19h47_combat-cramosaur-texture-retouchee.jpg|420]]
+
+**20h01 · combat cramosaur sprites** (images pré-rendues dans Blender à la place de la 3D temps réel ; à comparer avec 19h47 et 19h33)
+![[2026-10-26_20h01_combat-cramosaur-sprites.jpg|420]]
+
+**20h13 · combat cramosaur sprites mat saturé** (sans brillance ni lave lumineuse, saturation 1,7 ; demande de Mohand)
+![[2026-10-26_20h13_combat-cramosaur-sprites-mat-sature.jpg|420]]
+
+**20h34 · combat cramosaur vs cramorex** (banc de combat : vrais modules Scene et Sprite ; contour 2D régulier, ombre de contact ; fenêtre Studio très large, d'où le haut coupé)
+![[2026-10-26_20h34_combat-cramosaur-vs-cramorex.jpg|420]]
+
+**20h34 · combat cramoraptor vs cramorex** (Cramoraptor en allié, Cramorex en adversaire ; Cramorex réduit ensuite de 3,3 à 3,0)
+![[2026-10-26_20h34_combat-cramoraptor-vs-cramorex.jpg|420]]
+
+### Portraits et Tiflask (26 oct. 2026)
+
+**20h41 · portrait équipe** (buste rendu dans Blender dans le cercle de Kit.portrait)
+![[2026-10-26_20h41_portrait-equipe.jpg|420]]
+
+**20h41 · portrait tifalistre** (liste et fiche)
+![[2026-10-26_20h41_portrait-tifalistre.jpg|420]]
+
+**21h15 · tiflask 3d trois types** (Tiflask en pièces : simple, écume, amitié ; l'écran titre restait ouvert par-dessus)
+![[2026-10-26_21h15_tiflask-3d-trois-types.jpg|420]]
+
+**21h15 · tiflask 3d sortie cramosaur** (Tiflasks.Lancer : lancer en arc puis sortie du Tifazelt)
+![[2026-10-26_21h15_tiflask-3d-sortie-cramosaur.jpg|420]]
+
+**21h15 · combat capture tiflask écume** (sprite de la Tiflask lancée, secousses sur le socle)
+![[2026-10-26_21h15_combat-capture-tiflask-ecume.jpg|420]]
+
+**21h15 · icônes tiflask et portraits** (Kit.portrait : icônes de Tiflask, initiale pour les autres objets, bustes, petite taille, K.O. grisé)
+![[2026-10-26_21h15_icones-tiflask-et-portraits.jpg|420]]
+
+**21h47 · compagnon cramosaur suit** (touche R : Cramosaur sorti de sa Tiflask, texture retouchée, suit le joueur et le regarde à l'arrêt)
+![[2026-10-26_21h47_compagnon-cramosaur-suit.jpg|420]]
+
+**21h47 · compagnon cramoraptor évolution** (après une évolution, la nouvelle forme ressort toute seule)
+![[2026-10-26_21h47_compagnon-cramoraptor-evolution.jpg|420]]
+
+**21h47 · fiche bouton rentrer** (fiche du Tifazelt sorti : bouton « Rentrer »)
+![[2026-10-26_21h47_fiche-bouton-rentrer.jpg|420]]
+
+**22h10 · geste lancer élan** (Joueur.Gestes : prise d'élan du lancer, buste tourné, bras droit armé en arrière)
+![[2026-10-26_22h10_geste-lancer-elan.jpg|420]]
+
+**22h10 · geste rappel tiflask main** (bras tendu, Tiflask dans la main, le Tifazelt vient d'y être aspiré)
+![[2026-10-26_22h10_geste-rappel-tiflask-main.jpg|420]]
+
+**22h23 · aide touche r** (HUD : aide « R · Sortir Cramosaur » au-dessus du bouton MENU)
+![[2026-10-26_22h23_aide-touche-r.jpg|420]]
+
+**22h41 · panneau équipe banc** (UI.HUDEquipe sur un banc d'essai : Cramosaur dehors, Dauphimyst choisi, Garenbois K.O., Tiflasks simple / écume / amitié)
+![[2026-10-26_22h41_panneau-equipe-banc.jpg|420]]
+
+**22h54 · panneau équipe en jeu** (HUD : Cramosaur dehors à côté du joueur, carte « DEHORS », Dauphimyst choisi, aide « RENTRER CRAMOSAUR »)
+![[2026-10-26_22h54_panneau-equipe-en-jeu.jpg|420]]
