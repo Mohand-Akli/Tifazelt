@@ -25,3 +25,7 @@ aliases:
 | 19 oct. | Forêt | v2 : sol à plat, un seul type d'arbre, entrée libre, Bague tournante, lucioles | [[Route 1 - Construction Roblox#Forêt v2 (19 oct.)\|Forêt v2]] |
 | 19 oct. | Plaine ouest | Séchoirs du Passeur, Verger de l'Ancien Puits, Pâture des Laineux ; 31 secrets | [[Route 1 - Construction Roblox#🌾 Plaine ouest (19 oct.)\|Plaine ouest]] |
 | 19 oct. | Forêt | Lucioles v3 (essaim qui suit les sentiers) puis forêt v3 (sans buissons, arbres droits, rayons doux) | [[Systèmes de jeu Roblox]] |
+| 20 oct. | Bourg-Azur | Refonte des intérieurs (Guilde, Infirmerie, Café, Bazar, Fleuriste) | [[Bourg-Azur - Portes et intérieurs#🏛️ 14. Refonte des intérieurs (20 oct. 2026)\|Refonte des intérieurs]] |
+| 26 oct. | Bourg-Azur | Starter devant la maison familiale : Professeur Arid et Zéphir (PROVISOIRE) ; PNJ habillés | [[À décider - Starter, Zéphir et combat d'apprentissage]] · [[Habillage des PNJ]] |
+| 27 oct. | Bourg-Azur | Magasin « Vélos de l'Azur » (PROVISOIRE) | [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]] |
+| 28 oct. | Bourg-Azur | « Bourg-Azur parfait », étapes 1 à 5 : étiquettes, scintillements, chaussées, laisse de mer, ruelles et fontaines des placettes | [[Bourg-Azur parfait - plan]] |

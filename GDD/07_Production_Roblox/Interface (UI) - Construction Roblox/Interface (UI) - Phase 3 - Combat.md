@@ -8,6 +8,8 @@ tags:
 
 > [[Interface (UI) - Phase 2 - Menu principal et sous-menus|← Phase 2]] · [[Interface (UI) - Construction Roblox|Sommaire de l'interface]] · [[Interface (UI) - Phase 4 - Bâtiments et services|Phase 4 →]] · [[Interface (UI) - Pièges Roblox|Pièges Roblox]]
 
+*Mise à jour (relecture, 28 oct. 2026) : les Tifazelts de test cités ici (les espèces de test (Ondine, Laineux…)) ont été retirés du jeu le 27 oct. 2026 et remplacés par les 20 Tifazelts nommés par Mohand : voir [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]]. Les tests datés ci-dessous restent tels qu'ils ont été faits.*
+
 Le combat est un écran comme les menus (`Ecrans.Combat`), mais RETOUR / Échap n'en fait pas sortir : il ferme la fenêtre ouverte ou revient aux actions. Un combat se lance avec `M.combattre({ genre, adverses, dresseur, meteo, terrain })` ; le bouton COMBATTRE des dresseurs (dialogue) le fait déjà.
 
 | Élément | Module | Rôle |
@@ -38,7 +40,7 @@ Le combat est un écran comme les menus (`Ecrans.Combat`), mais RETOUR / Échap 
 
 ## Limites connues
 - Prototype côté joueur, avec les données de test : le moteur passera côté serveur avec les vraies sauvegardes (anti-triche). Le filtre de modération des surnoms se fera alors côté serveur.
-- Pas d'Infirmerie construite : après une défaite, retour au point d'apparition.
+- Pas d'Infirmerie construite : après une défaite, retour au point d'apparition. *(Dépassé : depuis le 26 oct. 2026, retour devant le comptoir de l'infirmière de Bourg-Azur, voir [[À décider - Bugs du 26 oct. 2026 (traités)]], bug 2.)*
 - Pas de stockage visible : un Tifazelt capturé avec une équipe pleine va dans `data.stockage`.
 - Les dresseurs prennent leur équipe dans l'attribut `Equipe` du PNJ (« Ondine:30|Laineux:31 »), sinon 2 Tifazelts de test autour du niveau 30.
 

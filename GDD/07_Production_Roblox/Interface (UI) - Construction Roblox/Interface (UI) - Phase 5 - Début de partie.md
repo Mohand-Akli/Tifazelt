@@ -29,6 +29,8 @@ Autres changements : la Tiflask est dessinée comme une fiole ronde à bouchon (
 - Quête « L'Heure du Choix » : laboratoire, starter, Tifalistre, combat d'apprentissage. Départ dans la chambre ; Maman donne des TFD.
 
 ## ⚠️ Provisoire / à trancher dans le GDD
+*Mise à jour (relecture, 28 oct. 2026) : plusieurs points ci-dessous ont changé depuis le 20 oct. : titre « TIFAZELT », starters Cramosaur, Dauphimyst et Garenbois, Professeur Arid et Zéphir devant la maison familiale de Bourg-Azur, objectif « Premiers pas — Explorer la Route 1 ». État actuel : [[À décider - Décisions par thème#🌅 Début de partie]] et [[À décider - Starter, Zéphir et combat d'apprentissage]].*
+
 - **Noms des starters** : Pyrofennec, Aqualune, Florépine (repris de la Tifalistre de test, le vault dit `???`). Stats, courbe, niveau 5, attaques prises automatiquement.
 - **Chiffres** : 3 000 TFD de Maman, 5 Tiflask simples.
 - **Une classe principale + une secondaire** : le vault ne dit pas combien on en choisit ; repris de la carte de dresseur de test.

@@ -17,6 +17,7 @@ tags:
 - ~~**Découpage pour Roblox** (modèles faits par Claude, lave séparée)~~ : sans objet, ces modèles ont été abandonnés le 26 oct. 2026 au profit des modèles Meshy fournis par Mohand, importés dans Studio.
 - Fichiers : `Claude outputs/Modeles 3D/Cramosaur/` (`.blend`, rendus, scripts de construction).
 - **Lignée Cramosaur : v04 retenues par Mohand (27 oct. 2026)**. Les v03 ne sont plus dans le jeu (sauvegardées dans `ServerStorage.Tifazelts_Sauvegarde_v03`) ; `Tifazelts.Modeles` contient les v04 (trous réparés, retouche « E », lave lumineuse) ; images de combat v04 (réglage P2, 24 images en fondu) ; portraits v04. **PROVISOIRE, à valider par Mohand** : couleurs dans le monde (réglage « E ») et en combat (P2), durée d'une respiration (1,5 s). Détail : [[Lignée Cramosaur v04 - plan]] et [[v04, Tifalistre, PNJ, intro de combat et vélos - plan]].
+  - *Mise à jour (relecture, 28 oct. 2026) : le combat est passé à 45 images par vue (30 i/s + fondu, choix de Mohand) pour les 6 Tifazelts modélisés : voir la lignée du Dauphin ci-dessous.*
 
 ## Lignée du Dauphin (28 oct. 2026)
 

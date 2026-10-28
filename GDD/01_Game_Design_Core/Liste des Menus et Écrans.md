@@ -28,7 +28,7 @@ aliases:
 | 1.1 | **HUD d'exploration** | Bouton MENU, monnaie (TFD), objectif actuel, raccourcis | [[5. Quêtes Dans L'Aventure#🎯 Système d'Objectif\|Objectif]] | ✅ objectif, TFD, bouton MENU (ouvre le menu principal) |
 | 1.2 | **Bandeau de zone** | Nom du lieu à l'entrée (« ROUTE 1 — BOSQUET DES ÉGARÉS ») | [[00_Province_Lumeridia]] | ✅ 17 lieux et 7 régions (`UI.Zones`) |
 | 1.3 | **Boîte de dialogue** | Nom du PNJ, portrait dans un cercle, texte, choix de réponse | [[11. PNJ]] | ✅ texte lettre par lettre, choix (dresseurs) ; remplace l'ancienne bulle |
-| 1.4 | **Notifications (toasts)** | Secret trouvé (n/31), objet reçu, quête mise à jour | [[Secrets d'exploration]] | ✅ branché sur les 39 secrets ; invites d'action (E PARLER…) au style de la DA |
+| 1.4 | **Notifications (toasts)** | Secret trouvé (n/total : 31 « Exploration » + 8 « Route 1 »), objet reçu, quête mise à jour | [[Secrets d'exploration]] | ✅ branché sur les 39 secrets ; invites d'action (E PARLER…) au style de la DA |
 | 1.5 | **Fenêtre de confirmation** | OUI / NON, réutilisée partout | — | ✅ |
 
 ## 🎒 Phase 2 — Menu principal et ses sous-menus
@@ -76,7 +76,7 @@ aliases:
 | 5.1 | **Écran titre** | Logo AZZURSAL, JOUER, PARAMÈTRES | — | ✅ logo AZZURSAL, JOUER (Continuer / Nouvelle partie), PARAMÈTRES ; décor de Bourg-Azur en fond |
 | 5.2 | **Création du dresseur** | Nom, apparence | [[12. Joueur]] | ✅ nom (3 à 12 lettres), avatar Roblox en vitrine, couleur de dresseur (provisoire) |
 | 5.3 | **Choix de la classe** | 6 classes en cartes : effets, bonus | [[12. Joueur#🛡️ Classes de Dresseur\|Classes]] | ✅ 6 cartes, une principale + une secondaire |
-| 5.4 | **Choix du starter** | 3 starters au Laboratoire Arid | [[00. Définition#🌟 Starters (Tifazelt de Départ)\|Starters]] · [[Val Palmeraie]] | ✅ 3 Tiflasks, Professeur Arid, choix de Zéphir, Tifalistre + Tiflask, combat d'apprentissage (noms provisoires) |
+| 5.4 | **Choix du starter** | 3 starters au Laboratoire Arid (en jeu, PROVISOIRE : devant la maison familiale de Bourg-Azur, Val Palmeraie étant gelé) | [[00. Définition#🌟 Starters (Tifazelt de Départ)\|Starters]] · [[Val Palmeraie]] | ✅ 3 Tiflasks, Professeur Arid, choix de Zéphir, Tifalistre + Tiflask, combat d'apprentissage (noms provisoires) |
 | 5.5 | **Écrans de chargement** | Transitions, astuces | [[1. Menus Et Interfaces#⏳ Chargements & Mini-Jeux\|Chargements]] | ✅ nom du lieu, astuce du vault, Tiflask animée, barre de progression |
 
 ## 🌐 Phase 6 — En ligne

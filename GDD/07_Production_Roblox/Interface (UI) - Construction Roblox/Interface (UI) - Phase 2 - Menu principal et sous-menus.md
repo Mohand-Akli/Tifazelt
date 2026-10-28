@@ -17,7 +17,7 @@ Tous les écrans sont dans `ReplicatedStorage.UI.Ecrans` et sont enregistrés pa
 | Fiche Tifazelt | `Ecrans.Fiche` | Statistiques (vert = stat montée par la nature, magenta = stat baissée), nature, objet, capacité, bonheur, 4 attaques avec catégorie / puissance / précision / EM et description. Précédent / Suivant (et Q / E), Définir leader. |
 | Sac | `Ecrans.Inventaire` | 5 poches en onglets, liste à gauche, détail à droite. UTILISER ouvre le choix du Tifazelt (les Tifazelts à qui l'objet ne sert à rien sont grisés), DONNER fait tenir l'objet, JETER demande confirmation. |
 | Livre de compétences | `Ecrans.Livre` | 15 chapitres (un par type) avec le compte possédé / total, pages possédées en détail, pages manquantes en gris. |
-| Tifalistre | `Ecrans.Tifalistre` | Liste numérotée (losange vert = capturé, cyan = aperçu, gris = inconnu) et fiche à droite. Pas encore de modèle 3D. |
+| Tifalistre | `Ecrans.Tifalistre` | Liste numérotée (losange vert = capturé, cyan = aperçu, gris = inconnu) et fiche à droite. Pas encore de modèle 3D. *(Depuis le 26 oct. 2026 : portraits rendus dans Blender pour les Tifazelts modélisés.)* |
 | Carte de dresseur | `Ecrans.CarteDresseur` | Carte façon pièce d'identité : avatar, grade, classes, TFD, PC, heures, captures, 8 cristaux des Gardiens (clic = nom du Gardien), jauge vers le grade suivant. |
 | Quêtes | `Ecrans.Quetes` | Onglets Principale / Annexes / Terminées. SUIVRE met la quête dans l'objectif du HUD. |
 | Carte | `Ecrans.Carte` | Carte de Luméridia Est dessinée à partir du relief, régions, lieux (orange = découvert, gris = inconnu, au survol : nom), position du joueur en direct. |
@@ -29,7 +29,7 @@ Tous les écrans sont dans `ReplicatedStorage.UI.Ecrans` et sont enregistrés pa
 - `UI.DonneesTest` : joueur, équipe, sac, quêtes, cristaux, Tifalistre et réglages **de test**. Les Tifazelts de la Tifalistre au-delà de l'équipe, les quantités et les effets des objets sont provisoires.
 
 ## Réglages
-- Volumes : SoundGroups `Musique` et `Effets` dans SoundService (créés s'ils manquent). **Chaque son du jeu devra être rangé dans l'un des deux** pour suivre le réglage ; aujourd'hui le jeu n'a encore aucun son.
+- Volumes : SoundGroups `Musique` et `Effets` dans SoundService (créés s'ils manquent). **Chaque son du jeu devra être rangé dans l'un des deux** pour suivre le réglage ; aujourd'hui le jeu n'a encore aucun son. *(Dépassé : musiques et sons ajoutés à partir du 20 oct. 2026, voir [[Animations, déplacements et audio]].)*
 - Vitesse du texte : `Dialogue.setSpeed`. Bandeau : `HUD.bannerEnabled`. Notifications : les toasts marqués `notif = true` (secret trouvé…) sont masqués ; les retours d'action (objet utilisé, quête suivie) restent.
 - Les réglages durent la session ; ils seront sauvegardés avec les données du joueur.
 

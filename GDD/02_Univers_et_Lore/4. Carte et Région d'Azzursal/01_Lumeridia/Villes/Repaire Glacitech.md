@@ -7,7 +7,6 @@ tags:
 aliases:
   - Repaire de la Team Glacitech
   - Repaire Glacitech
-  - Colline Ksar
   - Base Glacitech
 ---
 # 🩷 Repaire de la Team Glacitech (Colline Ksar)

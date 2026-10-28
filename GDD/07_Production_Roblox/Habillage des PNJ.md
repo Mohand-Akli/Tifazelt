@@ -13,7 +13,7 @@ IDs des images : voir la note de passation. H29 et B22 sont introuvables : non u
 - Cheveux : 4 coiffures féminines seulement dans `Garderobe_Classique.Cheveux` (Kate, Sideswept, Ultra-Fabulous, Lavander), réparties pour que deux voisines n'aient pas la même. Hat1 (chapeau) réservé à Gaspard, Paulin et Augustin.
 - Couleur de peau (BodyColors) inchangée.
 
-## Corrections par rapport à l'habillage actuel
+## Corrections par rapport à l'habillage d'avant le 26 oct.
 - Tom (enfant) avait une barbe de trois jours (V18) ; enfants habillés en adultes (Tom, Nour, Lou, Nina).
 - Professeur Arid avait le visage « Grand-mère » (V20) → V24 Sage.
 - Lou le barista avait une coiffure féminine (Kate Hair) → MessyHair.
@@ -95,6 +95,8 @@ IDs des images : voir la note de passation. H29 et B22 sont introuvables : non u
 | Voyageuse en manteau gris | femme | H15 Sweat gris | B25 Legging | V13 Endormi | LavanderHair (451220849) |  |
 | Yanis, passeur | homme | H06 Marinière | B05 Cargo kaki | V18 Barbe 3 jours | BrownCharmerHair (376548738) |  |
 | Ysaline, égarée | femme | H01 T-shirt blanc | B19 Jupe terracotta | V04 Timide | Kate Hair (62724852) |  |
+
+*Mise à jour (relecture, 28 oct. 2026) : deux PNJ ajoutés après cette table, habillés à part : Zéphir Célestin (H16, B07, V03, cheveux CoolBoyHair ; voir [[À décider - Starter, Zéphir et combat d'apprentissage]]) et Gilles, marchand de vélos (H18, B12, V01 ; voir [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]]). Total en jeu : 71 PNJ.*
 
 ## PROVISOIRE (à valider par Mohand)
 - **sexe** déduit du prénom ou du rôle : Céleste (libraire et cartographe) femmes, Réceptionniste de la Guilde femme, Aurèle homme, Lou (enfant, Route 1) fille, Nour fille. Lou le barista est un homme d'après le GDD (« Lou le barista »).

@@ -8,7 +8,7 @@ tags:
 
 > [[Interface (UI) - Construction Roblox|Sommaire de l'interface]]
 
-Relevés pendant la phase 0 (20 oct. 2026), valables pour tous les écrans.
+Relevés pendant la phase 0 (19 oct. 2026), valables pour tous les écrans.
 
 - Un **contour UIStroke sur un cercle** se transforme en carré dans un CanvasGroup mis à l'échelle → les cercles sont faits de deux disques emboîtés.
 - **Ne pas faire tourner** un élément arrondi placé dans une zone qui coupe (ClipsDescendants) : ses coins ronds disparaissent.

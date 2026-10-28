@@ -8,6 +8,8 @@ tags:
 
 > [[Interface (UI) - Phase 6 - En ligne|← Phase 6]] · [[Interface (UI) - Construction Roblox|Sommaire de l'interface]] · [[Interface (UI) - Pièges Roblox|Pièges Roblox]]
 
+*Mise à jour (relecture, 28 oct. 2026) : les Tifazelts de test cités ici (Ondine) ont été retirés du jeu le 27 oct. 2026 et remplacés par les 20 Tifazelts nommés par Mohand : voir [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]]. Les tests datés ci-dessous restent tels qu'ils ont été faits.*
+
 | Écran | Module | Contenu |
 | :--- | :--- | :--- |
 | 7.1 Pêche | `Ecrans.Peche` | Invite « Pêcher » au bout du ponton de Bourg-Azur (sur la plateforme, rien d'ajouté dans l'eau). Il faut une canne à pêche dans les objets clés. LANCER, attendre que ça morde, FERRER à temps (trop tôt ou trop tard = raté), puis MOULINER : maintenir pour tirer, relâcher pour détendre, garder le curseur dans la zone verte pendant que le Tifazelt tire par à-coups. Ligne cassée si la tension est au maximum, fuite si la ligne reste molle. Prise = combat contre un Tifazelt de type Eau (nouveau décor de combat « eau »). Le décor du jeu reste visible derrière l'interface. Espace, clic, bouton A ou gâchette droite. |

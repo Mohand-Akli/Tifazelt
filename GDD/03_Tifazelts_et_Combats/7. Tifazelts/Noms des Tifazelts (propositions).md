@@ -11,9 +11,9 @@ aliases:
 > **PROVISOIRE.** Liste de noms proposée par Mohand (26 oct. 2026). Les trois starters provisoires (Pyrofennec, Aqualune, Florépine) sont retirés.
 
 ## Starters (stade 1)
-* **Feu / Obscurité :** Cramosaur (lignée du Dinosaure)
-* **Eau / Psy :** Dauphimyst (lignée du Dauphin)
-* **Plante :** Garenbois (lignée du Lapin Protecteur)
+* **Feu :** Cramosaur (lignée du Dinosaure ; forme finale Cramorex, Feu / Obscurité)
+* **Eau :** Dauphimyst (lignée du Dauphin ; forme finale Dauphiracle, Eau / Psy)
+* **Plante :** Garenbois (lignée du Lapin Protecteur ; forme finale Garengarde, Plante / Fée)
 
 ## Lignées
 
@@ -48,7 +48,7 @@ Racine : **Dauphi-**
 * Stade 2 : **Dauphiclos** (Dauphin + Clos, le 3ème œil fermé)
 * Stade 3 : **Dauphiracle** (Dauphin + Oracle, quand l'œil s'éveille)
 
-### 7. Lignée du Dinosaure (Obscurité / Feu)
+### 7. Lignée du Dinosaure (Feu / Obscurité)
 Racine : **Cramo-** (Cramoisi) + progression jurassique
 * Stade 1 : **Cramosaur** (Cramoisi + Petit dinosaure)
 * Stade 2 : **Cramoraptor** (Cramoisi + Raptor, plus menaçant)
@@ -69,4 +69,4 @@ Racine : **Spectro-**
 * Les types sont tirés de [[10. Table des types]] (tous existants). Les types indiqués ici sont ceux proposés, pas encore validés dans les fiches.
 * Codés dans Roblox Studio (26 oct. 2026) : Cramosaur, Dauphimyst et Garenbois comme starters (types du premier stade : Feu, Eau, Plante), et Cramoraptor comme évolution de test.
 * Depuis le 27 oct. 2026, les 20 noms sont dans le jeu (`Combat.Especes`, Tifalistre), avec numéros, stats et niveaux d'évolution PROVISOIRES ; double type seulement à la forme finale pour les starters (Cramorex Feu / Obscurité, Dauphiracle Eau / Psy, Garengarde Plante / Fée). Les Tifazelts de test inventés par Claude sont retirés. Détail : [[v04, Tifalistre, PNJ, intro de combat et vélos - plan]].
-* Les starters ont été choisis par Mohand : Garenbois, Dauphimyst, Cramosaur (voir section Starters). Leurs types en jeu restent à vérifier.
+* Les starters ont été choisis par Mohand : Garenbois, Dauphimyst, Cramosaur (voir section Starters). Leurs types en jeu : Feu, Eau, Plante au premier stade, double type à la forme finale (point précédent).

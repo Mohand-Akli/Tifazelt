@@ -41,6 +41,6 @@ Le détail est rangé en six notes dans le dossier `Bourg-Azur - Construction et
 | Chantier « Bourg-Azur parfait » (28 oct. 2026) | Plan et journal : [[Bourg-Azur parfait - plan]] ; détecteurs : `Claude outputs/outils/Bourg-Azur - détecteurs.lua` ; sauvegardes : `ServerStorage.BourgAzur_Sauvegarde_Parfait` |
 | Ambiance intérieure (client) | `StarterPlayerScripts.Interieurs_Ambiance` |
 | Portes et assises (serveur) | `ServerScriptService.BourgAzur_Portes` |
-| Animations, bulles, secrets (client) | `StarterPlayerScripts.BourgAzur_Client` |
+| Animations, bulles, secrets (client) | `StarterPlayerScripts.BourgAzur_Client` (bulles et carte de secret désactivées quand la nouvelle interface tourne : `UI_Client`) |
 | PNJ | `Workspace.Map.CityPlots.BourgAzur.PNJ` (et dans chaque intérieur) |
 | Décor ajouté | `BourgAzur.DecorPasse2`, `BourgAzur.DecorPasse2b`, `BourgAzur.Secrets`, `PublicSpaces.Acces` |

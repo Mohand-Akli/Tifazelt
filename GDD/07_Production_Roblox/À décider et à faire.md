@@ -27,6 +27,7 @@ Tout point PROVISOIRE ou à décider va dans la note de son thème ou de son cha
 | [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]] | Chantier : remplaçants des Tifazelts de test, ouverture des combats de dresseur, vélos et magasin de vélos, vérifications en attente. |
 | [[À décider - Tiflask, compagnon et panneau d'équipe]] | Chantier : portraits et Tiflask, Tifazelt qui accompagne le joueur, panneau d'équipe. |
 | [[À décider - Bourg-Azur parfait]] | Chantier : audit et corrections de Bourg-Azur. |
+| [[À décider - Relecture du 28 oct. 2026]] | Relecture de fond du vault : 41 choix de conception à faire, points à vérifier dans Studio, doublons. |
 | [[À décider - Bugs du 26 oct. 2026 (traités)]] | Archive : bugs relevés en Play le 26 oct. 2026, tous traités (quelques validations restent ouvertes, listées en tête). |
 
 ## Anciennes sections

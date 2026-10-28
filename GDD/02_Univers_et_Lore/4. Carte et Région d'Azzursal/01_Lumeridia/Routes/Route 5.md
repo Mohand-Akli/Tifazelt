@@ -58,9 +58,9 @@ Les dresseurs de cette route se spécialisent souvent dans les statistiques déf
 
 ## 🎒 Objets et Loot (À ramasser)
 * 2x **Super Potion** : Cachées dans les hautes herbes dorées.
-* 1x **Grelot Douceur (ou équivalent)** : Un objet à faire tenir qui augmente plus rapidement le Bonheur du Tifazelt. Caché au pied d'un grand chêne dans le Val des Éleveurs.
+* 1x **Peluche Amicale** : Un objet à faire tenir qui augmente plus rapidement le Bonheur du Tifazelt. Caché au pied d'un grand chêne dans le Val des Éleveurs.
 * 3x **Baies Nourrissantes** : Dans de petits buissons au bord des clôtures, excellentes pour la cuisine.
-* 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask Amis]]** : Une fiole qui rend le Tifazelt capturé plus amical dès le départ.
+* 1x **[[1. Menus Et Interfaces#Tiflask|Tiflask d'Amitié]]** : Une fiole qui rend le Tifazelt capturé plus amical dès le départ.
 
 ## ⚙️ Technique & Level Design (Roblox)
 * **Grandes étendues (Performance) :** La zone étant vaste, utiliser du *Terrain* lisse (`Grass` et `LeafyGrass` coloré en jaune/doré) et des *Meshes* d'herbes en `Instancing` pour garder un bon framerate.

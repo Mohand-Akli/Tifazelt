@@ -93,7 +93,7 @@ aliases:
   * **Salle commune :** Grande table avec carte de la région, et bancs.
 
 ### 🏪 Boutiques de la Grand-Rue
-*Façades commerçantes au RDC de la Grand-Rue (non accessibles pour l'instant) :* Boulangerie, Fleuriste, Épicerie, Librairie, Atelier du Potier, Tisserand.
+*Façades commerçantes au RDC de la Grand-Rue (non accessibles pour l'instant) :* Boulangerie, Épicerie, Librairie, Atelier du Potier, Tisserand.
 
 ### 🌿 Pâturage
 * **Emplacement :** Au bout de la Rue des Jardins.
@@ -111,6 +111,7 @@ aliases:
 * [[6. Personnages#Mère du joueur|Mère du joueur]] : Présente dans la maison.
 * **Habitants (PNJ R6, dialogues courts) :** Margot (boulangère), Hugo (épicier), Anselme (potier), Céleste (libraire), Nadia (tisserande), Kaël (dresseur), Mamie Odile, Victor (habitué du café), Rosalie, les enfants Théo et Lina, Romain (garde de la porte), Ayla (dresseuse en route pour Val Palmeraie), Gaspard (vieux marin du belvédère), Mila (pêcheuse du ponton), Léa (promeneuse), Paulin (jardinier du champ), Ondine (rêveuse de l'oliveraie).
 * **Intérieurs :** Maman (maison), Infirmière Tifazelt, Réceptionniste de la Guilde, Lou (barista), Inès (fleuriste), Léon (marchand du Bazar).
+* *En jeu (PROVISOIRE) :* le Professeur Arid Acanthus et [[6. Personnages#Zéphir Célestin|Zéphir Célestin]] attendent devant la maison familiale pour le choix du starter (26 oct. 2026, voir [[À décider - Starter, Zéphir et combat d'apprentissage]]) ; Gilles tient le magasin « Vélos de l'Azur » (27 oct. 2026).
 * **Secrets :** Huit petits secrets à découvrir (fontaine, plage, belvédère, oliveraie, chat du café, Bazar, maison). Ils ne donnent pas de récompense.
 
 ## 📜 Quêtes liées

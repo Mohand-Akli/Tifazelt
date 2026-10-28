@@ -12,6 +12,8 @@ tags:
 
 De **vrais personnages Roblox R6** (Humanoid, HumanoidRootPart et les 6 parties du corps), avec des coiffures, des chapeaux et des visages variés, et des tenues en aplats de couleur. Ils sont **immobiles** et sans script, donc sans coût permanent. Ils sont posés au sol (vérifié pour les 24). Ils ne bloquent ni les portes ni les rues. Une invite **« Parler »** affiche une bulle avec une réplique courte, en alternant 2 à 3 phrases.
 
+*Mise à jour (relecture, 28 oct. 2026) : les PNJ portent de vrais vêtements depuis le 26 oct. ([[Habillage des PNJ]]) et sont animés côté client (`PNJ_Animations`, [[Animations, déplacements et audio]]) ; les bulles et la carte « Secret trouvé » passent par la nouvelle interface ([[Interface (UI) - Phase 1 - Exploration]]) ; le Professeur Arid et Zéphir attendent devant la maison familiale (PROVISOIRE) ; des PNJ enfoncés ou flottants ont été reposés au sol le 28 oct. ([[À décider - Bourg-Azur parfait]]).*
+
 | Lieu | Personnages |
 |---|---|
 | Grand-Rue (commerces) | Margot la boulangère, Hugo l'épicier, Anselme le potier, Céleste la libraire, Nadia la tisserande |

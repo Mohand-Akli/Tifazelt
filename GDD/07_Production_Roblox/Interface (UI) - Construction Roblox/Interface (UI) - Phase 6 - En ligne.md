@@ -8,6 +8,8 @@ tags:
 
 > [[Interface (UI) - Phase 5 - Début de partie|← Phase 5]] · [[Interface (UI) - Construction Roblox|Sommaire de l'interface]] · [[Interface (UI) - Phase 7 - Mini-jeux et énigmes|Phase 7 →]] · [[Interface (UI) - Pièges Roblox|Pièges Roblox]]
 
+*Mise à jour (relecture, 28 oct. 2026) : les Tifazelts de test cités ici (Voltaneau, Florelin, Aqualune) ont été retirés du jeu le 27 oct. 2026 et remplacés par les 20 Tifazelts nommés par Mohand : voir [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]]. Les tests datés ci-dessous restent tels qu'ils ont été faits.*
+
 Le serveur fait l'arbitre : `ServerScriptService.EnLigne_Serveur` (un seul RemoteEvent, `ReplicatedStorage.Reseau.EnLigne`). Côté joueur : `UI.Reseau` (messages, profil public, combat distant).
 
 | Écran | Module | Contenu |

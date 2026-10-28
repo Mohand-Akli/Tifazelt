@@ -29,7 +29,7 @@ tags:
 - **Reproduction :** temps d'éclosion (60 s), ce que le petit hérite, talents cachés.
 
 ## 🌅 Début de partie
-- **Starters :** Garenbois (Plante), Dauphimyst (Eau/Psy), Cramosaur (Feu/Obscurité), choisis par Mohand le 26 oct. 2026 (remplacent Pyrofennec, Aqualune, Florépine). Fait le 26 oct. 2026 : renommés dans le jeu, niveau 5, attaques validées par Mohand et appliquées (détail dans [[Starters - plan]]). Reste : modèles de Dauphimyst et Garenbois (à fournir par Mohand), duel Garenbois contre Zéphir à jouer en Play.
+- **Starters :** Garenbois (Plante → forme finale Plante / Fée), Dauphimyst (Eau → Eau / Psy), Cramosaur (Feu → Feu / Obscurité), choisis par Mohand le 26 oct. 2026 (remplacent Pyrofennec, Aqualune, Florépine). Fait le 26 oct. 2026 : renommés dans le jeu, niveau 5, attaques validées par Mohand et appliquées (détail dans [[Starters - plan]]). Reste : modèles de Dauphimyst et Garenbois (à fournir par Mohand), duel Garenbois contre Zéphir à jouer en Play.
   - *Mise à jour (rangement, 28 oct. 2026) : les modèles de la lignée Dauphin, dont Dauphimyst, sont faits (voir [[À décider - Modèles 3D des Tifazelts]]) ; Garenbois n'a encore qu'un prompt d'illustration.*
 - **Cadeaux de départ :** 3 000 TFD de Maman et 5 Tiflask simples.
 - **Classes :** combien on en choisit. Aujourd'hui : une principale et une secondaire.
@@ -63,7 +63,7 @@ tags:
 
 ## 🎨 Direction artistique et interface
 - **Menus :** système de design (couleurs, tailles, animations), proposé et pas encore validé.
-- **Bulles et carte « Secret trouvé » :** à passer aux couleurs de la Charte (Blanc carte, Terracotta).
+- **Bulles et carte « Secret trouvé » :** à passer aux couleurs de la Charte (Blanc carte, Terracotta). *Mise à jour (relecture, 28 oct. 2026) : probablement sans objet : la nouvelle interface remplace ces bulles depuis le 20 oct. ([[Interface (UI) - Phase 1 - Exploration]]) ; à confirmer.*
 - **Portraits :** depuis le 26 oct. 2026, les Tifazelts qui ont un modèle (lignée Cramosaur) ont un buste rendu dans Blender dans le cercle (`Kit.portrait`, tous les écrans) ; les autres gardent l'initiale (PROVISOIRE) en attendant leurs modèles. À valider : cadrage des bustes.
 - **Intérieurs (20 oct.) :**
   - croix de soin **vertes** ;

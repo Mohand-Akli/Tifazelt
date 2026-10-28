@@ -66,7 +66,7 @@ Le type est **deviné à partir du nom et du rôle** du PNJ. Pour le forcer, on 
   - vitesse de marche 16, de course 26 ;
   - champ de vision un peu plus large, petite poussière aux pieds ;
   - pas d'endurance pour l'instant.
-- **Vélo** (objet clé « Vélo ») :
+- **Vélo** (objet clé « Vélo » ; depuis le 27 oct. 2026, un objet clé par vélo, voir [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]]) :
   - commandes : touche **V**, **croix haut** (manette), bouton **VÉLO** (mobile), ou Sac > Objets clés > **Enfourcher** ;
   - vitesse 38 ;
   - vélo bleu azur avec panier, sonnette et garde-boue, fabriqué par le serveur pour que **tous les joueurs le voient** ; **nouveau modèle depuis le 27 oct. 2026** (`ReplicatedStorage.Joueur.Velos`, environ 250 pièces : roues à rayons ajourées avec flancs crème, cadre « col de cygne », guidon hollandais, selle à ressorts, panier en osier, porte-bagage, phare, chaîne et carter ; plusieurs formes prévues : ville, course, VTT) ;
@@ -173,4 +173,4 @@ Gestes procéduraux, sans fichier d'animation, avec les mêmes conventions que l
 - attribut joueur `TestVelo` = true / false : monter ou descendre du vélo ;
 - attribut local `_GesteForce` = nom d'un geste, posé sur un PNJ : le joue tout de suite ;
 - attribut de workspace `MusiqueCoupee` = true : coupe la musique.
-- touche **K** (Play dans Studio seulement) : bascule les modèles de la lignée Cramosaur entre v03 et v04 (attribut `VersionTifazelts` de ReplicatedStorage).
+- ~~touche **K** (Play dans Studio seulement) : bascule les modèles de la lignée Cramosaur entre v03 et v04 (attribut `VersionTifazelts` de ReplicatedStorage).~~ Retirée le 27 oct. 2026 avec l'attribut `VersionTifazelts` (voir [[v04, Tifalistre, PNJ, intro de combat et vélos - plan]]).

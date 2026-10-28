@@ -9,6 +9,8 @@ aliases:
 # ⚙️ Systèmes de jeu Roblox (scripts actifs)
 
 > Ce qui tourne vraiment dans le jeu aujourd'hui. Tout le reste (combats, captures, quêtes, objets) n'est **pas encore codé** : les PNJ, dresseurs et objets sont des repères avec des attributs.
+
+> *Mise à jour (relecture, 28 oct. 2026) : cette note décrit l'état du 19 oct. Depuis : combat, capture, quêtes et menus existent en prototype avec des données de test ([[Interface (UI) - Construction Roblox]]) ; les bulles et le compteur de secrets passent par `UI_Client` quand la nouvelle interface tourne ; les équipes des dresseurs sont dans l'attribut `EquipeJeu` (27 oct.) ; animations des PNJ, course, vélo, musiques et sons : [[Animations, déplacements et audio]]. Liste complète des scripts actifs : à refaire depuis Studio.*
 > Index : [[00. Production Roblox]].
 
 ## 🌊 Courant (nage limitée)

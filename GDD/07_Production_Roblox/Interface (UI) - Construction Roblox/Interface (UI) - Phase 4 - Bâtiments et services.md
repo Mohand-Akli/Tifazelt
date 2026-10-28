@@ -8,6 +8,8 @@ tags:
 
 > [[Interface (UI) - Phase 3 - Combat|← Phase 3]] · [[Interface (UI) - Construction Roblox|Sommaire de l'interface]] · [[Interface (UI) - Phase 5 - Début de partie|Phase 5 →]] · [[Interface (UI) - Pièges Roblox|Pièges Roblox]]
 
+*Mise à jour (relecture, 28 oct. 2026) : les Tifazelts de test cités ici (Psychelle, Florelin, Braisillon, Givrelle et les œufs de test) ont été retirés du jeu le 27 oct. 2026 et remplacés par les 20 Tifazelts nommés par Mohand : voir [[À décider - Dresseurs, vélos et remplaçants (27 oct. 2026)]]. Les tests datés ci-dessous restent tels qu'ils ont été faits.*
+
 On entre dans un service en parlant au PNJ du bâtiment : son dialogue propose le service (attribut `Service` du PNJ, et `Service2` pour un second choix). Le Pâturage s'ouvre avec l'invite « Gérer » posée sur un poteau du portail (pas de nouvelle pièce, pas de collision ajoutée).
 
 | Service | Écran | Où, à Bourg-Azur | Contenu |

@@ -41,7 +41,7 @@ aliases:
 Trois petits lieux de vie, chacun sur une butte, avec un habitant et un secret :
 * **Séchoirs du Passeur :** perches à poissons, tonneaux, sac de sel et barque retournée. **Lise**, ravaudeuse de filets, y répare les filets des pêcheurs de la rivière.
 * **Verger de l'Ancien Puits :** 19 amandiers en fleurs autour d'un vieux puits, derrière un muret de pierre sèche. **Odette** veille sur le verger.
-* **Pâture des Laineux :** un enclos en pierre sèche et une capitelle où **Aurèle**, le berger, garde ses Laineux. Sa sonnaille gravée d'une spirale renvoie au Cercle des Vents.
+* **Pâture des Laineux :** un enclos en pierre sèche et une capitelle où **Aurèle**, le berger, garde ses Tifazelts laineux. Sa sonnaille gravée d'une spirale renvoie au Cercle des Vents.
 
 ## 🗺️ Autres lieux notables
 * **Rivière de la Plaine et Pont de pierre :** passage obligé entre la plaine basse et le plateau ; refuge avec banc, prévu pour une future scène avec le rival.

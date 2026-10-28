@@ -64,5 +64,5 @@ Trois lieux entre la muraille et la rivière, chacun sur une légère butte, ave
 ## 🚧 À décider / à faire
 - Le « pont basique » : le seul pont sur le fleuve est le Pont de la Plaine, en pierre.
 - Tracer un sentier dans le nord-est de la forêt (aucun sentier à moins de 180 studs de la lisière est).
-- Remplacer les silhouettes provisoires de Tifazelts (Laineux, Picoreurs).
+- Remplacer les silhouettes provisoires de Tifazelts (Laineux, Picoreurs). *(Suivi dans [[À décider - Décisions par thème#🗺️ Monde]].)*
 - Coder la brume scénarisée et l'obtention de la Bague.

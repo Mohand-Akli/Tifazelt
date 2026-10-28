@@ -27,7 +27,7 @@ tags:
 - **PNJ :** vrais vêtements pour les PNJ, visages et animations des figurines de Val Palmeraie.
   - *Mise à jour (rangement, 28 oct. 2026) : vêtements faits pour Bourg-Azur et la Route 1 le 26 oct. 2026 (point suivant) ; Val Palmeraie est gelé.*
 - **Habillage des PNJ (PROVISOIRE, 26 oct. 2026) :** table dans [[Habillage des PNJ]], appliquée dans Studio le 26 oct. 2026 (rendu en Play à vérifier). À valider : sexe déduit pour Céleste ×2, Réceptionniste de la Guilde, Aurèle, Lou et Nour (enfants) ; Augustin et Odette traités comme âgés ; pas de cheveux gris féminins (Dr. Smyth Hair sur Mamie Odile et Odette) ; H29 et B22 à réimporter.
-- **Val Palmeraie :** enseigne « Route 2 — Cité Ocre », brancher les emplacements réservés (Professeur, Tiflasks, guilde, boutique).
+- **Val Palmeraie :** enseigne « Route 2 — Cité Ocre », brancher les emplacements réservés (Professeur, Tiflasks, guilde, boutique). *(Gelé. Le Professeur et les Tiflasks de départ sont à Bourg-Azur depuis le 26 oct. 2026, PROVISOIRE.)*
 
 ## Tests jamais faits
 - **Habillage et starter (testé en Play le 26 oct. 2026 par Claude, nouvelle partie complète) :** voir [[À décider - Bugs du 26 oct. 2026 (traités)]]. Reste à voir : le rendu des 69 PNJ un par un (seuls le Professeur et Lina vus de près). Victoire du combat d'apprentissage atteinte en Play (Aqualune, puis Pyrofennec le 26 oct. au soir).

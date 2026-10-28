@@ -34,7 +34,7 @@ aliases:
 ## 🧭 Ordre de progression
 1. 🔴 [[Bourg-Azur]] — village de départ
 2. 🛤️ [[Route 1]]
-3. 🟢 [[Val Palmeraie]] — Laboratoire Arid, starters, rencontre avec Zéphir
+3. 🟢 [[Val Palmeraie]] — Laboratoire Arid, starters, retrouvailles avec Zéphir
 4. 🛤️ [[Route 2]] (accès à la [[Grotte Inconnue]])
 5. 🟠 [[Cité Ocre]]
 6. 🛤️ [[Route 3]]

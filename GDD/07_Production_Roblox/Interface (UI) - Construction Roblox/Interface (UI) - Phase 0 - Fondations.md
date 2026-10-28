@@ -4,7 +4,7 @@ tags:
   - roblox
   - ui
 ---
-# 🧱 Phase 0 — fondations (20 oct. 2026)
+# 🧱 Phase 0 — fondations (19 oct. 2026)
 
 > [[Interface (UI) - Construction Roblox|Sommaire de l'interface]] · [[Interface (UI) - Phase 1 - Exploration|Phase 1 →]] · [[Interface (UI) - Pièges Roblox|Pièges Roblox]]
 
