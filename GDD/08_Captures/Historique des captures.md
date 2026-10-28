@@ -1392,3 +1392,127 @@ Nom des fichiers : `AAAA-MM-JJ_HHhMM_sujet.jpg` (heure de Bruxelles). Les captur
 
 **22h54 · panneau équipe en jeu** (HUD : Cramosaur dehors à côté du joueur, carte « DEHORS », Dauphimyst choisi, aide « RENTRER CRAMOSAUR »)
 ![[2026-10-26_22h54_panneau-equipe-en-jeu.jpg|420]]
+
+**27 oct. 2026, 14h13 · comparaison cramo v03 v04 en jeu** (Tifazelt qui suit le joueur, v03 et v04 avec la même retouche ; Cramorex posés côte à côte)
+![[2026-10-27_14h13_comparaison-cramo-v03-v04-en-jeu.jpg|420]]
+
+**27 oct. 2026, 15h55 · v04 couleurs monde** (v04 réparées sur la Route 1, comparées aux v03 : réglages B, E et C, lave lumineuse ; E retenu)
+![[2026-10-27_15h55_v04-couleurs-monde.jpg|420]]
+
+**15h55 · v04 combat v03 v04** (scène de combat : images de combat v03, puis v04 réparées rendues avec le réglage E)
+![[2026-10-27_15h55_v04-combat-v03-v04.jpg|420]]
+
+**18h51 · combat fondu 24 images v04** (scène de combat : Cramorex et Cramosaur v04, 24 images par vue en fondu, réglage P2 plus sombre)
+![[2026-10-27_18h51_combat-fondu-24-images-v04.jpg|420]]
+
+**18h51 · combat fondu 24 images v03** (même scène : Cramoraptor et Cramorex v03 en 24 images)
+![[2026-10-27_18h51_combat-fondu-24-images-v03.jpg|420]]
+
+**19h23 · équipe portrait v04** (écran Équipe : portrait v04 de Cramosaur ; v04 seules dans le jeu)
+![[2026-10-27_19h23_equipe-portrait-v04.jpg|420]]
+
+**19h23 · combat v04 seules** (scène de combat de test : Cramoraptor et Cramosaur v04, sans bascule de version)
+![[2026-10-27_19h23_combat-v04-seules.jpg|420]]
+
+**19h34 · tifalistre 20 noms** (Tifalistre avec les 20 Tifazelts nommés par Mohand ; numéros PROVISOIRES ; portraits v04 de la lignée Cramo)
+![[2026-10-27_19h34_tifalistre-20-noms.jpg|420]]
+
+**19h34 · combat gamin léo lycombre** (vrai combat sur la Route 1 contre Gamin Léo et son Lycombre niv. 3)
+![[2026-10-27_19h34_combat-gamin-leo-lycombre.jpg|420]]
+
+**20h15 · ouverture combat zéphir** (ouverture d'un combat de dresseur : Zéphir en 3D, bras croisés, visage fâché)
+![[2026-10-27_20h15_ouverture-combat-zephir.jpg|420]]
+
+**20h15 · ouverture combat gamin léo** (Gamin Léo en 3D dans l'ouverture, poing tendu vers le joueur)
+![[2026-10-27_20h15_ouverture-combat-gamin-leo.jpg|420]]
+
+**20h42 · vélo azur nouveau modèle** (nouveau vélo de ville en pièces : roues à rayons, cadre col de cygne, panier, porte-bagage)
+![[2026-10-27_20h42_velo-azur-nouveau-modele.jpg|420]]
+
+**20h42 · vélo azur en jeu** (le joueur sur le nouveau vélo, à l'entrée de Bourg-Azur)
+![[2026-10-27_20h42_velo-azur-en-jeu.jpg|420]]
+
+**20h56 · magasin velos de l azur** (magasin de vélos au sud de la place de l'entrée : enseigne, store rayé, Gilles au comptoir, quatre vélos et leurs prix)
+![[2026-10-27_20h56_magasin-velos-de-l-azur.jpg|420]]
+
+**20h56 · ecran magasin velos** (écran du magasin de vélos : liste, prix, aperçu 3D du Vélo Corail)
+![[2026-10-27_20h56_ecran-magasin-velos.jpg|420]]
+
+**20h56 · vtt sentier en jeu** (le joueur sur le VTT Sentier acheté au magasin)
+![[2026-10-27_20h56_vtt-sentier-en-jeu.jpg|420]]
+
+**20h56 · sac velos** (sac, objets clés : Vélo Azur et VTT Sentier, aperçu 3D et vitesse)
+![[2026-10-27_20h56_sac-velos.jpg|420]]
+
+### Bourg-Azur — audit avant corrections (28 oct. 2026)
+
+**00h18 · bourg-azur bancs promenade** (promenade est : bancs posés sur le chemin, prairie vide jusqu'à la plage)
+![[2026-10-28_00h18_bourg-azur-bancs-promenade.jpg|420]]
+
+**00h22 · bourg-azur oliveraie chemin** (vue du dessus : le sentier de l'oliveraie bute contre une maison ; mur est avec deux trous et un morceau isolé)
+![[2026-10-28_00h22_bourg-azur-oliveraie-chemin.jpg|420]]
+
+**00h25 · bourg-azur arrivée route 1** (le sentier de la Route 1 arrive sur le côté de la place d'entrée et contourne l'arche « Bourg-Azur »)
+![[2026-10-28_00h25_bourg-azur-arrivee-route1.jpg|420]]
+
+**00h25 · bourg-azur étiquettes ciel** (étiquettes d'édition « Cascade (Ø 680) », « PortSaphir (Ø 720) » visibles dans le ciel depuis la placette nord)
+![[2026-10-28_00h25_bourg-azur-etiquettes-ciel.jpg|420]]
+
+**00h28 · bourg-azur maison 111 maison joueur** (la maison 111, en biais, touche l'angle de la maison du joueur)
+![[2026-10-28_00h28_bourg-azur-maison111-maison-joueur.jpg|420]]
+
+**00h29 · bourg-azur carte chemins** (carte tirée des données : terrain, chemins, bâtiments, clôtures, portes et PNJ ; grille de 50 studs)
+![[2026-10-28_00h29_bourg-azur-carte-chemins.jpg|420]]
+
+**01h14 · bourg-azur ciel sans étiquettes** (étape 1 faite : même vue que « étiquettes ciel », les étiquettes d'édition ne sont plus dans le Workspace)
+![[2026-10-28_01h14_bourg-azur-ciel-sans-etiquettes.jpg|420]]
+
+**01h34 · bourg-azur laisse de mer sur l'eau** (plaques de sable humide, algues et coquillages posés à plat : une partie flotte sur la mer au bord du rivage ; à reposer sur le sable à l'étape 4)
+![[2026-10-28_01h34_bourg-azur-laisse-de-mer-sur-l-eau.jpg|420]]
+
+**01h37 · bourg-azur magasin vélos sans scintillement** (étape 2 : magasin reconstruit avec les vélos corrigés, volets posés à l'extérieur du mur ; aspect inchangé)
+![[2026-10-28_01h37_bourg-azur-magasin-velos-sans-scintillement.jpg|420]]
+
+**02h25 · guilde piliers devant tableau** (Guilde, avant : un pilier du colombage passe devant le tableau « Avis de missions » et coupe la fenêtre du milieu ; un autre coupe l'enseigne « Coin échanges »)
+![[2026-10-28_02h25_guilde-piliers-devant-tableau.jpg|420]]
+
+**02h29 · guilde mur tableau corrige** (Guilde, après : piliers déplacés entre les fenêtres, tableau et pupitre recentrés sous la fenêtre du milieu, enseigne dégagée)
+![[2026-10-28_02h29_guilde-mur-tableau-corrige.jpg|420]]
+
+**02h29 · guilde mur trophees corrige** (Guilde, mur d'en face après : fenêtres et armoire « Palmarès de la Guilde » dégagées)
+![[2026-10-28_02h29_guilde-mur-trophees-corrige.jpg|420]]
+
+**02h31 · bazar etagere au sol** (Bazar après : l'étagère du fond (qui flottait à 0,5 stud) posée au sol, sous l'enseigne suspendue)
+![[2026-10-28_02h31_bazar-etagere-au-sol.jpg|420]]
+
+**03h24 · bourg azur laisse de mer reposee** (étape 4, même vue que « laisse de mer sur l'eau » : plaques de sable humide inclinées sur la pente de la plage, plus rien sur l'eau)
+![[2026-10-28_03h24_bourg-azur-laisse-de-mer-reposee.jpg|420]]
+
+**03h32 · bourg azur barque dans l eau** (étape 4 : la barque du débarcadère trempe dans l'eau (elle flottait 2 studs au-dessus), amarre jusqu'au ponton)
+![[2026-10-28_03h32_bourg-azur-barque-dans-l-eau.jpg|420]]
+
+**03h32 · bourg azur table pique nique au sol** (étape 4 : la table de pique-nique, qui était sur le toit de la maison 085, posée sur la pelouse à l'ombre d'un arbre)
+![[2026-10-28_03h32_bourg-azur-table-pique-nique-au-sol.jpg|420]]
+
+### Bourg-Azur — étape 5, chemins (28 oct. 2026)
+
+**04h38 · bourg azur arrivee par l arche** (depuis le sentier de la Route 1 : on arrive face à l'arche « Bourg-Azur » (l'audit avait cru à tort que le sentier la contournait))
+![[2026-10-28_04h38_bourg-azur-arrivee-par-l-arche.jpg|420]]
+
+**04h40 · bourg azur sentier oliveraie** (depuis la Ronde : le panneau « Oliveraie » à l'entrée du passage entre deux maisons, le sentier mène à l'oliveraie (pas de défaut))
+![[2026-10-28_04h40_bourg-azur-sentier-oliveraie.jpg|420]]
+
+**04h40 · bourg azur portail paturage avant** (avant : un piquet au milieu de l'entrée du Pâturage, clôture décalée par rapport au portail)
+![[2026-10-28_04h40_bourg-azur-portail-paturage-avant.jpg|420]]
+
+**04h50 · bourg azur portail paturage apres** (après : clôture calée sur les poteaux du portail, entrée dégagée)
+![[2026-10-28_04h50_bourg-azur-portail-paturage-apres.jpg|420]]
+
+**04h44 · bourg azur ruelle demi disques** (avant : ruelle des Bougainvillées barrée par des « raccords » dressés sur la tranche (demi-disques de 3 studs, solides))
+![[2026-10-28_04h44_bourg-azur-ruelle-demi-disques.jpg|420]]
+
+**04h46 · bourg azur ruelle a plat** (après : raccords couchés, la ruelle est une allée plate jusqu'à la placette)
+![[2026-10-28_04h46_bourg-azur-ruelle-a-plat.jpg|420]]
+
+**04h46 · bourg azur placette fontaine** (après : la fontaine de la placette refaite (dallage rond, vasque, eau, colonne et boule))
+![[2026-10-28_04h46_bourg-azur-placette-fontaine.jpg|420]]

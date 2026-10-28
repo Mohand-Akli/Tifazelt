@@ -1,0 +1,59 @@
+{
+ "face": {
+  "planches": [
+   "Dauphiracle_face_1_45i.png",
+   "Dauphiracle_face_2_45i.png",
+   "Dauphiracle_face_3_45i.png",
+   "Dauphiracle_face_4_45i.png",
+   "Dauphiracle_face_5_45i.png",
+   "Dauphiracle_face_6_45i.png",
+   "Dauphiracle_face_7_45i.png",
+   "Dauphiracle_face_8_45i.png",
+   "Dauphiracle_face_9_45i.png",
+   "Dauphiracle_face_10_45i.png",
+   "Dauphiracle_face_11_45i.png",
+   "Dauphiracle_face_12_45i.png",
+   "Dauphiracle_face_13_45i.png",
+   "Dauphiracle_face_14_45i.png",
+   "Dauphiracle_face_15_45i.png",
+   "Dauphiracle_face_16_45i.png",
+   "Dauphiracle_face_17_45i.png",
+   "Dauphiracle_face_18_45i.png",
+   "Dauphiracle_face_19_45i.png",
+   "Dauphiracle_face_20_45i.png",
+   "Dauphiracle_face_21_45i.png",
+   "Dauphiracle_face_22_45i.png",
+   "Dauphiracle_face_23_45i.png"
+  ],
+  "images": 45,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 728,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Dauphiracle_dos_1_45i.png",
+   "Dauphiracle_dos_2_45i.png",
+   "Dauphiracle_dos_3_45i.png",
+   "Dauphiracle_dos_4_45i.png",
+   "Dauphiracle_dos_5_45i.png",
+   "Dauphiracle_dos_6_45i.png",
+   "Dauphiracle_dos_7_45i.png",
+   "Dauphiracle_dos_8_45i.png",
+   "Dauphiracle_dos_9_45i.png",
+   "Dauphiracle_dos_10_45i.png",
+   "Dauphiracle_dos_11_45i.png",
+   "Dauphiracle_dos_12_45i.png"
+  ],
+  "images": 45,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 492,
+  "contenuH": 413
+ }
+}

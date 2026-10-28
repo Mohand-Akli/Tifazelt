@@ -1,0 +1,42 @@
+{
+ "face": {
+  "planches": [
+   "Dauphimyst_face_1_24i.png",
+   "Dauphimyst_face_2_24i.png",
+   "Dauphimyst_face_3_24i.png",
+   "Dauphimyst_face_4_24i.png",
+   "Dauphimyst_face_5_24i.png",
+   "Dauphimyst_face_6_24i.png",
+   "Dauphimyst_face_7_24i.png",
+   "Dauphimyst_face_8_24i.png",
+   "Dauphimyst_face_9_24i.png",
+   "Dauphimyst_face_10_24i.png",
+   "Dauphimyst_face_11_24i.png",
+   "Dauphimyst_face_12_24i.png"
+  ],
+  "images": 24,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 696,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Dauphimyst_dos_1_24i.png",
+   "Dauphimyst_dos_2_24i.png",
+   "Dauphimyst_dos_3_24i.png",
+   "Dauphimyst_dos_4_24i.png",
+   "Dauphimyst_dos_5_24i.png",
+   "Dauphimyst_dos_6_24i.png"
+  ],
+  "images": 24,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 492,
+  "contenuH": 370
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "face": {
+  "planches": [
+   "Cramoraptor_face_1_24i.png",
+   "Cramoraptor_face_2_24i.png",
+   "Cramoraptor_face_3_24i.png",
+   "Cramoraptor_face_4_24i.png",
+   "Cramoraptor_face_5_24i.png",
+   "Cramoraptor_face_6_24i.png",
+   "Cramoraptor_face_7_24i.png",
+   "Cramoraptor_face_8_24i.png",
+   "Cramoraptor_face_9_24i.png",
+   "Cramoraptor_face_10_24i.png",
+   "Cramoraptor_face_11_24i.png",
+   "Cramoraptor_face_12_24i.png"
+  ],
+  "images": 24,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 711,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Cramoraptor_dos_1_24i.png",
+   "Cramoraptor_dos_2_24i.png",
+   "Cramoraptor_dos_3_24i.png",
+   "Cramoraptor_dos_4_24i.png",
+   "Cramoraptor_dos_5_24i.png",
+   "Cramoraptor_dos_6_24i.png",
+   "Cramoraptor_dos_7_24i.png",
+   "Cramoraptor_dos_8_24i.png",
+   "Cramoraptor_dos_9_24i.png",
+   "Cramoraptor_dos_10_24i.png",
+   "Cramoraptor_dos_11_24i.png",
+   "Cramoraptor_dos_12_24i.png"
+  ],
+  "images": 24,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 834,
+  "contenuH": 492
+ }
+}

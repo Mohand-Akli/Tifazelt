@@ -58,6 +58,7 @@ for vue in ("face", "dos"):
     gif = []
     for case in cases:
         f = Image.new("RGBA", (CL, CH), (226, 236, 214, 255)); f.alpha_composite(case); gif.append(f.convert("RGB"))
-    gif[0].save(os.path.join(sortie, "%s_%s_apercu.gif" % (espece, vue)), save_all=True, append_images=gif[1:], duration=125, loop=0)
+    # une respiration dure 1,5 s quel que soit le nombre d'images (12 ou 24)
+    gif[0].save(os.path.join(sortie, "%s_%s_apercu.gif" % (espece, vue)), save_all=True, append_images=gif[1:], duration=round(1500 / len(cases)), loop=0)
 json.dump(meta, open(os.path.join(sortie, espece + "_sprites.json"), "w"), indent=1)
 print(json.dumps(meta))

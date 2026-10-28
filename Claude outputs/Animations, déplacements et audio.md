@@ -69,11 +69,14 @@ Le type est **deviné à partir du nom et du rôle** du PNJ. Pour le forcer, on 
 - **Vélo** (objet clé « Vélo ») :
   - commandes : touche **V**, **croix haut** (manette), bouton **VÉLO** (mobile), ou Sac > Objets clés > **Enfourcher** ;
   - vitesse 38 ;
-  - vélo bleu azur avec panier, sonnette et garde-boue, fabriqué par le serveur pour que **tous les joueurs le voient** ;
+  - vélo bleu azur avec panier, sonnette et garde-boue, fabriqué par le serveur pour que **tous les joueurs le voient** ; **nouveau modèle depuis le 27 oct. 2026** (`ReplicatedStorage.Joueur.Velos`, environ 250 pièces : roues à rayons ajourées avec flancs crème, cadre « col de cygne », guidon hollandais, selle à ressorts, panier en osier, porte-bagage, phare, chaîne et carter ; plusieurs formes prévues : ville, course, VTT) ;
+  - **plusieurs vélos (27 oct. 2026, PROVISOIRE)** : Vélo Azur (offert par Maman, vitesse 38), Vélo Corail (ville, 38, 3 500 TFD), VTT Sentier (41, 7 500 TFD), Vélo de course Éclair (46, 12 000 TFD), Vélo Étoile (ville ivoire et dorée, 44, 20 000 TFD) ; un objet clé par vélo ; choix dans Sac > Objets clés > Enfourcher (change de vélo si on roule déjà) ; la touche V prend le vélo choisi ; vendus au magasin « Vélos de l'Azur » de Bourg-Azur ;
+  - **sortie du sac (27 oct. 2026, PROVISOIRE)** : le vélo jaillit de la hanche en grandissant avec un léger rebond (0,35 s), petit nuage d'étincelles, la main droite plonge vers le sac puis se lève, le personnage monte en même temps ; en descendant, une copie locale du vélo rétrécit vers la hanche (0,25 s) ;
   - pose de pédalage, roues et pédalier qui tournent, inclinaison dans les virages : ces effets sont visibles par le joueur lui-même, les autres le voient debout sur le vélo ;
   - on descend tout seul en entrant dans un bâtiment, dans l'eau ou en s'asseyant ;
   - il est interdit à l'intérieur ;
-  - sonnette en montant.
+  - sonnette en montant ;
+  - **pièces ajustées (28 oct. 2026)** pour qu'aucune face ne se superpose à une autre (scintillement) : segments de jante à largeur alternée, panier redessiné (chaque plaque dans son propre plan), pièce arrière de la selle de course plus épaisse, manivelles un peu plus épaisses, catadioptre arrière décollé du garde-boue. Aspect inchangé. Sauvegarde : `ServerStorage.BourgAzur_Sauvegarde_Parfait.Etape2_Scintillements.Velos_avant_etape2`.
 - **Obtention (PROVISOIRE) :** Maman offre le vélo avec le Tuba au début d'une nouvelle partie. Il est aussi dans les données de test.
 
 ## 🎵 3. Musiques
@@ -170,3 +173,4 @@ Gestes procéduraux, sans fichier d'animation, avec les mêmes conventions que l
 - attribut joueur `TestVelo` = true / false : monter ou descendre du vélo ;
 - attribut local `_GesteForce` = nom d'un geste, posé sur un PNJ : le joue tout de suite ;
 - attribut de workspace `MusiqueCoupee` = true : coupe la musique.
+- touche **K** (Play dans Studio seulement) : bascule les modèles de la lignée Cramosaur entre v03 et v04 (attribut `VersionTifazelts` de ReplicatedStorage).

@@ -25,7 +25,7 @@ aliases:
   - gains et pertes de TFD ;
   - fuite.
 - **Effets des attaques :** il faut une colonne « Effet » structurée dans `8. Attaques`. Aujourd'hui, les effets sont devinés par mots-clés.
-- **Tifalistre :** stats de base officielles et taux de capture. Les 7 espèces de test sont inventées.
+- **Tifalistre (27 oct. 2026) :** les 20 Tifazelts nommés par Mohand (`Noms des Tifazelts (propositions)`) sont dans le jeu ; les Tifazelts de test inventés par Claude sont retirés. **PROVISOIRE** : numéros (lignée par lignée, starters d'abord : 1 à 3 Cramo, 4 à 6 Dauphi, 7 à 9 Garen, puis 10 à 20 dans l'ordre de la liste), stats de base, taux de capture, XP, courbes, descriptions, niveaux d'évolution (starters 16 et 36 ; Vipéclair 24, Lycombre 26, Oculoroc 28, Pierraiglon 20, Spectrocarte 30), types de Dauphiclos (Eau) et Garensouche (Plante) : double type seulement à la forme finale, comme Cramorex. À décider : ordre officiel (le vault dit « chronologique » ici et « numérique » ailleurs), stats et taux officiels.
 
 ### 🏪 Économie et services
 - **Prix :** prix du Magasin, menu et recettes du Restaurant, salaire du Cuisinier (250 TFD, 3 services par visite).
@@ -47,7 +47,7 @@ aliases:
 ### 🌐 En ligne
 - **PvP :** PC par victoire (10, et +1 par victoire de suite) ; règles (équipes soignées, pas d'objets, choix auto après 60 s).
 - **Échanges :** échanges d'objets ou seulement de Tifazelts.
-- **Raid :** boss (Voltaneau niv. 35), PV, durée, récompenses, **lieu dans le monde**.
+- **Raid :** boss (Cobréclair niv. 35 depuis le 27 oct. 2026, avant Voltaneau, espèce de test retirée), PV, durée, récompenses, **lieu dans le monde**.
 - **Proximité :** distance « à proximité » (250 studs).
 
 ### 🎣 Mini-jeux
@@ -62,7 +62,7 @@ aliases:
 - **Route 1 :**
   - le « pont basique » (seul pont = Pont de la Plaine en pierre) ;
   - sentier au nord-est de la forêt ;
-  - silhouettes de Laineux et Picoreurs ;
+  - silhouettes de Laineux et Picoreurs (formes d'attente sans espèce depuis le retrait des Tifazelts de test le 27 oct. 2026 ; à remplacer par des Tifazelts de la liste quand leurs modèles existeront ; le panneau « Pâture des Laineux » reprend le nom du lieu dans le vault) ;
   - idées de la passe 3 non validées : bocage, moulin lointain, rebords à sens unique, etc.
 - **Réglages visuels :** palette des troncs du bosquet, herbe 3D du terrain, `Lighting.Technology` à vérifier.
 - **Val Palmeraie :** pistes « ville vivante » à valider.
@@ -143,7 +143,14 @@ Vérifié sans défaut : écran titre → Nouvelle partie → création → clas
 - **Armature et animation** : rig de 21 os fait dans Blender et importé par Mohand le 26 oct. 2026 ; animations procédurales (`Tifazelts.Animation` : attente, marche, attaque, touché, K.O., apparition), utilisées par le Tifazelt qui suit le joueur. À valider à l'écran : la marche.
 - ~~**Découpage pour Roblox** (modèles faits par Claude, lave séparée)~~ : sans objet, ces modèles ont été abandonnés le 26 oct. 2026 au profit des modèles Meshy fournis par Mohand, importés dans Studio.
 - Fichiers : `Claude outputs/Modeles 3D/Cramosaur/` (`.blend`, rendus, scripts de construction).
-- **Nouvelles versions v04 (26 oct. 2026)** : trois nouveaux modèles Meshy de Mohand, allégés à 10 000 triangles, riggés avec le même squelette, prêts à importer (`Claude outputs/Modeles 3D/Cramosaur/V04/Rig/*_Rig_v04.glb`). Les v03 restent dans le jeu. **À décider par Mohand** : v03 ou v04, espèce par espèce (planche `V04/Rendus/Comparaison_v03_v04.jpg`). Si les v04 sont retenues : refaire les images de combat, les portraits et les tailles. Détail : `Claude outputs/Passation Cowork/Lignée Cramosaur v04 - plan.md`.
+- **Remplaçants des Tifazelts de test (27 oct. 2026, PROVISOIRE)** : Gardiens du Sanctuaire avec des Tifazelts de la liste au plus proche de leur type (aucun Tifazelt Insecte ni Glace nommé : Anto Solid et Icarius Crystalheart ont des équipes d'attente) ; pêche = Dauphimyst (seul Tifazelt Eau nommé) ; dresseurs de la Route 1 : attribut `EquipeJeu` (Gamin Léo Lycombre niv. 3, Gamine Inès Vipéclair niv. 2, Bastien Fennedune niv. 2, Sara Pierraiglon niv. 3, Scout Théo Spectrocarte niv. 4), le vault ne donnant que « Rongeur de base », « Insecte », « Oiseau de base » ; joueur test en ligne et œufs de test du Pâturage avec des Tifazelts de la liste. Répliques d'Aurèle et Karim et secret de la Sonnaille : « Tifazelts laineux » au lieu de « Laineux ».
+- **Ouverture des combats de dresseur (27 oct. 2026, PROVISOIRE)** : le dresseur adverse apparaît en 3D, animé, à droite (`UI.CombatUI.Dresseur`). À valider par Mohand : cadrage et lumière, durée (l'ouverture reste 0,8 s de plus quand un dresseur est affiché), gestes (Zéphir bras croisés et visage fâché dessiné par Claude ; enfants et dresseurs : poing levé puis poing tendu ; Sara : mains sur les hanches ; réglables par les attributs `PoseCombat` et `HumeurCombat` du PNJ). Les Gardiens n'ont pas encore de personnage dans le monde : cercle avec l'initiale. En ligne : avatar de l'autre joueur (non testé, il faut deux joueurs).
+- **Vélo (27 oct. 2026, PROVISOIRE)** : nouveau modèle en pièces (`Joueur.Velos`, vélo de ville « Azur ») et animation de sortie du sac. À valider par Mohand : allure, couleurs, taille du panier, animation (0,35 s pour sortir, 0,25 s pour ranger). Le vault ne dit rien des vélos (sortes, prix, magasin, obtention) : tout est PROVISOIRE.
+- **Vélos et magasin de vélos (27 oct. 2026, PROVISOIRE)** : cinq vélos (Azur offert par Maman, Corail 3 500 TFD, VTT Sentier 7 500 TFD, course Éclair 12 000 TFD, Étoile 20 000 TFD ; vitesses 38 à 46) et un magasin « Vélos de l'Azur » au sud de la place de l'entrée de Bourg-Azur, avec un vendeur inventé (« Gilles, marchand de vélos », tenue H18 + B12, visage V01). À décider par Mohand : sortes de vélos, noms, prix, vitesses, avantage du VTT hors des chemins (aucun pour l'instant), emplacement et nom du magasin, nom du vendeur. Comme le reste du sac, les vélos achetés ne sont pas sauvegardés (pas de données joueur) et le serveur accepte le vélo demandé par le client.
+- **Vérifications en attente de Mohand (27 oct. 2026)** : liste dans `Claude outputs/Passation Cowork/Vérifications de Mohand - 27 oct. 2026.md`. Textes « revanche » avant le premier combat corrigés le 27 oct. 2026 (drapeau `partie.perdu`, non testé en Play) ; palmier à environ 7 studs du coin de la terrasse du magasin (à déplacer ou à garder ?).
+- **Lignée Cramosaur : v04 retenues par Mohand (27 oct. 2026)**. Les v03 ne sont plus dans le jeu (sauvegardées dans `ServerStorage.Tifazelts_Sauvegarde_v03`) ; `Tifazelts.Modeles` contient les v04 (trous réparés, retouche « E », lave lumineuse) ; images de combat v04 (réglage P2, 24 images en fondu) ; portraits v04. **PROVISOIRE, à valider par Mohand** : couleurs dans le monde (réglage « E ») et en combat (P2), durée d'une respiration (1,5 s). Détail : `Claude outputs/Passation Cowork/Lignée Cramosaur v04 - plan.md` et `v04, Tifalistre, PNJ, intro de combat et vélos - plan.md`.
+
+- **Garenbois, première illustration (28 oct. 2026, PROVISOIRE)** : le vault ne décrit pas son apparence. Claude a rédigé un prompt dans le style des illustrations de Cramosaur et de Dauphimyst (lapin de garenne vert mousse, plaques d'écorce, petites ramilles en bois entre les oreilles, nervures de feuille dorées). Fichier : `Claude outputs/Illustrations Tifazelts/Garenbois - prompt de la première illustration.md`. À faire par Mohand : générer l'image avec son outil habituel et valider ou corriger le design.
 
 ## Portraits et Tiflask (26 oct. 2026) — PROVISOIRE
 - **Portraits** des Tifazelts qui ont un modèle (Cramosaur, Cramoraptor, Cramorex) : buste rendu dans Blender dans le cercle de `Kit.portrait` (tous les écrans). Les autres gardent l'initiale.
@@ -170,4 +177,24 @@ Demande de Mohand d'après une capture de Cobblemon. Le vault ne décrit pas de 
 - **À valider** : place et taille du panneau, toujours affiché (ou à replier ?), touches 1 à 6 (à vérifier avec le sac de Roblox s'il est actif), croix gauche / droite.
 - **Testé en Play le 26 oct. 2026** (touches 1 à 6, croix, clic, R, K.O., intérieur, menus). Non testé : affichage manette et tactile.
 
+## Bourg-Azur parfait (28 oct. 2026) — audit fait, corrections à venir
+Demande de Mohand : régler tous les problèmes de Bourg-Azur (textures, chemins). Liste complète et étapes : `Claude outputs/Passation Cowork/Bourg-Azur parfait - plan.md`.
+- **Trouvé** :
+  - 802 paires de faces qui scintillent à l'extérieur (dont 196 bordures de rue et 249 sur les vélos exposés) et 181 dans les six intérieurs (comptage refait le 28 oct. 2026 avec `Claude outputs/outils/Bourg-Azur - détecteurs.lua`) ;
+  - sentier de la Route 1 qui contourne l'arche ;
+  - sentier de l'oliveraie qui bute contre une maison, mur de l'oliveraie avec deux trous ;
+  - bancs, buisson, lampadaires et panneau sur les chaussées ;
+  - objets qui flottent (buisson à 6 studs, olivier millénaire, barque) ;
+  - table de pique-nique sur un toit ;
+  - maison 111 collée à la maison du joueur ;
+  - PNJ légèrement enfoncés ou flottants ;
+  - étiquettes d'édition (« PortSaphir (Ø 720) »…) visibles dans le ciel (réglé à l'étape 1).
+  - laisse de mer de la plage (plaques de sable humide, algues, coquillages) posée à plat : une partie flotte sur la mer (à reposer à l'étape 4).
+- **Avancement** : étape 1 faite (étiquettes rangées) ; étape 2 faite (plus aucun scintillement visible à l'extérieur, vélos et magasin de vélos corrigés à la source). Étape 3 faite (plus aucun scintillement dans les six intérieurs ; étagère du Bazar posée au sol ; piliers de la Guilde déplacés entre les fenêtres). Étape 4 faite (chaussées dégagées, laisse de mer reposée sur le sable, barque dans l'eau, table de pique-nique descendue du toit, PNJ au sol). Étape 5 faite (ruelles débarrassées des demi-disques, fontaines des placettes refaites, portail du Pâturage dégagé ; générateurs corrigés). Prochaine : étape 6, ajouts (descentes vers la plage).
+- **À décider** :
+  - ~~Étiquettes d'édition : `ServerStorage` ou cachées en jeu ?~~ Décidé par Mohand (28 oct. 2026) : rangées dans `ServerStorage.BourgAzur_Sauvegarde_Parfait.Etape1_EtiquettesEdition` (fait, étape 1).
+  - Ciel `Ciel_Route1` : une traînée de cubes près du soleil peint fait partie de l'image ; le garder ?
+  - Ajouts proposés (PROVISOIRES) : descentes vers la plage depuis la Promenade et bancs face à la mer.
+
 > Rappel : penser à **Ctrl+S** dans Studio après chaque séance.
+- **Lignée du Dauphin, modèles 3D (28 oct. 2026, PROVISOIRE)** : Dauphimyst, Dauphiclos et Dauphiracle identifiés, réparés et allégés à 10 000 triangles dans `Claude outputs/Modeles 3D/Dauphin/Lignee_Dauphin.blend` (plan : `Claude outputs/Passation Cowork/Lignée Dauphin - plan.md`, étapes 1 à 3 faites). Dauphiracle refait avec le fichier texturé fourni par Mohand (la texture provisoire inventée est abandonnée, sauvegardée). Rig fait le 28 oct. : squelette de 14 os (16 pour le Dauphiracle), noms repris des Cramosaur quand l'os existe (compatible `Tifazelts.Animation`), plus `Aileron` et, pour le Dauphiracle, `NageoireG`/`NageoireD` (PROVISOIRE). **Demande de Mohand (28 oct.)** : les trois dauphins se déplacent en **nageant dans les airs**, comme s'ils volaient : animation de flottement et de nage aérienne à faire à l'étape 4 (amplitude, hauteur de vol, vitesse : PROVISOIRES). **Étapes 4, 5, 7 et 8 faites le 28 oct. 2026 (PROVISOIRE, rien testé en Play)** : modes `flotte` et `nage` dans `Tifazelts.Animation` (amplitudes, périodes, hauteur de flottement à valider) ; couleurs : réglage **B** (saturation 1,3, sans lueur) retenu en attendant le choix de Mohand (`Dauphin/Rendus/Variantes_couleur_planche.jpg`) ; sprites de combat (24 images par vue), portraits et entrées `Tifazelts.Catalogue` faits, échelles à l'écran PROVISOIRES (taille voisine des Cramosaur, Cramoraptor, Cramorex). Couleurs refaites (saturation 0,8, proches des illustrations, à la demande de Mohand) ; étape 6 faite : modèles dans `Tifazelts.Modeles`. **PROVISOIRE** : longueurs 6,5 / 10,5 / 15 studs, échelles en combat, hauteur de vol du Tifazelt qui suit (attribut `Vol` : 2,5 / 3 / 3,5 studs). 28 oct. (soir) : dauphin écrasé corrigé (os pas agrandis), textures du monde éclaircies, combat à 45 images par vue (30 i/s + fondu, choix de Mohand) pour les 6 Tifazelts, clignotement des sprites corrigé (préchargement), équipe de test = les 6 Tifazelts modélisés (stats et attaques PROVISOIRES). Reste : tests en Play par Mohand (étape 9), mémoire sur mobile.

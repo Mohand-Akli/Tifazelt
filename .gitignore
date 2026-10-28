@@ -1,3 +1,21 @@
 .DS_Store
 .obsidian/workspace.json
 *.tmp
+# Copies automatiques de Blender
+*.blend1
+# Cache Python
+__pycache__/
+# Fichiers temporaires de Google Drive
+.tmp.driveupload/
+# Fichiers de travail des modèles 3D (rendus bruts, essais, variantes refusées) :
+# hors de git, sauvegardés dans ~/Documents/Tifazelt - sauvegardes/
+_Travail/
+# Dossiers de travail actuels, en attendant leur rangement dans _Travail/
+# (étape 10 de « Rangement du dossier - plan.md »)
+Claude outputs/Modeles 3D/**/Sprites/brut*/
+Claude outputs/Modeles 3D/**/Sprites/test45*/
+Claude outputs/Modeles 3D/**/Sprites/45_images_essai_decentre/
+Claude outputs/Modeles 3D/**/Sprites/24_images_B_sat13/
+Claude outputs/Modeles 3D/**/Rendus/var_*/
+Claude outputs/Modeles 3D/**/Rendus/var2_*/
+Claude outputs/Modeles 3D/**/Rendus/sprites_test/

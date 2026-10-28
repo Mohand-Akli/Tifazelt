@@ -113,6 +113,7 @@ Le combat est un écran comme les menus (`Ecrans.Combat`), mais RETOUR / Échap 
 | Moteur | `ReplicatedStorage.Combat.Moteur` | Un tour = ordre (priorité, vitesse, Chronologie Intemporelle), précision, dégâts, effets, fin de tour (poison, météo), K.O., remplacement, capture, fuite, XP, évolution. Renvoie une liste d'événements ; l'écran les joue. |
 | Espèces de test | `ReplicatedStorage.Combat.Especes` | 7 espèces de la Tifalistre de test, stats de base inventées, attaques prises dans les 283 du vault selon le type. |
 | Scène | `UI.CombatUI.Scene` | Arène (déborde au-delà de 16:9), portraits sur socles, cartes de PV, effets d'attaque (élan, projectile, anneau), chiffres de dégâts, flèches de stats, ouverture, Tiflask et capture, évolution. |
+| Dresseur (27 oct. 2026) | `UI.CombatUI.Dresseur` | Ouverture d'un combat de dresseur : le personnage du dresseur adverse (PNJ du monde, ou avatar du joueur en ligne) en 3D animé à droite de l'écran, geste de défi (attributs `PoseCombat`, `HumeurCombat`) ; sinon le cercle avec l'initiale. |
 | Fenêtres | `UI.CombatUI.Panneaux` | Sac, équipe, surnom, fin de combat, nouvelle attaque, défaite. |
 
 ### Ce qui suit le vault
@@ -151,6 +152,7 @@ On entre dans un service en parlant au PNJ du bâtiment : son dialogue propose l
 | :--- | :--- | :--- | :--- |
 | Infirmerie | `Ecrans.Infirmerie` | Infirmière Tifazelt | 6 capsules ; SOIGNER rend PV, statuts et EM. Classe Infirmier : atelier des remèdes (une Potion basique par visite). |
 | Magasin | `Ecrans.Magasin` | Léon, marchand (Bazar) | Onglets Acheter / Vendre, quantité, total. Revente à 50 %, objets clés invendables. |
+| Magasin de vélos (27 oct. 2026) | `Ecrans.Magasin` (catalogue `Velos`) | Gilles, marchand de vélos (« Vélos de l'Azur », Bourg-Azur) | Même écran que le Bazar : aperçu 3D du vélo qui tourne, vitesse, un seul exemplaire par vélo, le vélo acheté devient le vélo choisi. |
 | Restaurant | `Ecrans.Restaurant` | Lou, barista (Café des Embruns) | 3 repas qui soignent l'équipe, parfois un objet rare. Classe Cuisinier : recettes avec les ingrédients du sac, service en salle payé. |
 | Guilde | `Ecrans.Guilde` | Réceptionniste | Missions par rang (ajoutées au journal des quêtes), échanges (phase 6), tableau des grades. |
 | Investissement | `Ecrans.Investissement` | Réceptionniste (2e choix) ou bouton « Chantiers du bourg » de la Guilde | 3 chantiers, paliers et récompenses. |

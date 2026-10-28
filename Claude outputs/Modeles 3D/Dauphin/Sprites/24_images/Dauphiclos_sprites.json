@@ -1,0 +1,36 @@
+{
+ "face": {
+  "planches": [
+   "Dauphiclos_face_1_24i.png",
+   "Dauphiclos_face_2_24i.png",
+   "Dauphiclos_face_3_24i.png",
+   "Dauphiclos_face_4_24i.png",
+   "Dauphiclos_face_5_24i.png",
+   "Dauphiclos_face_6_24i.png"
+  ],
+  "images": 24,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 492,
+  "contenuH": 375
+ },
+ "dos": {
+  "planches": [
+   "Dauphiclos_dos_1_24i.png",
+   "Dauphiclos_dos_2_24i.png",
+   "Dauphiclos_dos_3_24i.png",
+   "Dauphiclos_dos_4_24i.png",
+   "Dauphiclos_dos_5_24i.png",
+   "Dauphiclos_dos_6_24i.png"
+  ],
+  "images": 24,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 492,
+  "contenuH": 366
+ }
+}

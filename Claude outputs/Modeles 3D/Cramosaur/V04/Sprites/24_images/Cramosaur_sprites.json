@@ -1,0 +1,36 @@
+{
+ "face": {
+  "planches": [
+   "Cramosaur_face_1_v04_24i.png",
+   "Cramosaur_face_2_v04_24i.png",
+   "Cramosaur_face_3_v04_24i.png",
+   "Cramosaur_face_4_v04_24i.png",
+   "Cramosaur_face_5_v04_24i.png",
+   "Cramosaur_face_6_v04_24i.png"
+  ],
+  "images": 24,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 482,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Cramosaur_dos_1_v04_24i.png",
+   "Cramosaur_dos_2_v04_24i.png",
+   "Cramosaur_dos_3_v04_24i.png",
+   "Cramosaur_dos_4_v04_24i.png",
+   "Cramosaur_dos_5_v04_24i.png",
+   "Cramosaur_dos_6_v04_24i.png"
+  ],
+  "images": 24,
+  "caseL": 512,
+  "caseH": 512,
+  "colonnes": 2,
+  "lignes": 2,
+  "contenuL": 481,
+  "contenuH": 492
+ }
+}

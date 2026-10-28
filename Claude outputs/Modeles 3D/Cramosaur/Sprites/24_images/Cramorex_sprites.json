@@ -1,0 +1,48 @@
+{
+ "face": {
+  "planches": [
+   "Cramorex_face_1_24i.png",
+   "Cramorex_face_2_24i.png",
+   "Cramorex_face_3_24i.png",
+   "Cramorex_face_4_24i.png",
+   "Cramorex_face_5_24i.png",
+   "Cramorex_face_6_24i.png",
+   "Cramorex_face_7_24i.png",
+   "Cramorex_face_8_24i.png",
+   "Cramorex_face_9_24i.png",
+   "Cramorex_face_10_24i.png",
+   "Cramorex_face_11_24i.png",
+   "Cramorex_face_12_24i.png"
+  ],
+  "images": 24,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 737,
+  "contenuH": 492
+ },
+ "dos": {
+  "planches": [
+   "Cramorex_dos_1_24i.png",
+   "Cramorex_dos_2_24i.png",
+   "Cramorex_dos_3_24i.png",
+   "Cramorex_dos_4_24i.png",
+   "Cramorex_dos_5_24i.png",
+   "Cramorex_dos_6_24i.png",
+   "Cramorex_dos_7_24i.png",
+   "Cramorex_dos_8_24i.png",
+   "Cramorex_dos_9_24i.png",
+   "Cramorex_dos_10_24i.png",
+   "Cramorex_dos_11_24i.png",
+   "Cramorex_dos_12_24i.png"
+  ],
+  "images": 24,
+  "caseL": 1024,
+  "caseH": 512,
+  "colonnes": 1,
+  "lignes": 2,
+  "contenuL": 706,
+  "contenuH": 492
+ }
+}
