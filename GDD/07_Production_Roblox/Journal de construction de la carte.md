@@ -21,7 +21,7 @@ aliases:
 | 16 oct. | Route 1 | Passe 5 : Rivière de la Plaine, pont de pierre, courant, muraille, campagne, cabanes, 18 PNJ, 8 secrets | [[Route 1 - Construction Roblox]] |
 | 16 oct. | Val Palmeraie | Ville complète (cuvette, miroir d'eau, labo à dôme, faubourg, pépinières, porte du Sirocco), 20 figurines | [[Val Palmeraie#🏗️ Construction Roblox — état réel (16 oct. 2026)\|Val Palmeraie]] |
 | 18 oct. | Bourg + Route 1 | Passe 6 : zones 1 à 6 (abords, 4 quartiers, Tour du Guet, Cercle des Vents, plages, Vestiges de la Garde Ancienne) | [[Route 1 - Construction Roblox#🧱 Passe 6 (18 oct. 2026) — zones 1 à 6\|Passe 6]] |
-| 19 oct. | Forêt, Bourg, littoral | Mission : haies retirées, clairières, place pavée et marché, Moulin du Nord, ponton, crique secrète, berges, presqu'île ; 29 secrets | [[Route 1 - Construction Roblox]] · [[Bourg-Azur - Construction et Direction Artistique#🧭 13. Mission du 19 oct. 2026 (place, moulin, littoral)\|Bourg]] |
+| 19 oct. | Forêt, Bourg, littoral | Mission : haies retirées, clairières, place pavée et marché, Moulin du Nord, ponton, crique secrète, berges, presqu'île ; 29 secrets | [[Route 1 - Construction Roblox]] · [[Bourg-Azur - Corrections et extensions#🧭 13. Mission du 19 oct. 2026 (place, moulin, littoral)\|Bourg]] |
 | 19 oct. | Forêt | v2 : sol à plat, un seul type d'arbre, entrée libre, Bague tournante, lucioles | [[Route 1 - Construction Roblox#Forêt v2 (19 oct.)\|Forêt v2]] |
 | 19 oct. | Plaine ouest | Séchoirs du Passeur, Verger de l'Ancien Puits, Pâture des Laineux ; 31 secrets | [[Route 1 - Construction Roblox#🌾 Plaine ouest (19 oct.)\|Plaine ouest]] |
 | 19 oct. | Forêt | Lucioles v3 (essaim qui suit les sentiers) puis forêt v3 (sans buissons, arbres droits, rayons doux) | [[Systèmes de jeu Roblox]] |
