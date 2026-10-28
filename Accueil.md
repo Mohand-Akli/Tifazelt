@@ -52,6 +52,7 @@ aliases:
 
 ## 💠 Direction artistique — `08 - Direction artistique`
 - [[15. Charte Graphique]] · [[16. Direction Artistique des Menus]] (biseaux, ombre solide, accents, mise en œuvre Roblox)
+- Illustrations : [[Garenbois - prompt de la première illustration]]
 
 ## 🟠 Production Roblox — `09 - Production Roblox`
 - [[00. Production Roblox]] — index de la production : où est le code dans Studio, règles pour régénérer sans casser
@@ -80,7 +81,6 @@ aliases:
 | `Modèles 3D/Dauphin/` | Lignée du Dauphin : `Lignee_Dauphin.blend`, `Rendu_Sprites_Dauphin.blend`, `Textures/`, `Rig/`, `Sprites/`, `Portraits/`, `Rendus/`, `Sources/`, `Scripts/`, `Sauvegardes/` |
 | `Modèles 3D/Tiflask/` | Tiflask : modèle FBX, images, rendus |
 | `Modèles 3D/…/_Travail/` | Rendus bruts, essais, variantes refusées (hors git, gardés sur le disque) |
-| `Illustrations/` | [[Garenbois - prompt de la première illustration]] |
 | `Images de l'interface/` | Images faites pour l'interface (visage fâché de Zéphir) |
 | `Textures Roblox/` | Vêtements des PNJ (hauts, bas, visages, aperçus) et leur générateur Python |
 | `Sauvegardes Roblox/` | `Backup1.rbxl`, copie du place du 16 oct. 2026 |
@@ -91,7 +91,7 @@ aliases:
 ## 📁 Autres dossiers
 - La carte de Luméridia Est est dans `03 - Monde/Luméridia Est/`, les maquettes de menus dans `08 - Direction artistique/Maquettes/`.
 - `11 - Développement/Gemini Scribe/` : dossier de travail du module Obsidian Gemini Scribe (créé par lui).
-- `.obsidian/` : réglages d'Obsidian. `11 - Développement/Modèles 3D` est exclu de la recherche et du graphe (Réglages > Fichiers et liens > Fichiers exclus).
+- `.obsidian/` : réglages d'Obsidian. `11 - Développement/` (fichiers de travail : 3D, scripts, textures, sauvegardes) est exclu de la recherche et du graphe (Réglages > Fichiers et liens > Fichiers exclus).
 - Copie complète d'avant le rangement : `~/Documents/Tifazelt - sauvegardes/2026-10-28 avant rangement/` (hors du vault).
 
 ## 🎨 Légende du graphe
