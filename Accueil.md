@@ -17,13 +17,13 @@ aliases:
 - **Plans en cours** (à reprendre avec « passons à l'étape N ») : [[Bourg-Azur parfait - plan]] · [[Lignée Dauphin - plan]] · [[Vérifications de Mohand - 27 oct. 2026]] · [[Restructuration du vault - plan]] (à valider).
 - **Consignes pour Claude** : `CLAUDE.md`, à la racine du dossier.
 
-## 🟡 Game design — `GDD/01_Game_Design_Core`
+## 🟡 Game design — `01 - Règles du jeu` · `07 - Interface et menus`
 - [[1. Menus Et Interfaces]] — menus, inventaire, objets tenus, Tiflask
 - [[2. Economie Et Formules Et Reste]] — Tifadinar (TFD), Points de Combat (PC), formules
 - [[3. Mécanique]] — météo, bonheur, jour/nuit, PvP, raids
 - [[Liste des Menus et Écrans]] — plan de production de tous les écrans (phases 0 à 7)
 
-## 🟢 Univers et lore — `GDD/02_Univers_et_Lore`
+## 🟢 Univers et lore — `03 - Monde` · `04 - Histoire et personnages`
 - [[00_Region_Azzursal|Région d'Azzursal]] — les 4 provinces : Luméridia, Florédena, Cristalpina, Ardusia
 - [[00_Province_Lumeridia|Province de Luméridia Est]] — progression des villes et routes, carte
 - [[Bâtiments Communs]] — infirmerie, guilde, bazar, pâturage…
@@ -38,22 +38,22 @@ aliases:
 ### 🩵 Lieux et reliefs
 [[Asif-Safi]] · [[Colline Ksar]] · [[Grotte Inconnue]] · [[Profondeurs Sous-Marines]]
 
-## 🟣 Tifazelts et combats — `GDD/03_Tifazelts_et_Combats`
+## 🟣 Tifazelts et combats — `02 - Tifazelts`
 - [[00. Définition|Tifazelts — définition, stats, starters, légendaires, évolution, reproduction]]
 - [[Noms des Tifazelts (propositions)]] — les 20 noms et les lignées (PROVISOIRE)
 - [[9. Capacités des Tifazelts]] · [[10. Table des types]]
-- **Attaques** : une fiche par attaque dans `8. Attaques/` (283 fiches, violet clair, masquées du graphe par défaut) ; tableau filtrable dans `8. Liste des attaques.base` (vues « par type » et « par catégorie »).
+- **Attaques** : une fiche par attaque dans `02 - Tifazelts/Attaques/` (283 fiches, violet clair, masquées du graphe par défaut) ; tableau filtrable dans `Liste des attaques.base` (vues « par type » et « par catégorie »).
 
-## 🔵 Joueur et PNJ — `GDD/04_Joueur_et_PNJ`
+## 🔵 Joueur et PNJ — `05 - Joueur et dresseurs`
 - [[11. PNJ]] · [[12. Joueur]] (classes, grades) · [[13. Sanctuaire]] (gardiens, Ligue)
 
-## 🩷 Inventaire — `GDD/05_Inventaire`
+## 🩷 Inventaire — `06 - Objets`
 - [[14. Objets]]
 
-## 💠 Direction artistique — `GDD/06_Direction_Artistique`
+## 💠 Direction artistique — `08 - Direction artistique`
 - [[15. Charte Graphique]] · [[16. Direction Artistique des Menus]] (biseaux, ombre solide, accents, mise en œuvre Roblox)
 
-## 🟠 Production Roblox — `GDD/07_Production_Roblox`
+## 🟠 Production Roblox — `09 - Production Roblox`
 - [[00. Production Roblox]] — index de la production : où est le code dans Studio, règles pour régénérer sans casser
 - [[Journal de construction de la carte]] — chronologie des passes
 - [[Route 1 - Construction Roblox]] — passes 2 à 6, forêt, plaine ouest
@@ -67,49 +67,34 @@ aliases:
 
 > Les notes découpées suivent toutes la même règle : le **sommaire** garde son nom et sa place, les **parties** sont dans le dossier du même nom, juste à côté.
 
-## ⚪ Captures — `GDD/08_Captures`
-- [[Historique des captures]] — sommaire (tableaux par jour et par thème) ; une note par jour dans `Historique des captures/` ; les images `AAAA-MM-JJ_HHhMM_sujet.jpg` sont à plat dans `GDD/08_Captures/`.
+## ⚪ Captures — `10 - Captures/Images`
+- [[Historique des captures]] — sommaire (tableaux par jour et par thème) ; une note par jour dans `Historique des captures/` ; les images `AAAA-MM-JJ_HHhMM_sujet.jpg` sont à plat dans `10 - Captures/Images/`.
 
-## 🛠️ Développement — `Claude outputs/`
+## 🛠️ Développement — `11 - Développement/`
 
 | Dossier | Contenu |
 | :--- | :--- |
-| `Passation Cowork/` | Plans en étapes en cours ; les plans finis sont dans `Terminés/` |
-| `outils/` | `audit.py` (audit du vault : `python3 "Claude outputs/outils/audit.py" .`), `Bourg-Azur - détecteurs.lua`, `habillage_pnj.json` |
-| `Modeles 3D/Cramosaur/` | `V04/` : version en service (`.blend`, `Textures/`, `Rig/`, `Sprites/`, `Portraits/`, `Rendus/`, `Sources/`, `Sauvegardes/`) ; `Scripts/` : scripts Blender et Python ; `Anciennes versions (v01-v03)/` |
-| `Modeles 3D/Dauphin/` | Lignée du Dauphin : `Lignee_Dauphin.blend`, `Rendu_Sprites_Dauphin.blend`, `Textures/`, `Rig/`, `Sprites/`, `Portraits/`, `Rendus/`, `Sources/`, `Scripts/`, `Sauvegardes/` |
-| `Modeles 3D/Tiflask/` | Tiflask : modèle FBX, images, rendus |
-| `Modeles 3D/…/_Travail/` | Rendus bruts, essais, variantes refusées (hors git, gardés sur le disque) |
-| `Illustrations Tifazelts/` | [[Garenbois - prompt de la première illustration]] |
-| `Interface/` | Images faites pour l'interface (visage fâché de Zéphir) |
+| `00 - Suivi/Plans/` | Plans en étapes en cours ; les plans finis sont dans `Terminés/` |
+| `Outils du vault/` | `audit.py` (audit du vault : `python3 "11 - Développement/Outils du vault/audit.py" .`), `Bourg-Azur - détecteurs.lua`, `habillage_pnj.json` |
+| `Modèles 3D/Cramosaur/` | `V04/` : version en service (`.blend`, `Textures/`, `Rig/`, `Sprites/`, `Portraits/`, `Rendus/`, `Sources/`, `Sauvegardes/`) ; `Scripts/` : scripts Blender et Python ; `Anciennes versions (v01-v03)/` |
+| `Modèles 3D/Dauphin/` | Lignée du Dauphin : `Lignee_Dauphin.blend`, `Rendu_Sprites_Dauphin.blend`, `Textures/`, `Rig/`, `Sprites/`, `Portraits/`, `Rendus/`, `Sources/`, `Scripts/`, `Sauvegardes/` |
+| `Modèles 3D/Tiflask/` | Tiflask : modèle FBX, images, rendus |
+| `Modèles 3D/…/_Travail/` | Rendus bruts, essais, variantes refusées (hors git, gardés sur le disque) |
+| `Illustrations/` | [[Garenbois - prompt de la première illustration]] |
+| `Images de l'interface/` | Images faites pour l'interface (visage fâché de Zéphir) |
 | `Textures Roblox/` | Vêtements des PNJ (hauts, bas, visages, aperçus) et leur générateur Python |
 | `Sauvegardes Roblox/` | `Backup1.rbxl`, copie du place du 16 oct. 2026 |
 | `Archives/` | Fichiers sans usage gardés par précaution (captures sans heure du 16 oct., copies) |
 
-> ⚠️ Ne pas déplacer ni renommer `Modeles 3D/`, `Cramosaur/V04/`, `Dauphin/` et leurs `Textures/` : des fichiers Blender et des scripts y pointent par chemin absolu.
+> ⚠️ Ne pas déplacer ni renommer `Modèles 3D/`, `Cramosaur/V04/`, `Dauphin/` et leurs `Textures/` : des fichiers Blender et des scripts y pointent par chemin absolu.
 
 ## 📁 Autres dossiers
-- `assets/` : images du GDD (carte de Luméridia Est dans `cartes/`, maquettes de menus dans `ui/`).
-- `gemini-scribe/` : dossier de travail du module Obsidian Gemini Scribe (créé par lui).
-- `.obsidian/` : réglages d'Obsidian. `Claude outputs/Modeles 3D` est exclu de la recherche et du graphe (Réglages > Fichiers et liens > Fichiers exclus).
+- La carte de Luméridia Est est dans `03 - Monde/Luméridia Est/`, les maquettes de menus dans `08 - Direction artistique/Maquettes/`.
+- `11 - Développement/Gemini Scribe/` : dossier de travail du module Obsidian Gemini Scribe (créé par lui).
+- `.obsidian/` : réglages d'Obsidian. `11 - Développement/Modèles 3D` est exclu de la recherche et du graphe (Réglages > Fichiers et liens > Fichiers exclus).
 - Copie complète d'avant le rangement : `~/Documents/Tifazelt - sauvegardes/2026-10-28 avant rangement/` (hors du vault).
 
 ## 🎨 Légende du graphe
-| Couleur | Rubrique |
-| :--- | :--- |
-| ⚪ Blanc | Cette page d'accueil |
-| 🟡 Jaune | Game design (menus, économie, mécaniques) |
-| 🔴 Rouge | Villes |
-| 🟤 Brun | Routes |
-| 🩵 Turquoise | Lieux et reliefs |
-| 🟢 Vert | Lore général (région, province, quêtes, personnages, bâtiments) |
-| 💜 Violet clair | Fiches d'attaques (masquées par défaut) |
-| 🟣 Violet | Tifazelts, capacités, types |
-| 🔵 Bleu | Joueur, PNJ, sanctuaires |
-| 🩷 Rose | Objets |
-| 💠 Cyan | Direction artistique |
-| 🟠 Orange | Production Roblox |
-| 🩶 Gris | Captures |
-| 🟫 Sable | Développement (`Claude outputs`) |
+Une couleur par dossier : 🟡 or = Accueil · gris-bleu = 00 Suivi · jaune = 01 Règles du jeu · violet = 02 Tifazelts · vert = 03 Monde (rouge = villes, brun = routes, turquoise = lieux) · rose = 04 Histoire et personnages · bleu = 05 Joueur et dresseurs · pêche = 06 Objets · cyan = 07 Interface et menus · vert anis = 08 Direction artistique · orange = 09 Production Roblox · gris clair = 10 Captures · taupe = 11 Développement.
 
-> Pour afficher aussi les 283 attaques dans le graphe : dans le champ de recherche du graphe, retirer `-path:"GDD/03_Tifazelts_et_Combats/8. Attaques"`.
+> Masqués par défaut : les 283 fiches d'attaques, les plans terminés, les images et les tags. Pour les afficher : dans le champ de recherche du graphe, retirer `-path:"02 - Tifazelts/Attaques"` ; cocher « Pièces jointes » ou « Tags » dans les filtres.

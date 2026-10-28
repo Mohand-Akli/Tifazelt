@@ -44,7 +44,7 @@
   "summaryFrontmatterKey": "summary",
   "userName": "User",
   "chatHistory": false,
-  "historyFolder": "gemini-scribe",
+  "historyFolder": "11 - Développement/Gemini Scribe",
   "debugMode": false,
   "fileLogging": false,
   "stopOnToolError": true,
@@ -218,6 +218,6 @@
         "maxTemperature": 2
       }
     ],
-    "timestamp": 1792587914976
+    "timestamp": 1793208542934
   }
 }

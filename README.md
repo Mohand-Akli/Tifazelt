@@ -30,27 +30,20 @@ Ce répertoire sert d'archive et d'espace de travail principal pour la conceptio
 ## Structure du Projet
 
 ```text
-├── README.md · LICENSE
 ├── Accueil.md                      (index du vault : où se trouve chaque chose)
-├── CLAUDE.md                       (consignes pour Claude Code)
-├── assets/                         (carte, maquettes d'interface)
-├── GDD/                            (Game Design Document — vault Obsidian)
-│   ├── 01_Game_Design_Core/        (menus, économie, mécaniques, liste des écrans)
-│   ├── 02_Univers_et_Lore/         (région, province, 7 villes, 6 routes, lieux, quêtes, personnages)
-│   ├── 03_Tifazelts_et_Combats/    (définition, noms, capacités, types, 283 fiches d'attaques)
-│   ├── 04_Joueur_et_PNJ/           (PNJ, joueur, sanctuaires)
-│   ├── 05_Inventaire/              (objets)
-│   ├── 06_Direction_Artistique/    (charte graphique, menus)
-│   ├── 07_Production_Roblox/       (ce qui est construit dans Roblox Studio ; à décider et à faire)
-│   └── 08_Captures/                (captures d'écran ; historique, une note par jour)
-└── Claude outputs/                 (développement)
-    ├── Passation Cowork/           (plans en étapes ; Terminés/)
-    ├── outils/                     (audit du vault, détecteurs)
-    ├── Modeles 3D/                 (Cramosaur, Dauphin, Tiflask : Blender, textures, rigs, sprites)
-    ├── Textures Roblox/            (vêtements des PNJ et leur générateur)
-    ├── Sauvegardes Roblox/         (Backup1.rbxl, copie de secours du place Roblox)
-    ├── Illustrations Tifazelts/ · Interface/
-    └── Archives/
+├── CLAUDE.md · README.md · LICENSE
+├── 00 - Suivi/                     (à décider et à faire ; plans de travail)
+├── 01 - Règles du jeu/             (mécaniques, économie, combat, table des types)
+├── 02 - Tifazelts/                 (définition, noms, capacités, 283 fiches d'attaques)
+├── 03 - Monde/                     (région d'Azzursal, Luméridia Est : villes, routes, lieux)
+├── 04 - Histoire et personnages/   (personnages, quêtes)
+├── 05 - Joueur et dresseurs/       (joueur, PNJ, sanctuaires)
+├── 06 - Objets/
+├── 07 - Interface et menus/        (menus, liste des écrans)
+├── 08 - Direction artistique/      (charte graphique, menus, maquettes)
+├── 09 - Production Roblox/         (ce qui est construit dans Roblox Studio)
+├── 10 - Captures/                  (historique, notes par jour, images)
+└── 11 - Développement/             (modèles 3D, textures, outils, sauvegardes du place, archives)
 ```
 
 ## Licence
