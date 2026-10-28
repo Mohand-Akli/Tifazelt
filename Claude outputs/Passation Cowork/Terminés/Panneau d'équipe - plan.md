@@ -1,5 +1,7 @@
 # Panneau d'équipe en exploration : plan en étapes
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+
 Demande de Mohand (26 oct. 2026), d'après une capture de Cobblemon : un panneau de sélection des Tifazelts sur le bord gauche de l'écran, dans le style de Tifazelt, pour voir l'état de l'équipe et choisir le Tifazelt à faire sortir de sa Tiflask.
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».

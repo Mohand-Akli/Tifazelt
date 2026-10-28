@@ -1,5 +1,7 @@
 # Sortie du Tifazelt dans le monde : plan en étapes
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+
 Demande de Mohand (26 oct. 2026) : « On branche la sortie de ton Tifazelt sur une action du joueur ». Suite de l'étape 6 de [[Portraits et Tiflask - plan]] et de l'étape 15 de [[Starters - plan]].
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».

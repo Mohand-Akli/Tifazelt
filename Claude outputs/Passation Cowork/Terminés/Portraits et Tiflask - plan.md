@@ -1,5 +1,7 @@
 # Portraits et Tiflask : plan en étapes
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+
 Demande de Mohand (26 oct. 2026) : portraits de la Tifalistre et de l'Équipe à partir des rendus, puis une base de Tiflask (modèles) pour pouvoir ensuite faire le lancer de Tiflask, la sortie d'un Tifazelt de sa Tiflask, etc.
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».

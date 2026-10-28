@@ -1,5 +1,7 @@
 # Feuille de route du 26 au 27 oct. 2026 (14h)
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+
 Décision de Mohand (26 oct. 2026) : jusqu'au **27 oct. 2026 à 14h**, tout se fait avec Opus. Claude n'annonce plus de modèle et enchaîne les étapes.
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».

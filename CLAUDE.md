@@ -26,7 +26,7 @@ Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Lumérid
 - Pas encore de vrai combat ni de capture ; rencontres = repères dans `Route1.SpawnZones`.
 
 ## Chantier en cours (au 26 oct. 2026)
-Voir `Claude outputs/Passation Cowork/Vêtements PNJ et suite.md` : habiller les 68 PNJ avec les Shirt/Pants/visages importés (ID listés), vérifier ce qui a survécu de la dernière session, ajouter l'interaction du starter à Bourg-Azur (PROVISOIRE), tester en Play.
+Voir `Claude outputs/Passation Cowork/Terminés/Vêtements PNJ et suite.md` : habiller les 68 PNJ avec les Shirt/Pants/visages importés (ID listés), vérifier ce qui a survécu de la dernière session, ajouter l'interaction du starter à Bourg-Azur (PROVISOIRE), tester en Play.
 
 ## Choix du modèle à chaque étape (économie de tokens)
 Avant chaque étape, annonce l'étape en une ligne et recommande le modèle, puis **attends que Mohand confirme** (il change lui-même avec `/model`) :

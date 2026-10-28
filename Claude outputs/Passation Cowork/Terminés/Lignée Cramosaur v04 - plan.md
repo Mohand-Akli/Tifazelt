@@ -1,5 +1,7 @@
 # Lignée Cramosaur, nouvelles versions (v04) : plan en étapes
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+
 Demande de Mohand (26 oct. 2026) : trois nouvelles versions Meshy de la lignée des dinosaures (`~/Downloads/meshy_1793054409870.glb`, `meshy_1793054413554.glb`, `meshy_1793054447571.glb`). Tout corriger pour les importer dans le jeu, **en gardant les versions actuelles (v03) pour comparer** et choisir la meilleure.
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».

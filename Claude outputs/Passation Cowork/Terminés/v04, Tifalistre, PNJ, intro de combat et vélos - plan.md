@@ -1,5 +1,7 @@
 # v04, Tifalistre, PNJ, intro de combat et vélos : plan en étapes
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+
 Pour reprendre dans une nouvelle conversation, dire : « passons à l'étape N » (N = numéro ci-dessous). Claude lit ce fichier, annonce l'étape et le modèle conseillé, puis attend ton « oui ».
 
 ## Demande de Mohand (27 oct. 2026, soir)

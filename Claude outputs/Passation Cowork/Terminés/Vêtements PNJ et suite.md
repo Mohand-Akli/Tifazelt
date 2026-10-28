@@ -1,5 +1,7 @@
 # Vêtements des PNJ, corrections et suite (passation Cowork → Claude Code, 26 oct. 2026)
 
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]]. Le dossier `Roblox_Textures/` cité plus bas est devenu `Claude outputs/Textures Roblox/`.*
+
 ## Plan de Mohand (validé le 26 oct. 2026)
 1. **Vérifier ce qui a survécu.** Je contrôle par les données, sans rien écrire :
    - l'attribut `Y_avant_correction` sur les 11 PNJ remontés ;
