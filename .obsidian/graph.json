@@ -1,12 +1,111 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"CSV import\"  ",
+  "search": "-path:\"GDD/03_Tifazelts_et_Combats/8. Attaques\"",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Accueil.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"GDD/01_Game_Design_Core\"",
+      "color": {
+        "a": 1,
+        "rgb": 15120384
+      }
+    },
+    {
+      "query": "path:\"GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes\"",
+      "color": {
+        "a": 1,
+        "rgb": 14240844
+      }
+    },
+    {
+      "query": "path:\"GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes\"",
+      "color": {
+        "a": 1,
+        "rgb": 9132587
+      }
+    },
+    {
+      "query": "path:\"GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs\"",
+      "color": {
+        "a": 1,
+        "rgb": 2864552
+      }
+    },
+    {
+      "query": "path:\"GDD/02_Univers_et_Lore\"",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "path:\"GDD/03_Tifazelts_et_Combats/8. Attaques\"",
+      "color": {
+        "a": 1,
+        "rgb": 12822248
+      }
+    },
+    {
+      "query": "path:\"GDD/03_Tifazelts_et_Combats\"",
+      "color": {
+        "a": 1,
+        "rgb": 8015823
+      }
+    },
+    {
+      "query": "path:\"GDD/04_Joueur_et_PNJ\"",
+      "color": {
+        "a": 1,
+        "rgb": 4161497
+      }
+    },
+    {
+      "query": "path:\"GDD/05_Inventaire\"",
+      "color": {
+        "a": 1,
+        "rgb": 15039152
+      }
+    },
+    {
+      "query": "path:\"GDD/06_Direction_Artistique\"",
+      "color": {
+        "a": 1,
+        "rgb": 2081504
+      }
+    },
+    {
+      "query": "path:\"GDD/07_Production_Roblox\"",
+      "color": {
+        "a": 1,
+        "rgb": 15764004
+      }
+    },
+    {
+      "query": "path:\"GDD/08_Captures\"",
+      "color": {
+        "a": 1,
+        "rgb": 10395294
+      }
+    },
+    {
+      "query": "path:\"Claude outputs\"",
+      "color": {
+        "a": 1,
+        "rgb": 13148794
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

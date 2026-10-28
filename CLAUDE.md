@@ -1,6 +1,6 @@
 # Tifazelt — consignes pour Claude Code
 
-Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Luméridia). Le jeu lui-même est dans Roblox Studio (placeId 88063327881434), piloté via le serveur MCP de Studio. L'historique détaillé du travail fait dans Claude Cowork est dans `Claude outputs/Passation Cowork/`.
+Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Luméridia). Le jeu lui-même est dans Roblox Studio (placeId 88063327881434), piloté via le serveur MCP de Studio. L'historique détaillé du travail fait dans Claude Cowork est dans `Claude outputs/Passation Cowork/` (plans finis dans `Terminés/`). **Index du vault : `Accueil.md`** (où se trouve chaque chose).
 
 ## Règles du propriétaire (Mohand) — à respecter toujours
 - Répondre en **français**, de façon concise. Pas d'emojis dans l'UI du jeu. Animations d'UI ≤ ~0,35 s.
@@ -23,10 +23,19 @@ Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Lumérid
 - Animations PNJ : `ReplicatedStorage.Animations.GestesPNJ` + `StarterPlayerScripts.PNJ_Animations` (Motor6D.Transform côté client).
 - Course/vélo : `ReplicatedStorage.Joueur.Deplacements`, `StarterPlayerScripts.Deplacements_Client`, `ServerScriptService.Deplacements_Serveur`.
 - Audio : `ReplicatedStorage.Audio.Sons`, `StarterPlayerScripts.Musique`.
-- Pas encore de vrai combat ni de capture ; rencontres = repères dans `Route1.SpawnZones`.
+- Combat, capture et menus : prototype côté client avec des données de test (voir `GDD/07_Production_Roblox/Interface (UI) - Construction Roblox.md`) ; rencontres = repères dans `Route1.SpawnZones`.
 
-## Chantier en cours (au 26 oct. 2026)
-Voir `Claude outputs/Passation Cowork/Terminés/Vêtements PNJ et suite.md` : habiller les 68 PNJ avec les Shirt/Pants/visages importés (ID listés), vérifier ce qui a survécu de la dernière session, ajouter l'interaction du starter à Bourg-Azur (PROVISOIRE), tester en Play.
+## Chantiers en cours (au 28 oct. 2026)
+- `Claude outputs/Passation Cowork/Bourg-Azur parfait - plan.md` : étapes 6 (ajouts PROVISOIRES) et 7 (contrôle final) à faire.
+- `Claude outputs/Passation Cowork/Lignée Dauphin - plan.md` : étape 9, tests en Play par Mohand.
+- `Claude outputs/Passation Cowork/Vérifications de Mohand - 27 oct. 2026.md` : tests à faire par Mohand.
+- `Claude outputs/Passation Cowork/Rangement du dossier - plan.md` : étape 12 (vérification finale).
+- Choix en attente : `GDD/07_Production_Roblox/À décider et à faire/À décider - Relecture du 28 oct. 2026.md` (41 choix numérotés).
+
+## Rangement du vault (depuis le 28 oct. 2026)
+- Une note trop longue est découpée ainsi : le sommaire garde son nom et sa place, les parties vont dans le dossier du même nom, juste à côté. Liens Obsidian par nom de note, jamais par chemin.
+- Ne pas déplacer ni renommer `Claude outputs/Modeles 3D/`, `Cramosaur/V04/`, `Dauphin/` et leurs `Textures/` : des `.blend` et des scripts y pointent par chemin absolu.
+- Rendus bruts, essais et variantes refusées : dans un dossier `_Travail/` (ignoré par git). Anciennes sauvegardes de fichiers : dans `Sauvegardes/`. Fichiers sans usage : `Claude outputs/Archives/`.
 
 ## Choix du modèle à chaque étape (économie de tokens)
 Avant chaque étape, annonce l'étape en une ligne et recommande le modèle, puis **attends que Mohand confirme** (il change lui-même avec `/model`) :

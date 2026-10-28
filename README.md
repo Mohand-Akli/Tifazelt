@@ -1,6 +1,6 @@
-# 🌟 Projet Azzursal (Tifazelt) — Roblox RPG
+# 🌟 Tifazelt — RPG Roblox (région d'Azzursal)
 
-Ce dépôt GitHub centralise l'intégralité du code source ainsi que la base de données complète (Game Design Document) du projet Azzursal. Il s'agit d'un jeu RPG d'aventure et de capture de monstres (Tifazelts) en développement sur Roblox. 
+Ce dépôt GitHub centralise la base de données complète (Game Design Document) et les fichiers de développement du jeu **Tifazelt**, qui se déroule dans la région d'Azzursal. Il s'agit d'un jeu RPG d'aventure et de capture de monstres (Tifazelts) en développement sur Roblox. 
 
 Ce répertoire n'est pas un logiciel à installer, mais un espace de documentation et d'archivage. Vous y trouverez toute la documentation concernant le lore, les mécaniques de jeu, les systèmes économiques, et la direction artistique, ainsi que les scripts associés au développement.
 
@@ -19,7 +19,7 @@ Ce répertoire n'est pas un logiciel à installer, mais un espace de documentati
 ## Contenu du Dépôt
 Ce répertoire sert d'archive et d'espace de travail principal pour la conception du jeu. Il contient :
 1. **La Base de Données (GDD) :** Une collection de fichiers Markdown formatés (pensés pour Obsidian) détaillant chaque aspect conceptuel du jeu : le lore des 4 régions, les personnages, le bestiaire (Tifazelts), les objets, et les formules mathématiques.
-2. **Le Code Source :** Les scripts Luau, l'architecture UI et les assets utilisés pour concrétiser le jeu sur Roblox Studio.
+2. **Le Développement :** modèles 3D (Blender), scripts Python, textures, plans de travail et copie de secours du place Roblox. Le code Luau du jeu vit dans Roblox Studio.
 
 ## Univers et Mécaniques
 - **Monde Ouvert à 4 Biomes :** Exploration fluide entre Luméridia (Côtes), Florédena (Jungle), Cristalpina (Montagnes) et Ardusia (Désert).
@@ -30,35 +30,27 @@ Ce répertoire sert d'archive et d'espace de travail principal pour la conceptio
 ## Structure du Projet
 
 ```text
-├── README.md
-├── LICENSE
-├── 🏠 Accueil.md                   (sommaire du vault + légende du graphe)
-├── assets/                         (cartes, maquettes d'interface, icônes)
+├── README.md · LICENSE
+├── Accueil.md                      (index du vault : où se trouve chaque chose)
+├── CLAUDE.md                       (consignes pour Claude Code)
+├── assets/                         (carte, maquettes d'interface)
 ├── GDD/                            (Game Design Document — vault Obsidian)
-│   ├── 01_Game_Design_Core/        (menus, économie, mécaniques)
-│   ├── 02_Univers_et_Lore/
-│   │   ├── 4. Carte et Région d'Azzursal/
-│   │   │   ├── 00_Region_Azzursal.md
-│   │   │   ├── Bâtiments Communs.md
-│   │   │   └── 01_Lumeridia/
-│   │   │       ├── 00_Province_Lumeridia.md
-│   │   │       ├── Villes/         (7 villes)
-│   │   │       ├── Routes/         (Routes 1 à 6)
-│   │   │       └── Lieux_et_Reliefs/
-│   │   ├── 5. Quêtes Dans L'Aventure.md
-│   │   └── 6. Personnages.md
-│   ├── 03_Tifazelts_et_Combats/
-│   │   ├── 7. Tifazelts/00. Définition.md
-│   │   ├── 8. Attaques/            (283 fiches, une par attaque)
-│   │   ├── 8. Liste des attaques.base
-│   │   ├── 9. Capacités des Tifazelts.md
-│   │   └── 10. Table des types.md
-│   ├── 04_Joueur_et_PNJ/           (11. PNJ, 12. Joueur, 13. Sanctuaire)
-│   ├── 05_Inventaire/              (14. Objets)
-│   ├── 06_Direction_Artistique/    (15. Charte Graphique)
-│   └── 07_Production_Roblox/       (construction de la carte dans Roblox Studio)
-└── src/
-    └── Backup1.rbxl                (copie de secours du place Roblox)
+│   ├── 01_Game_Design_Core/        (menus, économie, mécaniques, liste des écrans)
+│   ├── 02_Univers_et_Lore/         (région, province, 7 villes, 6 routes, lieux, quêtes, personnages)
+│   ├── 03_Tifazelts_et_Combats/    (définition, noms, capacités, types, 283 fiches d'attaques)
+│   ├── 04_Joueur_et_PNJ/           (PNJ, joueur, sanctuaires)
+│   ├── 05_Inventaire/              (objets)
+│   ├── 06_Direction_Artistique/    (charte graphique, menus)
+│   ├── 07_Production_Roblox/       (ce qui est construit dans Roblox Studio ; à décider et à faire)
+│   └── 08_Captures/                (captures d'écran ; historique, une note par jour)
+└── Claude outputs/                 (développement)
+    ├── Passation Cowork/           (plans en étapes ; Terminés/)
+    ├── outils/                     (audit du vault, détecteurs)
+    ├── Modeles 3D/                 (Cramosaur, Dauphin, Tiflask : Blender, textures, rigs, sprites)
+    ├── Textures Roblox/            (vêtements des PNJ et leur générateur)
+    ├── Sauvegardes Roblox/         (Backup1.rbxl, copie de secours du place Roblox)
+    ├── Illustrations Tifazelts/ · Interface/
+    └── Archives/
 ```
 
 ## Licence
