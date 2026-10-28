@@ -1,7 +1,7 @@
 import os,re,sys,json,collections,unicodedata
 # Audit du vault : python3 "Claude outputs/outils/audit.py" .
 # Conflits git, notes vides, doublons de nom (notes et fichiers cités), liens et ancres cassés,
-# notes sans lien entrant, chemins écrits en dur (`Claude outputs/...`, `GDD/...`, `assets/...`) introuvables
+# liens écrits vers un alias (Obsidian ne les suit pas), notes sans lien entrant, chemins écrits en dur (`Claude outputs/...`, `GDD/...`, `assets/...`) introuvables
 # (sauf dans les plans archivés de `Passation Cowork/Terminés/`, qui gardent volontairement leurs chemins d'origine).
 root=sys.argv[1]
 N=lambda s: unicodedata.normalize('NFC',s)
@@ -29,7 +29,7 @@ for f in md:
             alias[N(a.strip().strip('"\''))]=f
 link=re.compile(r'(!?)\[\[([^\]\|#]*)(#[^\]\|]*)?(\|[^\]]*)?\]\]')
 chemin=re.compile(r'`((?:Claude outputs|GDD|assets)/[^`\n]*)`')
-broken=collections.Counter(); brokenh=collections.Counter(); inlinks=collections.Counter(); where=collections.defaultdict(set)
+par_alias=collections.Counter(); broken=collections.Counter(); brokenh=collections.Counter(); inlinks=collections.Counter(); where=collections.defaultdict(set)
 conflicts=[]; empty=[]; cites=set(); chemins_absents=[]
 def existe(p):
     for q in (N(p),unicodedata.normalize('NFD',p)):
@@ -43,11 +43,14 @@ for f in md:
     if re.search(r'^(<<<<<<<|>>>>>>>|=======$)',t,re.M): conflicts.append(f)
     if len(t.strip())==0: empty.append(f)
     for m in link.finditer(t):
-        tgt=N(m.group(2).strip()); h=m.group(3)
+        tgt=N(m.group(2).strip()).rstrip('\\').strip(); h=m.group(3)  # « \| » dans un tableau
         if tgt=='' : tf=f
         else:
             base=os.path.basename(tgt)
-            c=byname.get(base) or byname.get(base+'.md') or ([alias[tgt]] if tgt in alias else None)
+            c=byname.get(base) or byname.get(base+'.md')
+            if not c and tgt in alias:
+                # Obsidian ne suit pas un lien écrit vers un alias : il faut viser le vrai nom de la note
+                par_alias[tgt]+=1; where[('A',tgt)].add(f); c=[alias[tgt]]
             if not c: broken[tgt]+=1; where[tgt].add(f); continue
             tf=c[0]
             if not tf.endswith('.md'): cites.add(N(os.path.basename(tf)))
@@ -73,6 +76,8 @@ print('doublons de nom (fichiers cités dans les notes)',fichiers_cites_doublons
 print('autres fichiers au nom en double (copies de travail, non cités)',autres)
 print('liens cassés',sum(broken.values()),'cibles',len(broken))
 for k,v in broken.most_common(200): print('  ',v,k,'<-',sorted(where[k])[:4])
+print('liens écrits vers un alias (non suivis par Obsidian)',sum(par_alias.values()))
+for k,v in par_alias.most_common(200): print('  ',v,k,'->',alias[k].split('/')[-1],'<-',sorted(where[('A',k)])[:3])
 print('ancres cassées',sum(brokenh.values()))
 for (tf,h),v in brokenh.most_common(200): print('  ',v,tf.split('/')[-1],'#',h,'<-',sorted(where[('H',tf,h)])[:3])
 orph=[f for f in md if inlinks[f]==0 and f not in attaques]

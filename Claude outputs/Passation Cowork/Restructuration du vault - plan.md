@@ -4,11 +4,11 @@ Demande de Mohand (28 oct. 2026), après le rangement : revoir la **structure gl
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 
-**Rien ne bouge avant que Mohand ait validé ce plan et répondu aux décisions R1 à R9.**
+**Plan validé par Mohand le 28 oct. 2026, avec toutes les recommandations (R1 à R9). Pour R2, la condition « Cowork » est à confirmer au début de l'étape 2.**
 
 ## Diagnostic (28 oct. 2026, lecture seule)
-- **Trop de niveaux** : une ville est à 5 niveaux de profondeur (`GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/`).
-- **Numérotation incohérente** : quatre styles mélangés (`01_…`, `4. …`, `00. …`, `00_…`). Les numéros des notes (1. à 16.) viennent du document d'origine et ne suivent pas les dossiers (`8. Attaques` est dans `03`, `4. Carte…` dans `02`). Noms en anglais ou avec des tirets bas (`Game_Design_Core`), noms flous (`2. Economie Et Formules Et Reste`, `00. Définition`, `Claude outputs`).
+- **Trop de niveaux** : une ville est à 5 niveaux de profondeur (« GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes/ »).
+- **Numérotation incohérente** : quatre styles mélangés (`01_…`, `4. …`, `00. …`, `00_…`). Les numéros des notes (1. à 16.) viennent du document d'origine et ne suivent pas les dossiers (`8. Attaques` est dans `03`, `4. Carte…` dans `02`). Noms en anglais ou avec des tirets bas (`Game_Design_Core`), noms flous (`2. Economie Et Formules Et Reste`, `00. Définition`, « Claude outputs »).
 - **Notes fourre-tout** :
   - `00. Définition` : 8 sujets ; ses propres alias les listent déjà (Types, Statuts, Statistiques, Brillants, Starters, Légendaires, Évolutions, Accouplement) ;
   - `3. Mécanique` : 8 sujets (raids, météo, bonheur, jour et nuit, énigmes, réactions, échanges, PvP) ;
@@ -16,8 +16,8 @@ Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
   - `6. Personnages` : 5 sujets (ses alias citent Zéphir, Professeur Arid, Team Glacitech) ;
   - `1. Menus Et Interfaces` : mélange des menus et des définitions d'objets (Médicaments, Tiflask… : 48 liens pointent vers ces sections) ;
   - `Animations, déplacements et audio` (2 354 mots), `Habillage des PNJ` (2 052), `Route 1 - Construction Roblox` (1 469).
-- **Suivi dispersé** : ce qui reste à faire (`GDD/07_Production_Roblox/À décider et à faire/`) et les plans (`Claude outputs/Passation Cowork/`) sont à deux endroits sans rapport.
-- **Images loin de leur usage** : la carte et les maquettes sont dans `assets/`.
+- **Suivi dispersé** : ce qui reste à faire (« GDD/07_Production_Roblox/À décider et à faire/ ») et les plans (« Claude outputs/Passation Cowork/ ») sont à deux endroits sans rapport.
+- **Images loin de leur usage** : la carte et les maquettes sont dans « assets/ ».
 - **Outil** : `audit.py` accepte les liens écrits vers un alias, alors qu'Obsidian ne les résout pas (aucun lien de ce type aujourd'hui, vérifié). Les découpages devront réécrire les liens section par section (180 liens vers `10. Table des types`, 84 vers `00. Définition`, 54 vers `1. Menus Et Interfaces`) : il faut un outil qui le fasse et le vérifie.
 
 ## Arborescence visée (avec les recommandations)
@@ -111,7 +111,7 @@ Environ 55 nouvelles notes et 15 sommaires. Chaque lien vers une section est ré
 | # | Étape | Modèle conseillé | Statut |
 |---|---|---|---|
 | 0 | Diagnostic et plan | Opus (décisions d'architecture) | Fait le 28 oct. 2026 |
-| 1 | Outil `restructurer.py` : déplacer, renommer et découper des notes en réécrivant liens, sections, alias et chemins écrits en dur ; mode essai ; contrôle « aucun texte perdu ». `audit.py` : liens par alias signalés. Essai complet sur une copie du vault dans le dossier temporaire de Claude | Sonnet (Opus si l'essai révèle des cas difficiles) | À faire |
+| 1 | Outil `restructurer.py` : déplacer, renommer et découper des notes en réécrivant liens, sections, alias et chemins écrits en dur ; mode essai ; contrôle « aucun texte perdu ». `audit.py` : liens par alias signalés. Essai complet sur une copie du vault dans le dossier temporaire de Claude | Sonnet (Opus si l'essai révèle des cas difficiles) | Fait le 28 oct. 2026 |
 | 2 | Arborescence de premier niveau (dossiers seulement, aucune note renommée) ; R2 si validé (chemins des `.blend` rendus relatifs, relus avant et après) ; Obsidian (graphe, exclusions, signets, `.base`), `CLAUDE.md`, mémoire de Claude, note pour les autres sessions | Sonnet | À faire |
 | 3 | Renommage des notes (R4) ; sommaires déjà faits déplacés dans leurs dossiers (R5) | Sonnet | À faire |
 | 4 | Découpage des règles et des Tifazelts : `00. Définition`, `3. Mécanique`, `2. Economie…`, `9. Capacités…` | Sonnet | À faire |
@@ -122,3 +122,11 @@ Environ 55 nouvelles notes et 15 sommaires. Chaque lien vers une section est ré
 
 ## Journal
 - 28 oct. 2026 : diagnostic fait (lecture seule) et plan écrit. Les 12 commits du rangement sont sur GitHub (`f4ed403..0473975`) ; GitHub signale 3 `.blend` de plus de 50 Mo (taille conseillée, la limite est de 100 Mo). En attente de la validation de Mohand et des réponses R1 à R9.
+- 28 oct. 2026 : plan validé par Mohand (« tout recommandé »).
+- 28 oct. 2026 : étape 1 faite.
+  - **`Claude outputs/outils/restructurer.py`** : lit une liste d'opérations JSON (`deplacer`, `renommer`, `decouper`, `chemins`) et réécrit tous les liens Obsidian (vers une note, vers une section, avec texte affiché, images intégrées, liens internes vers une section de la même note, forme avec barre oblique des tableaux), les alias (l'ancien nom devient un alias), les chemins écrits entre accents graves dans les notes (sauf plans archivés et ce plan, dont le diagnostic cite volontairement les anciens chemins) et les chemins des réglages d'Obsidian (graphe, signets, exclusions, fichiers `.base`). Un lien vers une section devenue une note entière vise la note sans ancre ; un lien vers une note découpée mène à son sommaire.
+  - **Mode essai** (par défaut) : tout est appliqué sur une copie instantanée du vault (hors `.git`, sans espace disque en plus), l'audit est lancé sur la copie, puis la copie est effacée. `--appliquer` agit sur le vault avec `git mv`.
+  - **Contrôle intégré** : pour chaque découpage, chaque ligne d'origine (hors en-tête, liens et marques de titre) doit se retrouver ; les titres remplacés et les lignes ajoutées sont listés ; pour chaque note dont seuls les liens ou chemins changent, le reste du texte doit être identique.
+  - `audit.py` : signale les liens écrits vers un alias (Obsidian ne les suit pas ; aucun aujourd'hui) ; accepte la forme avec barre oblique des liens dans les tableaux.
+  - **Essai** (sur la copie puis en mode essai sur le vrai vault) : 2 dossiers déplacés, `10. Table des types` renommée et déplacée, `00. Définition` découpée en 8 notes + sommaire, `1. Menus Et Interfaces` découpée en 5 notes + sommaire ; 318 liens réécrits dans 43 notes, graphe mis à jour ; contrôles OK, audit de la copie : 0 lien cassé, 0 ancre cassée, 0 lien par alias, 0 chemin introuvable. Défauts trouvés et corrigés pendant l'essai : ancres vers une section devenue une note entière (39), barre oblique des tableaux, tags hérités à tort par les nouvelles notes, alias resté sur le sommaire à cause d'une majuscule, séparateur `---` en fin de partie, lignes vides en double.
+  - Le vrai vault n'a pas changé à cette étape (à part l'outil, l'audit et ce plan).
