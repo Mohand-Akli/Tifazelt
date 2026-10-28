@@ -67,7 +67,7 @@ Fichiers de travail (rendus bruts, essais, variantes refusées) : **environ 1,16
 | # | Question | Recommandation |
 |---|---|---|
 | D1 | Copie complète du dossier (environ 3 Go, 750 Go libres) **hors du vault**, dans `~/Documents/Tifazelt - sauvegardes/2026-10-28 avant rangement/` ? Hors du vault pour qu'Obsidian ne voie pas les notes en double. | Oui |
-| D2 | Git et gros fichiers. **A** : ignorer `_Travail/`, `*.blend1`, `__pycache__/` et enregistrer le reste (environ 0,5 Go ajoutés) ; **B** : tout enregistrer (2 Go de plus, envoi sur GitHub lourd) ; **C** : n'enregistrer que notes et scripts. Aucun envoi sur GitHub sans ta demande. | A |
+| D2 | Git et gros fichiers. **A** : ignorer `_Travail/`, `*.blend1`, `__pycache__/` et enregistrer le reste (estimé à 0,5 Go ; 0,92 Go en réalité, voir le journal) ; **B** : tout enregistrer (2 Go de plus, envoi sur GitHub lourd) ; **C** : n'enregistrer que notes et scripts. Aucun envoi sur GitHub sans ta demande. | A |
 | D3 | Captures. **A** : les images restent à plat dans `GDD/08_Captures` (règle de CLAUDE.md inchangée), seule la note est découpée par jour ; **B** : un sous-dossier d'images par jour (règle de CLAUDE.md à changer). | A |
 | D4 | Garder les noms `Claude outputs`, `Modeles 3D`, `Passation Cowork`, `V04` (chemins absolus dans les `.blend`, scripts, plans, mémoire de Claude) ? | Oui, garder |
 | D5 | Regrouper toute la partie développement sous `Claude outputs` : `Roblox_Textures/` → `Claude outputs/Textures Roblox/`, `src/Backup1.rbxl` → `Claude outputs/Sauvegardes Roblox/`. `assets/` reste (images du GDD). `gemini-scribe/` : laisser, ou désactiver le module si tu ne t'en sers pas. | Oui ; laisser `gemini-scribe` |
@@ -125,8 +125,8 @@ Tifazelt/
 | # | Étape | Modèle conseillé | Statut |
 |---|---|---|---|
 | 0 | État des lieux et plan | Opus (vue d'ensemble, décisions d'organisation) | Fait le 28 oct. 2026 |
-| 1 | Sauvegarde complète hors du vault (D1), contrôle du nombre de fichiers et de la taille ; git : `.gitignore` (D2), retrait de git des `.DS_Store`, `workspace.json` et `.blend1`, commit « avant rangement » (sans envoi) | Haiku (mécanique) | À faire |
-| 2 | Petit nettoyage sans risque : effacement de `.tmp.driveupload` enregistré ; `__pycache__` ; `assets/icons` vide ; 6 captures sans heure et `test.png` → `Claude outputs/Archives/` | Haiku (mécanique) | À faire |
+| 1 | Sauvegarde complète hors du vault (D1), contrôle du nombre de fichiers et de la taille ; git : `.gitignore` (D2), retrait de git des `.DS_Store`, `workspace.json` et `.blend1`, commit « avant rangement » (sans envoi) | Haiku (mécanique) | Fait le 28 oct. 2026 (commit `8ce99bf`) |
+| 2 | Petit nettoyage sans risque : ~~effacement de `.tmp.driveupload` enregistré~~ (fait à l'étape 1) ; `__pycache__` ; `assets/icons` vide ; 6 captures sans heure et `test.png` → `Claude outputs/Archives/` | Haiku (mécanique) | Fait le 28 oct. 2026 |
 | 3 | Chemins de notes écrits en dur (`` `Claude outputs/Passation Cowork/...md` `` dans À décider, Habillage, Bourg-Azur, Noms des Tifazelts, plans) remplacés par des liens Obsidian, qui suivent les déplacements ; liste des chemins de fichiers (non-notes) à mettre à jour aux étapes 9 et 10 | Sonnet (remplacements par script, vérifiés) | À faire |
 | 4 | `Historique des captures` : une note par jour, sommaire corrigé (436 captures du 15 au 28 oct., tableau par thème recompté), sections mal datées remises au bon jour ; images selon D3 | Sonnet (découpage par script) | À faire |
 | 5 | `Interface (UI) - Construction Roblox` : sommaire + Phase 0 à Phase 7 + Pièges Roblox ; liens vers une section réécrits vers la bonne partie | Sonnet | À faire |
@@ -140,3 +140,14 @@ Tifazelt/
 
 ## Journal
 - 28 oct. 2026 : état des lieux fait (lecture seule, aucun fichier déplacé ni modifié en dehors de ce plan). Plan écrit. En attente de la validation de Mohand et des réponses D1 à D8.
+- 28 oct. 2026 : plan validé par Mohand avec toutes les recommandations (D1 à D8).
+- 28 oct. 2026 : étape 1 faite.
+  - Copie complète dans `~/Documents/Tifazelt - sauvegardes/2026-10-28 avant rangement/` (`.git` et `.obsidian` compris). Vérifiée : 6 854 fichiers et 409 dossiers des deux côtés, contenu identique (comparaison `rsync` par somme de contrôle).
+  - `.gitignore` complété : `*.blend1`, `__pycache__/`, `.tmp.driveupload/`, `_Travail/`, et les dossiers de travail actuels des modèles 3D (`Sprites/brut*`, `test45*`, `45_images_essai_decentre`, `24_images_B_sat13`, `Rendus/var_*`, `var2_*`, `sprites_test`), à simplifier à l'étape 10 quand ils seront dans `_Travail/`.
+  - Retirés de git (toujours sur le disque) : 3 `.DS_Store`, `.obsidian/workspace.json`, 4 `.blend1`. Les 18 fichiers `Version_brillante_abandonnee` et `Version_mate_contour_blender` (Cramosaur v03) restent suivis : à traiter à l'étape 10.
+  - Commit `8ce99bf` « Avant rangement » : 689 fichiers ajoutés ou modifiés, **0,92 Go** (et non 0,5 Go comme estimé : sprites finaux, rigs, textures, `.blend` en service et dossiers `Sauvegarde_*` de V04 et du Dauphin). `.git` passe de 528 Mo à 1,2 Go. **Rien n'est envoyé sur GitHub** ; le prochain « commit-and-sync » d'obsidian-git enverra ce volume. Plus aucun fichier non suivi en dehors des fichiers ignorés.
+- 28 oct. 2026 : étape 2 faite.
+  - `Claude outputs/1_vue_aerienne.jpg` à `6_fleuriste.jpg` → `Claude outputs/Archives/Captures sans heure (16 oct. 2026)/` (noms inchangés, heure inconnue donc pas renommées selon la règle des captures).
+  - `Roblox_Textures/test.png` → `Claude outputs/Archives/Roblox_Textures_test.png` (renommé pour garder son origine).
+  - Déplacements faits avec `git mv` ; aucune note ni aucun script ne citait ces fichiers.
+  - Effacés (présents dans la copie de sauvegarde, vérifiés à l'octet près) : `Dauphin/Scripts/__pycache__/` (cache Python recréé automatiquement) et le dossier vide `assets/icons/` (le README le cite encore : à corriger à l'étape 11).
