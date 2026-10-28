@@ -85,7 +85,7 @@ Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman)
 
 ## Étape 7 refaite par Claude le 26 oct. 2026 (Sonnet) : test en Play d'une nouvelle partie
 - Mohand a redemandé que Claude fasse l'étape 7. Parcours joué : titre, Nouvelle partie, création, classes, chambre, porte, Professeur (E), choix d'Aqualune, combat contre Florépine (perdu deux fois), revanche, banc (F).
-- **Bug majeur : le combat d'apprentissage est injouable** (Florépine drain et soin, avantage de type, dégâts de 3-4 PV). Autres défauts : pénalité de 150 TFD, dialogue du Professeur non adapté après défaite, deux textes qui débordent, vocabulaire de labo, titre « AZZURSAL ». Détail et numéros dans [[À décider et à faire]] (« Bugs relevés en Play »).
+- **Bug majeur : le combat d'apprentissage est injouable** (Florépine drain et soin, avantage de type, dégâts de 3-4 PV). Autres défauts : pénalité de 150 TFD, dialogue du Professeur non adapté après défaite, deux textes qui débordent, vocabulaire de labo, titre « AZZURSAL ». Détail et numéros dans [[À décider - Bugs du 26 oct. 2026 (traités)]].
 - Rien n'a été corrigé ni modifié dans Studio (test seulement, Play arrêté). Rendu des PNJ : Professeur et Lina vérifiés de près ; 69/69 conformes côté serveur.
 - Mise à jour du paragraphe d'étape 7 ci-dessus : elle n'est plus « confiée à Mohand ».
 
@@ -97,4 +97,4 @@ Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman)
 - Ctrl+S à faire dans Studio.
 
 ## Bugs 2 à 7 traités le 26 oct. 2026 (Claude Code, Opus)
-- Suite du travail suivie dans [[Feuille de route 26-27 oct]]. Détail des corrections et des tests dans [[À décider et à faire]] > « Bugs relevés en Play ».
+- Suite du travail suivie dans [[Feuille de route 26-27 oct]]. Détail des corrections et des tests dans [[À décider - Bugs du 26 oct. 2026 (traités)]].

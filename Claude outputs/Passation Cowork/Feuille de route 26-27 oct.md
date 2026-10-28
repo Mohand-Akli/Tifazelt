@@ -6,7 +6,7 @@ Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 
 | # | Étape | Statut |
 |---|---|---|
-| 1 | Corriger les bugs relevés en Play (2 à 7 et la formule des stats par niveau), voir [[À décider et à faire]] > « Bugs relevés en Play » | Fait le 26 oct. 2026 (reste : titre Azzursal/Tifazelt à décider, affiche et pose à voir à l'écran) |
+| 1 | Corriger les bugs relevés en Play (2 à 7 et la formule des stats par niveau), voir [[À décider - Bugs du 26 oct. 2026 (traités)]] | Fait le 26 oct. 2026 (reste : titre Azzursal/Tifazelt à décider, affiche et pose à voir à l'écran) |
 | 2 | Starter Cramosaur : finir le renommage et l'intégration ([[Starters - plan]], étapes 1 à 5) | Fait le 26 oct. 2026 (renommage, attaques, test en Play avec Cramosaur) |
 | 3 | Affichage des Tifazelts en 3D : régler ce qui les rend « moches » (accord avec la DA 2D, voir le journal de [[Starters - plan]]) | Fait le 26 oct. 2026 pour la lignée Cramosaur : images pré-rendues mates et saturées (validées par Mohand), contour 2D, ombre de contact, trois stades. Reste : portraits Tifalistre / Équipe, test d'un vrai combat avec les stades 2 et 3 |
 | 4 | Les deux autres starters (Dauphimyst, Garenbois) : Mohand fournit les modèles, puis modèle 3D, rig, animations, intégration | À faire (attend Mohand) |

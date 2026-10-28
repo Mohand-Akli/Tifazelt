@@ -9,7 +9,7 @@ Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Lumérid
 - Pas de collision invisible. Supprimer tous les scripts des modèles Toolbox (scripts malveillants déjà trouvés).
 - Aucun code distant, aucune donnée joueur.
 - Ne pas lancer `BourgAzur B.Coast`. Ne pas déplacer Bourg-Azur ni Val Palmeraie.
-- Tout ce qui n'est pas défini dans le vault est **PROVISOIRE** : le signaler et le noter dans `GDD/07_Production_Roblox/À décider et à faire.md`.
+- Tout ce qui n'est pas défini dans le vault est **PROVISOIRE** : le signaler et le noter dans `GDD/07_Production_Roblox/À décider et à faire.md` (le sommaire indique la note de thème ou de chantier, dans le dossier voisin `À décider et à faire/`).
 - Captures : dans `GDD/08_Captures`, nom `AAAA-MM-JJ_HHhMM_sujet.jpg` (heure de Bruxelles), ajoutées à la note du jour `GDD/08_Captures/Historique des captures/Captures AAAA-MM-JJ.md` (à créer sur le modèle des autres si besoin), puis comptées dans les tableaux du sommaire `Historique des captures.md`.
 - Après un chantier : mettre à jour les notes du vault, lancer l'audit (`python3 "Claude outputs/outils/audit.py" .`), rappeler **Ctrl+S** dans Studio.
 - Économie : préférer les vérifications par les données ; regrouper les tests en jeu à demander à Mohand.
