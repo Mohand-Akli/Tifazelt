@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"GDD/03_Tifazelts_et_Combats/8. Attaques\"",
-  "showTags": true,
-  "showAttachments": true,
+  "search": "-path:\"02 - Tifazelts/Attaques\" -path:\"00 - Suivi/Plans/Terminés\"",
+  "showTags": false,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -11,111 +11,125 @@
       "query": "path:\"Accueil.md\"",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 15254122
       }
     },
     {
-      "query": "path:\"GDD/01_Game_Design_Core\"",
+      "query": "path:\"00 - Suivi\"",
       "color": {
         "a": 1,
-        "rgb": 15120384
+        "rgb": 10134961
       }
     },
     {
-      "query": "path:\"GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Villes\"",
+      "query": "path:\"01 - Règles du jeu\"",
       "color": {
         "a": 1,
-        "rgb": 14240844
+        "rgb": 15123292
       }
     },
     {
-      "query": "path:\"GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Routes\"",
+      "query": "path:\"02 - Tifazelts\"",
       "color": {
         "a": 1,
-        "rgb": 9132587
+        "rgb": 11045848
       }
     },
     {
-      "query": "path:\"GDD/02_Univers_et_Lore/4. Carte et Région d'Azzursal/01_Lumeridia/Lieux_et_Reliefs\"",
+      "query": "path:\"03 - Monde/Luméridia Est/Villes\"",
       "color": {
         "a": 1,
-        "rgb": 2864552
+        "rgb": 15037299
       }
     },
     {
-      "query": "path:\"GDD/02_Univers_et_Lore\"",
+      "query": "path:\"03 - Monde/Luméridia Est/Routes\"",
       "color": {
         "a": 1,
-        "rgb": 5025616
+        "rgb": 11569512
       }
     },
     {
-      "query": "path:\"GDD/03_Tifazelts_et_Combats/8. Attaques\"",
+      "query": "path:\"03 - Monde/Luméridia Est/Lieux et reliefs\"",
       "color": {
         "a": 1,
-        "rgb": 12822248
+        "rgb": 6275509
       }
     },
     {
-      "query": "path:\"GDD/03_Tifazelts_et_Combats\"",
+      "query": "path:\"03 - Monde\"",
       "color": {
         "a": 1,
-        "rgb": 8015823
+        "rgb": 8173439
       }
     },
     {
-      "query": "path:\"GDD/04_Joueur_et_PNJ\"",
+      "query": "path:\"04 - Histoire et personnages\"",
       "color": {
         "a": 1,
-        "rgb": 4161497
+        "rgb": 15765416
       }
     },
     {
-      "query": "path:\"GDD/05_Inventaire\"",
+      "query": "path:\"05 - Joueur et dresseurs\"",
       "color": {
         "a": 1,
-        "rgb": 15039152
+        "rgb": 7316446
       }
     },
     {
-      "query": "path:\"GDD/06_Direction_Artistique\"",
+      "query": "path:\"06 - Objets\"",
       "color": {
         "a": 1,
-        "rgb": 2081504
+        "rgb": 15906944
       }
     },
     {
-      "query": "path:\"GDD/07_Production_Roblox\"",
+      "query": "path:\"07 - Interface et menus\"",
       "color": {
         "a": 1,
-        "rgb": 15764004
+        "rgb": 6013150
       }
     },
     {
-      "query": "path:\"GDD/08_Captures\"",
+      "query": "path:\"08 - Direction artistique\"",
       "color": {
         "a": 1,
-        "rgb": 10395294
+        "rgb": 12968314
       }
     },
     {
-      "query": "path:\"Claude outputs\"",
+      "query": "path:\"09 - Production Roblox\"",
       "color": {
         "a": 1,
-        "rgb": 13148794
+        "rgb": 15765580
+      }
+    },
+    {
+      "query": "path:\"10 - Captures\"",
+      "color": {
+        "a": 1,
+        "rgb": 12434877
+      }
+    },
+    {
+      "query": "path:\"11 - Développement\"",
+      "color": {
+        "a": 1,
+        "rgb": 10586239
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.3,
+  "lineSizeMultiplier": 0.7,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.17200377166320635,
+  "centerStrength": 0.45,
+  "repelStrength": 14,
+  "linkStrength": 0.9,
+  "linkDistance": 160,
+  "scale": 0.6,
   "close": true
 }
