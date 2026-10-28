@@ -225,7 +225,7 @@ Autres changements : la Tiflask est dessinée comme une fiole ronde à bouchon (
 - **Non vérifié :** les vrais clics et la saisie au clavier dans la case du nom, la manette, l'invite « Examiner » du laboratoire (Studio ne simule pas les invites), la marche jusqu'au laboratoire.
 - Commandes de test : `titre`, `t:jouer`, `t:continuer`, `t:nouvelle`, `t:nom|Élise`, `t:couleur|3`, `t:suivant`, `t:principale|1`, `t:secondaire|2`, `t:valider`, `valider`, `service:Starter`, `t:choisir|1`, `t:confirmer`, `t:combat`, `chargement:Val Palmeraie|Laboratoire Arid|8`.
 
-Captures de cette phase : [[Historique des captures]] (section « Interface — phase 5 »).
+Captures de cette phase : [[Captures 2026-10-20#Interface — phase 5 (début de partie)]].
 
 ## 🌐 Phase 6 — en ligne (20 oct. 2026)
 Le serveur fait l'arbitre : `ServerScriptService.EnLigne_Serveur` (un seul RemoteEvent, `ReplicatedStorage.Reseau.EnLigne`). Côté joueur : `UI.Reseau` (messages, profil public, combat distant).
@@ -266,7 +266,7 @@ Joueur test (Studio seulement) : un faux dresseur « Joueur test » apparaît da
 - **Non vérifié :** deux vrais joueurs en même temps (Studio ne lance ici qu'un joueur ; à tester avec Test > Clients et serveurs, 2 joueurs), déconnexion pendant un combat, délai de 60 s, onglet Amis avec de vrais amis Roblox, les vrais clics et la manette.
 - Commandes de test : `open:EnLigne`, `t:onglet|raid`, `t:combat`, `t:echange`, `t:carte`, `t:proposer|2`, `t:valider`, `open:Raid`, `t:rejoindre`, `t:lancer`.
 
-Captures de cette phase : [[Historique des captures]] (section « Interface — phase 6 »).
+Captures de cette phase : [[Captures 2026-10-20#Interface — phase 6 (en ligne)]].
 
 ## 🎣 Phase 7 — mini-jeux et énigmes (20 oct. 2026)
 
@@ -321,5 +321,5 @@ Autres changements :
   - plongée : `objet:Bonbonne d'oxygène`, `plonger:16` ;
   - énigmes : `enigme:stele_route1`, `t:poser|cercle`, `t:valider`, `enigme:pierre_crique`, `t:resoudre`.
 
-Captures de cette phase : [[Historique des captures]] (section « Interface — phase 7 »).
+Captures de cette phase : [[Captures 2026-10-20#Interface — phase 7 (mini-jeux et énigmes)]].
 
