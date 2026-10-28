@@ -5,6 +5,7 @@ Demande de Mohand (28 oct. 2026) : trois modèles Meshy de la lignée du Dauphin
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 
 ## Fichiers
+- *Rangement (28 oct. 2026) : `Dauphin/Sauvegarde_avant_rig/` et `Sauvegarde_Dauphiracle_sans_texture/` sont dans `Dauphin/Sauvegardes/` ; rendus bruts et essais (`Sprites/brut`, `brut45`, `brut_B_sat13`, `24_images_B_sat13`, `Rendus/var_A` à `var2_G`, `Rendus/sprites_test`) dans `Dauphin/_Travail/` (même sous-dossier qu'avant). Les `.blend` et `Textures/` n'ont pas bougé.*
 - Sources (copies, originaux intacts dans `~/Downloads/Dauphi-/`) : `Claude outputs/Modeles 3D/Dauphin/Sources/`
   - `meshy_1793190553113.glb` (10,6 Mo, 258 000 sommets, 3 images)
   - `meshy_1793190758330.glb` (8,3 Mo, 197 000 sommets, 3 images)

@@ -1,6 +1,6 @@
 # Starters : plan en étapes
 
-> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]]. Les fichiers v01 à v03 de `Modeles 3D/Cramosaur/` (`.blend` de la racine, `Rig/`, `Sources/`, `Sprites/`, `Portraits/`, `Rendus/`, `Textures/`) sont maintenant dans `Cramosaur/Anciennes versions (v01-v03)/`, et les variantes refusées (`Version_brillante_abandonnee`, `Version_mate_contour_blender`) dans son `_Travail/Sprites/`.*
 
 Pour reprendre dans une nouvelle conversation, dire : « passons à l'étape N » (N = numéro ci-dessous). Claude lit ce fichier, annonce l'étape et le modèle conseillé, puis attend ton « oui ».
 

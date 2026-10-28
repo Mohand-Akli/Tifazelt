@@ -1,6 +1,6 @@
 # Portraits et Tiflask : plan en étapes
 
-> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]].*
+> *Rangement (28 oct. 2026) : plan terminé, rangé dans `Claude outputs/Passation Cowork/Terminés/`. Ce qui reste ouvert est suivi dans [[À décider et à faire]]. Les fichiers v01 à v03 de `Modeles 3D/Cramosaur/` (`.blend` de la racine, `Rig/`, `Sources/`, `Sprites/`, `Portraits/`, `Rendus/`, `Textures/`) sont maintenant dans `Cramosaur/Anciennes versions (v01-v03)/`, et les variantes refusées (`Version_brillante_abandonnee`, `Version_mate_contour_blender`) dans son `_Travail/Sprites/`.*
 
 Demande de Mohand (26 oct. 2026) : portraits de la Tifalistre et de l'Équipe à partir des rendus, puis une base de Tiflask (modèles) pour pouvoir ensuite faire le lancer de Tiflask, la sortie d'un Tifazelt de sa Tiflask, etc.
 
