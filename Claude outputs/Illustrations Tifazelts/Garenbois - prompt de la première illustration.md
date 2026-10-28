@@ -1,6 +1,6 @@
 # Garenbois : prompt de la première illustration (28 oct. 2026, PROVISOIRE)
 
-Starter **Plante** de la lignée du Lapin Protecteur : Garenbois (stade 1) → Garensouche (stade 2) → Garengarde (stade 3, Plante / Fée). Noms et lignée : `GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md`. Attaques du starter : Jet de Feuilles, Câlin Amical, Absorption de Vie, Protection Jumelière.
+Starter **Plante** de la lignée du Lapin Protecteur : Garenbois (stade 1) → Garensouche (stade 2) → Garengarde (stade 3, Plante / Fée). Noms et lignée : [[Noms des Tifazelts (propositions)]]. Attaques du starter : Jet de Feuilles, Câlin Amical, Absorption de Vie, Protection Jumelière.
 
 Claude n'a pas d'outil de génération d'image dans cette session : ce fichier contient le prompt à coller dans le générateur qui a fait les illustrations de Cramosaur et de Dauphimyst. Joindre ces deux illustrations (stade 1) comme références de style.
 
@@ -40,4 +40,4 @@ realistic fur, smooth subdivision, glossy plastic, chrome, neon glow, hands hold
 - **Garengarde** : rempart de la forêt, grands bois en couronne avec fleurs et feuillage, touches de Fée (pétales lumineux, rose et or), plus haute taille.
 
 ## Suite après validation de l'illustration
-Même chaîne que la lignée Cramosaur (voir `Claude outputs/Passation Cowork/Starters - plan.md`) : modèle 3D (Meshy) → rig → images de combat et portraits. Rien n'est lancé.
+Même chaîne que la lignée Cramosaur (voir [[Starters - plan]]) : modèle 3D (Meshy) → rig → images de combat et portraits. Rien n'est lancé.

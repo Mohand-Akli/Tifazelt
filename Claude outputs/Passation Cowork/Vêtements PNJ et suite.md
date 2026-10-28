@@ -46,7 +46,7 @@ ID des images :
 Le vault place le choix du starter au **Laboratoire Arid de Val Palmeraie** ; Mohand demande une interaction à Bourg-Azur (aussi pour les tests). Starters provisoires : Pyrofennec (Feu), Aqualune (Eau), Florépine (Plante), niveau 5. Le rival Zéphir prend le starter avantagé. Vérifier d'abord comment l'équipe est stockée (`DonneesTest`, `NouvellePartie`).
 
 ## 4. Autres chantiers récents (déjà faits et testés en Play le 20 oct.)
-Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman), pack d'animations Cartoony, gestes des PNJ par type, musiques par zone et combat, sons d'UI et voix de dialogue. Détails : `Claude outputs/Animations, déplacements et audio.md` et `GDD/07_Production_Roblox/À décider et à faire.md`.
+Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman), pack d'animations Cartoony, gestes des PNJ par type, musiques par zone et combat, sons d'UI et voix de dialogue. Détails : [[Animations, déplacements et audio]] et [[À décider et à faire]].
 
 ## Étape 2 faite le 26 oct. 2026 (Claude Code) : habillage des 68 PNJ
 - Appliqué sur les 68 PNJ du Workspace (hors copies de `ServerStorage`) : `Shirt`, `Pants`, Decal `face` de la tête, un seul accessoire de cheveux cloné depuis `Garderobe_Classique.Cheveux`. Choix par rôle (garde, infirmière, pêcheurs, boulangère, jardinier, Guilde, archéologue, anciens, enfants…), le reste varié par une rotation.
@@ -65,7 +65,7 @@ Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman)
 - **Non vérifié** : rendu visuel du Professeur (vêtements, cheveux), appui réel sur E, combat jusqu'au bout et objectif mis à jour, parcours complet depuis l'écran titre.
 
 ## Refonte de l'habillage : étape 3 (conception) faite le 26 oct. 2026 (Claude Code)
-- Mohand a choisi de refaire l'habillage. Nouvelle table des 69 PNJ (25 Bourg-Azur, 44 Route 1) : `GDD/07_Production_Roblox/Habillage des PNJ.md`, copie machine `Claude outputs/outils/habillage_pnj.json`.
+- Mohand a choisi de refaire l'habillage. Nouvelle table des 69 PNJ (25 Bourg-Azur, 44 Route 1) : [[Habillage des PNJ]], copie machine `Claude outputs/outils/habillage_pnj.json`.
 - Contrôlée par script : aucun couple Haut+Bas répété hors uniformes, aucune barbe sur femme ou enfant, pas de jupe sur homme, H29/B22 non utilisés.
 - **Rien n'a été écrit dans Studio.** Étape suivante : 4, appliquer la table (sauvegarde d'abord dans `Sauvegardes_PNJ`).
 
@@ -80,12 +80,12 @@ Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman)
 - Mohand fait l'étape 7 lui-même. Rien de ce qui suit n'est donc testé par Claude : rendu des 69 PNJ, « Parler » et « S'asseoir » au clavier, starter jusqu'au bout.
 
 ## Étape 8 faite le 26 oct. 2026 (Claude Code, Haiku) : mise à jour du vault
-- Notes mises à jour : `GDD/07_Production_Roblox/À décider et à faire.md` (PNJ manquants, tests de l'habillage et du starter).
+- Notes mises à jour : [[À décider et à faire]] (PNJ manquants, tests de l'habillage et du starter).
 - Audit lancé (voir résultat dans la réponse de Claude). Ctrl+S dans Studio rappelé à Mohand.
 
 ## Étape 7 refaite par Claude le 26 oct. 2026 (Sonnet) : test en Play d'une nouvelle partie
 - Mohand a redemandé que Claude fasse l'étape 7. Parcours joué : titre, Nouvelle partie, création, classes, chambre, porte, Professeur (E), choix d'Aqualune, combat contre Florépine (perdu deux fois), revanche, banc (F).
-- **Bug majeur : le combat d'apprentissage est injouable** (Florépine drain et soin, avantage de type, dégâts de 3-4 PV). Autres défauts : pénalité de 150 TFD, dialogue du Professeur non adapté après défaite, deux textes qui débordent, vocabulaire de labo, titre « AZZURSAL ». Détail et numéros dans `GDD/07_Production_Roblox/À décider et à faire.md` (« Bugs relevés en Play »).
+- **Bug majeur : le combat d'apprentissage est injouable** (Florépine drain et soin, avantage de type, dégâts de 3-4 PV). Autres défauts : pénalité de 150 TFD, dialogue du Professeur non adapté après défaite, deux textes qui débordent, vocabulaire de labo, titre « AZZURSAL ». Détail et numéros dans [[À décider et à faire]] (« Bugs relevés en Play »).
 - Rien n'a été corrigé ni modifié dans Studio (test seulement, Play arrêté). Rendu des PNJ : Professeur et Lina vérifiés de près ; 69/69 conformes côté serveur.
 - Mise à jour du paragraphe d'étape 7 ci-dessus : elle n'est plus « confiée à Mohand ».
 
@@ -93,8 +93,8 @@ Course (16→26), vélo (38, objet clé « Vélo » PROVISOIRE donné par Maman)
 - Sauvegardes : `ServerStorage.Sauvegardes_UI.{NouvellePartie,UI_Client}_avant_tutoriel`.
 - `UI.NouvellePartie.adversaireTutoriel(starter, rival)` : rival affaibli (une attaque faible sans drain ni soin, PV = 3 coups du starter). `UI_Client.lancerTutoriel` l'utilise.
 - Nouveau PNJ `Workspace.Map.Starter_BourgAzur.Zéphir Célestin` (rue devant le portail, `Service = Rival`, géré dans `UI_Client.ouvrirService`).
-- Testé en Play : nouvelle partie complète avec Aqualune, victoire, objectif mis à jour ; Zéphir visible, E ouvre son dialogue, « Combattre » sans starter affiche le bon message. Détail et points à valider dans `GDD/07_Production_Roblox/À décider et à faire.md`.
+- Testé en Play : nouvelle partie complète avec Aqualune, victoire, objectif mis à jour ; Zéphir visible, E ouvre son dialogue, « Combattre » sans starter affiche le bon message. Détail et points à valider dans [[À décider et à faire]].
 - Ctrl+S à faire dans Studio.
 
 ## Bugs 2 à 7 traités le 26 oct. 2026 (Claude Code, Opus)
-- Suite du travail suivie dans `Feuille de route 26-27 oct.md`. Détail des corrections et des tests dans `GDD/07_Production_Roblox/À décider et à faire.md` > « Bugs relevés en Play ».
+- Suite du travail suivie dans [[Feuille de route 26-27 oct]]. Détail des corrections et des tests dans [[À décider et à faire]] > « Bugs relevés en Play ».

@@ -127,7 +127,7 @@ Tifazelt/
 | 0 | État des lieux et plan | Opus (vue d'ensemble, décisions d'organisation) | Fait le 28 oct. 2026 |
 | 1 | Sauvegarde complète hors du vault (D1), contrôle du nombre de fichiers et de la taille ; git : `.gitignore` (D2), retrait de git des `.DS_Store`, `workspace.json` et `.blend1`, commit « avant rangement » (sans envoi) | Haiku (mécanique) | Fait le 28 oct. 2026 (commit `8ce99bf`) |
 | 2 | Petit nettoyage sans risque : ~~effacement de `.tmp.driveupload` enregistré~~ (fait à l'étape 1) ; `__pycache__` ; `assets/icons` vide ; 6 captures sans heure et `test.png` → `Claude outputs/Archives/` | Haiku (mécanique) | Fait le 28 oct. 2026 |
-| 3 | Chemins de notes écrits en dur (`` `Claude outputs/Passation Cowork/...md` `` dans À décider, Habillage, Bourg-Azur, Noms des Tifazelts, plans) remplacés par des liens Obsidian, qui suivent les déplacements ; liste des chemins de fichiers (non-notes) à mettre à jour aux étapes 9 et 10 | Sonnet (remplacements par script, vérifiés) | À faire |
+| 3 | Chemins de notes écrits en dur (`` `Claude outputs/Passation Cowork/...md` `` dans À décider, Habillage, Bourg-Azur, Noms des Tifazelts, plans) remplacés par des liens Obsidian, qui suivent les déplacements ; liste des chemins de fichiers (non-notes) à mettre à jour aux étapes 9 et 10 | Sonnet (remplacements par script, vérifiés) | Fait le 28 oct. 2026 |
 | 4 | `Historique des captures` : une note par jour, sommaire corrigé (436 captures du 15 au 28 oct., tableau par thème recompté), sections mal datées remises au bon jour ; images selon D3 | Sonnet (découpage par script) | À faire |
 | 5 | `Interface (UI) - Construction Roblox` : sommaire + Phase 0 à Phase 7 + Pièges Roblox ; liens vers une section réécrits vers la bonne partie | Sonnet | À faire |
 | 6 | `Bourg-Azur - Construction et Direction Artistique` : sommaire + environ 6 parties (intention et DA, portes et intérieurs, corrections et missions, fontaine et paysage, habitants et secrets, technique et où trouver quoi) | Sonnet | À faire |
@@ -137,6 +137,23 @@ Tifazelt/
 | 10 | Modèles 3D : `_Travail/` (bruts, essais, variantes refusées), `Sauvegardes/`, `Anciennes versions (v01-v03)/` (D8) ; chemins des `.blend` relus avant et après (ils doivent être identiques) ; chemins des plans et scripts mis à jour | Sonnet (vérification des fichiers Blender) | À faire |
 | 11 | Index : `Accueil.md` réécrit (où se trouve chaque chose, vault et développement) ; graphe et fichiers exclus (D7) ; signets ; README (arborescence) ; CLAUDE.md (chantier en cours) ; mémoire de Claude si un chemin a changé | Sonnet (rédaction structurée) | À faire |
 | 12 | Vérification finale : audit (0 conflit, 0 note vide, 0 lien cassé) ; contrôle élargi (chaque lien et chaque image intégrée trouvés, noms uniques, chemins écrits en dur existants, fichiers lus par les `.blend` présents) ; `audit.py` allégé (il affiche aujourd'hui 265 Ko de doublons de fichiers 3D sans intérêt) ; commit ; Mohand ouvre Obsidian et regarde l'Accueil et le graphe | Haiku (Sonnet pour `audit.py`) | À faire |
+
+## Chemins à mettre à jour aux étapes 9 à 11 (relevé de l'étape 3)
+Seuls les chemins vers des dossiers ou fichiers qui vont bouger sont listés. Les plans terminés gardent leurs chemins tels quels (journal historique) ; on ajoute seulement une ligne qui renvoie au nouvel emplacement si nécessaire.
+
+| Fichier qui cite le chemin | Chemin cité | Étape |
+|---|---|---|
+| `CLAUDE.md` | `Claude outputs/Passation Cowork/Vêtements PNJ et suite.md` (section « Chantier en cours ») | 11 |
+| `GDD/07_Production_Roblox/00. Production Roblox.md` | `src/Backup1.rbxl` | 9 |
+| `README.md` | `src/`, `assets/icons/`, arborescence entière | 11 |
+| `Vêtements PNJ et suite.md` | `Roblox_Textures/Vetements_PNJ/` | 9 |
+| `Starters - plan.md` | `Cramosaur/Rendu_Sprites.blend`, `Cramosaur/Rig/`, `Cramosaur/Sources/`, `Version_brillante_abandonnee`, `Version_mate_contour_blender` | 10 |
+| `Portraits et Tiflask - plan.md` | `Cramosaur/Portraits/` | 10 |
+| `Lignée Cramosaur v04 - plan.md` | `V04/Sauvegarde_avant_trous/` | 10 |
+| `Lignée Dauphin - plan.md` | `Sauvegarde_avant_rig/`, `Sauvegarde_Dauphiracle_sans_texture/`, `brut_B_sat13/`, `24_images_B_sat13/`, `45_images_essai_decentre/` | 10 |
+| `Dauphin/Scripts/construire_rendu_sprites.py`, `rendre_sprites.py`, `rendre_portraits.py` | chemins absolus vers `Modeles 3D/Cramosaur/V04/` et `Modeles 3D/Dauphin/` (ne bougent pas : rien à changer si D4 et D8 sont respectés) | 10 (contrôle) |
+
+Les liens vers des notes (plans, `Animations, déplacements et audio`, `Noms des Tifazelts (propositions)`, etc.) sont maintenant des liens Obsidian : ils suivent les déplacements sans rien changer.
 
 ## Journal
 - 28 oct. 2026 : état des lieux fait (lecture seule, aucun fichier déplacé ni modifié en dehors de ce plan). Plan écrit. En attente de la validation de Mohand et des réponses D1 à D8.
@@ -151,3 +168,4 @@ Tifazelt/
   - `Roblox_Textures/test.png` → `Claude outputs/Archives/Roblox_Textures_test.png` (renommé pour garder son origine).
   - Déplacements faits avec `git mv` ; aucune note ni aucun script ne citait ces fichiers.
   - Effacés (présents dans la copie de sauvegarde, vérifiés à l'octet près) : `Dauphin/Scripts/__pycache__/` (cache Python recréé automatiquement) et le dossier vide `assets/icons/` (le README le cite encore : à corriger à l'étape 11).
+- 28 oct. 2026 : étape 3 faite. 49 chemins de notes écrits en dur (entre accents graves) remplacés par des liens Obsidian dans 15 notes : 11 plans de passation et le prompt Garenbois, `À décider et à faire`, `Habillage des PNJ`, `Bourg-Azur - Construction et Direction Artistique`, `Noms des Tifazelts (propositions)`. Seul le chemin a changé (diff relu mot à mot : 49 lignes modifiées, rien d'autre). Non modifiés : `CLAUDE.md` (Claude a besoin des chemins) et ce plan. Audit : 0 lien cassé ; notes jamais liées : de 16 à 4 (README, CLAUDE.md, l'exemple Gemini Scribe, ce plan). Relevé des chemins de fichiers à mettre à jour : section ci-dessus.

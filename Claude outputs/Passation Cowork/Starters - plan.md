@@ -5,8 +5,8 @@ Pour reprendre dans une nouvelle conversation, dire : « passons à l'étape N �
 ## Contexte (26 oct. 2026)
 - Starters retenus par Mohand : **Garenbois** (Plante, lignée du Lapin Protecteur), **Dauphimyst** (Eau / Psy, lignée du Dauphin), **Cramosaur** (Feu / Obscurité, lignée du Dinosaure).
 - À remplacer dans le jeu : Pyrofennec, Aqualune, Florépine (provisoires).
-- Détail des noms et lignées : `GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md`.
-- Règle du vault : Zéphir choisit le starter qui a l'avantage élémentaire sur celui du joueur (`GDD/03_Tifazelts_et_Combats/7. Tifazelts/00. Définition.md`).
+- Détail des noms et lignées : [[Noms des Tifazelts (propositions)]].
+- Règle du vault : Zéphir choisit le starter qui a l'avantage élémentaire sur celui du joueur ([[00. Définition]]).
 
 ## Étapes
 
@@ -32,8 +32,8 @@ Ces étapes précisent et remplacent l'étape 10. Tout est PROVISOIRE tant que M
 | 12 | Rig dans Blender (méthode B) : squelette de 21 os et poids pour les 3 modèles | Opus | Fait le 26 oct. 2026 : rigs importés par Mohand (21 os par modèle dans `Tifazelts.Modeles`), animés dans Roblox (Tifazelt qui suit le joueur) |
 | 13 | Animations de base : repos (idle), marche, attaque, touché, K.O., apparition. Module procédural `ReplicatedStorage.Tifazelts.Animation` (Bone.Transform, client uniquement) | Sonnet | Fait le 26 oct. 2026 ; utilisé par le Tifazelt qui suit le joueur (apparition et attente vues à l'écran ; marche vérifiée seulement par les données) |
 | 14 | Combat : afficher le Tifazelt en 3D animé dans `UI/CombatUI.Scene` | Opus (fait avec Sonnet) | Remplacée le 26 oct. 2026 par des images pré-rendues dans Blender (`Tifazelts.Sprite`, rendu mat et saturé validé par Mohand), testées en Play avec Cramosaur ; Cramoraptor et Cramorex vus seulement sur un banc d'essai |
-| 15 | Sortie dans la nature : action « Sortir / Rentrer » sur un membre de l'équipe, le Tifazelt apparaît près du joueur, le suit, rentre. Pas en combat, pas en intérieur (PROVISOIRE) | Opus | Fait le 26 oct. 2026 pour la lignée Cramosaur (voir `Sortie du Tifazelt - plan.md`) |
-| 16 | Portraits (rendus de chaque modèle) dans `Ecrans.Tifalistre` et `Ecrans.Equipe` | Sonnet | Fait le 26 oct. 2026 pour la lignée Cramosaur (`Kit.portrait`, voir `Portraits et Tiflask - plan.md`) |
+| 15 | Sortie dans la nature : action « Sortir / Rentrer » sur un membre de l'équipe, le Tifazelt apparaît près du joueur, le suit, rentre. Pas en combat, pas en intérieur (PROVISOIRE) | Opus | Fait le 26 oct. 2026 pour la lignée Cramosaur (voir [[Sortie du Tifazelt - plan]]) |
+| 16 | Portraits (rendus de chaque modèle) dans `Ecrans.Tifalistre` et `Ecrans.Equipe` | Sonnet | Fait le 26 oct. 2026 pour la lignée Cramosaur (`Kit.portrait`, voir [[Portraits et Tiflask - plan]]) |
 | 17 | Mise à jour du vault, audit, rappel Ctrl+S | Haiku | Fait le 26 oct. 2026 |
 
 Choix à faire pour l'étape 12 :

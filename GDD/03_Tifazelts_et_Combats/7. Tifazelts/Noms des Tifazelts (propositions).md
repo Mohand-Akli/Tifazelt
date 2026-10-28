@@ -68,5 +68,5 @@ Racine : **Spectro-**
 ## À vérifier
 * Les types sont tirés de [[10. Table des types]] (tous existants). Les types indiqués ici sont ceux proposés, pas encore validés dans les fiches.
 * Codés dans Roblox Studio (26 oct. 2026) : Cramosaur, Dauphimyst et Garenbois comme starters (types du premier stade : Feu, Eau, Plante), et Cramoraptor comme évolution de test.
-* Depuis le 27 oct. 2026, les 20 noms sont dans le jeu (`Combat.Especes`, Tifalistre), avec numéros, stats et niveaux d'évolution PROVISOIRES ; double type seulement à la forme finale pour les starters (Cramorex Feu / Obscurité, Dauphiracle Eau / Psy, Garengarde Plante / Fée). Les Tifazelts de test inventés par Claude sont retirés. Détail : `Claude outputs/Passation Cowork/v04, Tifalistre, PNJ, intro de combat et vélos - plan.md`.
+* Depuis le 27 oct. 2026, les 20 noms sont dans le jeu (`Combat.Especes`, Tifalistre), avec numéros, stats et niveaux d'évolution PROVISOIRES ; double type seulement à la forme finale pour les starters (Cramorex Feu / Obscurité, Dauphiracle Eau / Psy, Garengarde Plante / Fée). Les Tifazelts de test inventés par Claude sont retirés. Détail : [[v04, Tifalistre, PNJ, intro de combat et vélos - plan]].
 * Les starters ont été choisis par Mohand : Garenbois, Dauphimyst, Cramosaur (voir section Starters). Leurs types en jeu restent à vérifier.

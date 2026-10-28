@@ -1,6 +1,6 @@
 # Habillage des PNJ — table (refonte du 26 oct. 2026)
 
-Table conçue à l'étape 3 du plan « Vêtements PNJ » (voir `Claude outputs/Passation Cowork/Vêtements PNJ et suite.md`). **Appliquée dans Studio le 26 oct. 2026** (étape 4) : `Shirt`, `Pants`, Decal `face`, accessoire de cheveux soudé à la tête et attributs `Haut`, `Bas`, `Visage`, `Coiffure`. Sauvegarde de l'habillage précédent : `ServerStorage.Sauvegardes_PNJ.Habillage_avant_refonte`. Vérifié par les données (69/69). **Rendu en Play non vérifié.** Copie machine : `Claude outputs/outils/habillage_pnj.json`.
+Table conçue à l'étape 3 du plan « Vêtements PNJ » (voir [[Vêtements PNJ et suite]]). **Appliquée dans Studio le 26 oct. 2026** (étape 4) : `Shirt`, `Pants`, Decal `face`, accessoire de cheveux soudé à la tête et attributs `Haut`, `Bas`, `Visage`, `Coiffure`. Sauvegarde de l'habillage précédent : `ServerStorage.Sauvegardes_PNJ.Habillage_avant_refonte`. Vérifié par les données (69/69). **Rendu en Play non vérifié.** Copie machine : `Claude outputs/outils/habillage_pnj.json`.
 
 IDs des images : voir la note de passation. H29 et B22 sont introuvables : non utilisés.
 

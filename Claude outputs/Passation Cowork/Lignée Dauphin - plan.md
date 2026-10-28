@@ -1,6 +1,6 @@
 # Lignée Dauphin : plan en étapes
 
-Demande de Mohand (28 oct. 2026) : trois modèles Meshy de la lignée du Dauphin (Eau / Psy, `GDD/03_Tifazelts_et_Combats/7. Tifazelts/Noms des Tifazelts (propositions).md` : Dauphimyst, Dauphiclos, Dauphiracle). Pour chacun : réparer le modèle, le rigger, l'animer, régler les couleurs et la saturation, l'importer dans le jeu avec son image dans le Tifalistre, et une animation de combat. Même chemin que la lignée Cramosaur v04.
+Demande de Mohand (28 oct. 2026) : trois modèles Meshy de la lignée du Dauphin (Eau / Psy, [[Noms des Tifazelts (propositions)]] : Dauphimyst, Dauphiclos, Dauphiracle). Pour chacun : réparer le modèle, le rigger, l'animer, régler les couleurs et la saturation, l'importer dans le jeu avec son image dans le Tifalistre, et une animation de combat. Même chemin que la lignée Cramosaur v04.
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 
@@ -23,7 +23,7 @@ Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 ## Règles
 - Rien n'est retiré sans sauvegarde. Les fichiers Blender et textures vont dans `Claude outputs/Modeles 3D/Dauphin/` (un fichier de travail, pas l'original).
 - Les Tifazelts Cramosaur ne sont pas touchés.
-- Tout ce qui n'est pas défini dans le vault (noms, couleurs, animations de repos et de nage, mise en scène du combat) est **PROVISOIRE** : à noter dans `GDD/07_Production_Roblox/À décider et à faire.md`.
+- Tout ce qui n'est pas défini dans le vault (noms, couleurs, animations de repos et de nage, mise en scène du combat) est **PROVISOIRE** : à noter dans [[À décider et à faire]].
 - Ne jamais dire qu'une étape est testée sans l'avoir été : séparer « testé » et « non vérifié ».
 
 ## Étapes

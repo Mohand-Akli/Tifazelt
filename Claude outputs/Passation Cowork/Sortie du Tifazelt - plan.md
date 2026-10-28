@@ -1,11 +1,11 @@
 # Sortie du Tifazelt dans le monde : plan en étapes
 
-Demande de Mohand (26 oct. 2026) : « On branche la sortie de ton Tifazelt sur une action du joueur ». Suite de l'étape 6 de `Portraits et Tiflask - plan.md` et de l'étape 15 de `Starters - plan.md`.
+Demande de Mohand (26 oct. 2026) : « On branche la sortie de ton Tifazelt sur une action du joueur ». Suite de l'étape 6 de [[Portraits et Tiflask - plan]] et de l'étape 15 de [[Starters - plan]].
 
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 
 ## Ce que dit le vault
-Rien sur un Tifazelt qui accompagne le joueur hors combat. Tout ce qui suit est **PROVISOIRE** (noté dans `GDD/07_Production_Roblox/À décider et à faire.md`).
+Rien sur un Tifazelt qui accompagne le joueur hors combat. Tout ce qui suit est **PROVISOIRE** (noté dans [[À décider et à faire]]).
 
 ## Choix de travail (PROVISOIRES)
 - **Action** : touche **R** (PC), **croix bas** (manette), bouton rond **SORTIR / RENTRER** (mobile, au-dessus de COURIR) : sort le leader de l'équipe, ou le rentre s'il est dehors. Dans la **Fiche** d'un Tifazelt : bouton « Sortir » / « Rentrer » pour le membre affiché.

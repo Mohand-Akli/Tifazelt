@@ -1,6 +1,6 @@
 # Vérifications de Mohand : 27 oct. 2026
 
-Ce que toi seul peux voir dans un Play au premier plan. Coche ce qui marche, écris « non » à côté de ce qui ne marche pas, et renvoie-moi les numéros. Plan associé : `v04, Tifalistre, PNJ, intro de combat et vélos - plan.md` (étapes 1 à 7).
+Ce que toi seul peux voir dans un Play au premier plan. Coche ce qui marche, écris « non » à côté de ce qui ne marche pas, et renvoie-moi les numéros. Plan associé : [[v04, Tifalistre, PNJ, intro de combat et vélos - plan]] (étapes 1 à 7).
 
 ## Avant de commencer
 - [ ] Dans Studio : **Ctrl+S**. Rien n'est enregistré tant que tu ne le fais pas (scripts, modèles et magasin créés aujourd'hui).

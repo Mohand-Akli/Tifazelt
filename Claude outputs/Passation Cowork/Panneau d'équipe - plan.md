@@ -5,7 +5,7 @@ Demande de Mohand (26 oct. 2026), d'après une capture de Cobblemon : un panneau
 Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 
 ## Ce que dit le vault
-Rien sur un panneau d'équipe en exploration (le HUD du vault : objectif, TFD, bouton MENU). Tout ce qui suit est **PROVISOIRE** (noté dans `GDD/07_Production_Roblox/À décider et à faire.md`).
+Rien sur un panneau d'équipe en exploration (le HUD du vault : objectif, TFD, bouton MENU). Tout ce qui suit est **PROVISOIRE** (noté dans [[À décider et à faire]]).
 
 ## Choix de travail (PROVISOIRES)
 - **Place** : bord gauche, centré en hauteur, sous la carte « Objectif ». Six cartes biseautées qui débordent du bord gauche, comme les rangées de l'écran Équipe. La carte choisie avance d'un cran et prend un liseré terracotta.

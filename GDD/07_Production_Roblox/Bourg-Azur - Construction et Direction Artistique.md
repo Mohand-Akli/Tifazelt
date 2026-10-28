@@ -235,7 +235,7 @@ Ce sont des secrets discrets, sans récompense, à découvrir en explorant. Une 
 | Générateur des intérieurs (refonte du 20 oct.) | `ServerStorage.MapGeneration.BourgAzur.Passe3_Interieurs` (Kit + une pièce par module, mode d'emploi `LISEZMOI`) |
 | Sauvegarde des anciens intérieurs | `ServerStorage.Sauvegardes_Interieurs.<Nom>_avant` |
 | Générateur des ruelles (Figuiers, Bougainvillées, Impasse du Levant, Chemin des Pêcheurs) | `ServerStorage.MapGeneration.BourgAzur.Passe3.Remplissage`, corrigé le 28 oct. 2026 : il dressait les raccords des ruelles et cassait les fontaines des placettes (rotation en trop, diamètre et hauteur inversés) |
-| Chantier « Bourg-Azur parfait » (28 oct. 2026) | Plan et journal : `Claude outputs/Passation Cowork/Bourg-Azur parfait - plan.md` ; détecteurs : `Claude outputs/outils/Bourg-Azur - détecteurs.lua` ; sauvegardes : `ServerStorage.BourgAzur_Sauvegarde_Parfait` |
+| Chantier « Bourg-Azur parfait » (28 oct. 2026) | Plan et journal : [[Bourg-Azur parfait - plan]] ; détecteurs : `Claude outputs/outils/Bourg-Azur - détecteurs.lua` ; sauvegardes : `ServerStorage.BourgAzur_Sauvegarde_Parfait` |
 | Ambiance intérieure (client) | `StarterPlayerScripts.Interieurs_Ambiance` |
 | Portes et assises (serveur) | `ServerScriptService.BourgAzur_Portes` |
 | Animations, bulles, secrets (client) | `StarterPlayerScripts.BourgAzur_Client` |

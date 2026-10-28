@@ -18,7 +18,7 @@ Pour reprendre dans une nouvelle conversation : « passons à l'étape N ».
 | 3 | Tiflask 3D dans Roblox : modèle en pièces fidèle au modèle Blender (prêt tout de suite, recolorable), rangé dans `ReplicatedStorage.Tiflasks` ; export FBX du modèle Blender si on préfère un maillage | Fait le 26 oct. 2026 |
 | 4 | Base des systèmes : module `Tiflasks` (types et couleurs, création du modèle, lancer en arc, ouverture, sortie d'un Tifazelt) côté client, et animation de capture du combat avec le sprite | Fait le 26 oct. 2026 (base ; pas encore branché sur une action du joueur) |
 | 5 | Tests en Play, captures, mise à jour du vault, audit, rappel Ctrl+S | Fait le 26 oct. 2026 (voir journal : ce qui est testé et ce qui ne l'est pas) |
-| 6 | Suite proposée : brancher le lancer sur une action du joueur (sortir / rentrer un membre de l'équipe dans le monde, étape 15 de `Starters - plan.md`), réplication serveur, son, Tiflask d'Amitié en vente et son effet (250 de bonheur) | Sortie / rentrée et réplication faites le 26 oct. 2026 (`Sortie du Tifazelt - plan.md`). Reste : vrais sons, Tiflask d'Amitié |
+| 6 | Suite proposée : brancher le lancer sur une action du joueur (sortir / rentrer un membre de l'équipe dans le monde, étape 15 de [[Starters - plan]]), réplication serveur, son, Tiflask d'Amitié en vente et son effet (250 de bonheur) | Sortie / rentrée et réplication faites le 26 oct. 2026 ([[Sortie du Tifazelt - plan]]). Reste : vrais sons, Tiflask d'Amitié |
 
 ## Journal
 - 26 oct. 2026 : plan établi.
