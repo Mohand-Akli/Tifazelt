@@ -29,10 +29,10 @@ Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Lumérid
 - `Claude outputs/Passation Cowork/Bourg-Azur parfait - plan.md` : étapes 6 (ajouts PROVISOIRES) et 7 (contrôle final) à faire.
 - `Claude outputs/Passation Cowork/Lignée Dauphin - plan.md` : étape 9, tests en Play par Mohand.
 - `Claude outputs/Passation Cowork/Vérifications de Mohand - 27 oct. 2026.md` : tests à faire par Mohand.
-- `Claude outputs/Passation Cowork/Rangement du dossier - plan.md` : étape 12 (vérification finale).
 - Choix en attente : `GDD/07_Production_Roblox/À décider et à faire/À décider - Relecture du 28 oct. 2026.md` (41 choix numérotés).
 
 ## Rangement du vault (depuis le 28 oct. 2026)
+Plan et journal du rangement : `Claude outputs/Passation Cowork/Terminés/Rangement du dossier - plan.md`.
 - Une note trop longue est découpée ainsi : le sommaire garde son nom et sa place, les parties vont dans le dossier du même nom, juste à côté. Liens Obsidian par nom de note, jamais par chemin.
 - Ne pas déplacer ni renommer `Claude outputs/Modeles 3D/`, `Cramosaur/V04/`, `Dauphin/` et leurs `Textures/` : des `.blend` et des scripts y pointent par chemin absolu.
 - Rendus bruts, essais et variantes refusées : dans un dossier `_Travail/` (ignoré par git). Anciennes sauvegardes de fichiers : dans `Sauvegardes/`. Fichiers sans usage : `Claude outputs/Archives/`.

@@ -1,4 +1,8 @@
 import os,re,sys,json,collections,unicodedata
+# Audit du vault : python3 "Claude outputs/outils/audit.py" .
+# Conflits git, notes vides, doublons de nom (notes et fichiers cités), liens et ancres cassés,
+# notes sans lien entrant, chemins écrits en dur (`Claude outputs/...`, `GDD/...`, `assets/...`) introuvables
+# (sauf dans les plans archivés de `Passation Cowork/Terminés/`, qui gardent volontairement leurs chemins d'origine).
 root=sys.argv[1]
 N=lambda s: unicodedata.normalize('NFC',s)
 files=[]
@@ -24,8 +28,16 @@ for f in md:
         for a in re.findall(r'^\s*-\s*(.+)$',fm.group(1).split('aliases:')[-1],re.M) if 'aliases:' in fm.group(1) else []:
             alias[N(a.strip().strip('"\''))]=f
 link=re.compile(r'(!?)\[\[([^\]\|#]*)(#[^\]\|]*)?(\|[^\]]*)?\]\]')
+chemin=re.compile(r'`((?:Claude outputs|GDD|assets)/[^`\n]*)`')
 broken=collections.Counter(); brokenh=collections.Counter(); inlinks=collections.Counter(); where=collections.defaultdict(set)
-conflicts=[]; empty=[]
+conflicts=[]; empty=[]; cites=set(); chemins_absents=[]
+def existe(p):
+    for q in (N(p),unicodedata.normalize('NFD',p)):
+        full=os.path.join(root,q)
+        if os.path.exists(full): return True
+        d,b=os.path.split(full)
+        if b and os.path.isdir(d) and any(N(x).startswith(N(b)) for x in os.listdir(d)): return True
+    return False
 for f in md:
     t=open(os.path.join(root,f),encoding='utf-8',errors='replace').read()
     if re.search(r'^(<<<<<<<|>>>>>>>|=======$)',t,re.M): conflicts.append(f)
@@ -38,22 +50,33 @@ for f in md:
             c=byname.get(base) or byname.get(base+'.md') or ([alias[tgt]] if tgt in alias else None)
             if not c: broken[tgt]+=1; where[tgt].add(f); continue
             tf=c[0]
+            if not tf.endswith('.md'): cites.add(N(os.path.basename(tf)))
         inlinks[tf]+=1
         if h and tf.endswith('.md'):
             hh=N(re.sub(r'[\*\_`]','',h[1:])).strip().lower().rstrip("\\").strip()
             if hh.startswith('^'): continue
             if hh not in heads.get(tf,set()): brokenh[(tf,h[1:])]+=1; where[('H',tf,h[1:])].add(f)
-dups={k:v for k,v in byname.items() if len(set(v))>1 and not k.endswith('.md')}
-mode=sys.argv[2] if len(sys.argv)>2 else 'summary'
-gdd=[f for f in md if not f.startswith('CSV import')]
-print('notes md',len(md),'hors CSV',len(gdd))
+    if '/Passation Cowork/Terminés/' in N(f): continue
+    for m in chemin.finditer(t):
+        p=m.group(1).strip().rstrip('.,;:')
+        if any(x in p for x in ('<','*','…','...','AAAA','{')): continue
+        if not existe(p): chemins_absents.append((f,p))
+dups={k:sorted(set(v)) for k,v in byname.items() if len(set(v))>1 and not k.endswith('.md')}
+notes_doublons={k:v for k,v in dups.items() if all(x.endswith('.md') for x in v)}
+fichiers_cites_doublons={k:v for k,v in dups.items() if k in cites}
+autres=len([k for k in dups if k not in notes_doublons and k not in fichiers_cites_doublons and '.' in k])
+attaques=[f for f in md if '/8. Attaques/' in f]
+print('notes md',len(md),'dont fiches d\'attaques',len(attaques))
 print('conflits',conflicts); print('vides',empty)
-print('doublons de nom',{k:v for k,v in dups.items()})
+print('doublons de nom (notes)',notes_doublons)
+print('doublons de nom (fichiers cités dans les notes)',fichiers_cites_doublons)
+print('autres fichiers au nom en double (copies de travail, non cités)',autres)
 print('liens cassés',sum(broken.values()),'cibles',len(broken))
 for k,v in broken.most_common(200): print('  ',v,k,'<-',sorted(where[k])[:4])
 print('ancres cassées',sum(brokenh.values()))
 for (tf,h),v in brokenh.most_common(200): print('  ',v,tf.split('/')[-1],'#',h,'<-',sorted(where[('H',tf,h)])[:3])
-orph=[f for f in gdd if inlinks[f]==0]
-print('orphelins hors CSV',orph)
-csvorph=sum(1 for f in md if f.startswith('CSV import') and inlinks[f]==0)
-print('CSV import sans lien entrant',csvorph)
+orph=[f for f in md if inlinks[f]==0 and f not in attaques]
+print('orphelins hors fiches d\'attaques',orph)
+print('fiches d\'attaques sans lien entrant (lues par 8. Liste des attaques.base)',sum(1 for f in attaques if inlinks[f]==0))
+print('chemins écrits en dur introuvables',len(chemins_absents))
+for f,p in chemins_absents: print('  ',f,'->',p)
