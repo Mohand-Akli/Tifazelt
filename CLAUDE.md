@@ -29,6 +29,7 @@ Ce dossier est le vault Obsidian du jeu Roblox **Tifazelt** (région de Lumérid
 - `Claude outputs/Passation Cowork/Bourg-Azur parfait - plan.md` : étapes 6 (ajouts PROVISOIRES) et 7 (contrôle final) à faire.
 - `Claude outputs/Passation Cowork/Lignée Dauphin - plan.md` : étape 9, tests en Play par Mohand.
 - `Claude outputs/Passation Cowork/Vérifications de Mohand - 27 oct. 2026.md` : tests à faire par Mohand.
+- `Claude outputs/Passation Cowork/Restructuration du vault - plan.md` : plan écrit le 28 oct. 2026, en attente de la validation de Mohand (décisions R1 à R9).
 - Choix en attente : `GDD/07_Production_Roblox/À décider et à faire/À décider - Relecture du 28 oct. 2026.md` (41 choix numérotés).
 
 ## Rangement du vault (depuis le 28 oct. 2026)

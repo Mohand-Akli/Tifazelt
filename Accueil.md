@@ -14,7 +14,7 @@ aliases:
 ## 🧭 Pour commencer
 - **Ce qui reste à décider ou à faire** : [[À décider et à faire]], dont les 41 choix de la relecture : [[À décider - Relecture du 28 oct. 2026]].
 - **Ce qui est construit dans Studio** : [[00. Production Roblox]].
-- **Plans en cours** (à reprendre avec « passons à l'étape N ») : [[Bourg-Azur parfait - plan]] · [[Lignée Dauphin - plan]] · [[Vérifications de Mohand - 27 oct. 2026]].
+- **Plans en cours** (à reprendre avec « passons à l'étape N ») : [[Bourg-Azur parfait - plan]] · [[Lignée Dauphin - plan]] · [[Vérifications de Mohand - 27 oct. 2026]] · [[Restructuration du vault - plan]] (à valider).
 - **Consignes pour Claude** : `CLAUDE.md`, à la racine du dossier.
 
 ## 🟡 Game design — `GDD/01_Game_Design_Core`
